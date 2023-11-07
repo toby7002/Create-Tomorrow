@@ -220,6 +220,11 @@ hash = "705e5955865dc5ece9c044d9af5dcf0f8acbca54f3b9cced2d5a3ed77b62851a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
