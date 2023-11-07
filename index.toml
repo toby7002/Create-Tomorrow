@@ -3,3 +3,28 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "f5bf37ac402f55bf96f3fe37864ded76e93001902fda3c7c9b4e6a6ee5426d86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "705e5955865dc5ece9c044d9af5dcf0f8acbca54f3b9cced2d5a3ed77b62851a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguidark.pw.toml"
+hash = "4459edd7a397e3a076fbb2a533e1e8b6ffc3047f35e09192c854cbf5ea2fde3c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
+metafile = true

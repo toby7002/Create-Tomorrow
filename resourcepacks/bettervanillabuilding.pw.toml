@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding"
+filename = "BetterVanillaBuildingV2.91.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBcosBrl/versions/eUy15igI/BetterVanillaBuildingV2.91.2.zip"
+hash-format = "sha1"
+hash = "70efde1a9c33a06c9d26815a9b5a9d2e5aeca343"
+
+[update]
+[update.modrinth]
+mod-id = "LBcosBrl"
+version = "eUy15igI"
