@@ -175,6 +175,11 @@ hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "fd954f7957b2e9b4be25004eb6956606ecf57d7ddfe96643af2579f024517daa"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
@@ -217,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "e75660a582b301eade146f46e6c879a9946a68d1163a9282fba3476182e258ea"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "aa752298c14f248526b0ceab443cf01a2d4a933a2b73a3efaebc976a6d5fc973"
 metafile = true
 
 [[files]]
