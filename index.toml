@@ -5,6 +5,61 @@ file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "44fb9a1e27142f13144060fbf8eaf84a4ff88089497d37077a708de3dbe23411"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "c9094f87ee72bf20af1e5897c809fa9f76037e82a6b69d7d3bf6f4e2fbcab0fb"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "f5bf37ac402f55bf96f3fe37864ded76e93001902fda3c7c9b4e6a6ee5426d86"
 metafile = true
