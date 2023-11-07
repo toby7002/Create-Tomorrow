@@ -85,6 +85,11 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "e75660a582b301eade146f46e6c879a9946a68d1163a9282fba3476182e258ea"
 metafile = true
 
 [[files]]
@@ -227,11 +237,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "4459edd7a397e3a076fbb2a533e1e8b6ffc3047f35e09192c854cbf5ea2fde3c"
 metafile = true
 
 [[files]]
