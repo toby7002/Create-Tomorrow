@@ -5,6 +5,16 @@ file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "58f9b55c0998e0df2eaeea259e1bd181a3c4eb93f32824bdac565cec66f94880"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "721ce7c5bbf5e719cbbc5d9bbb326dbe3469c9ed876423bfd89972d7da69059e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -37,6 +47,16 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "a1543381f5e97b151f68ca747532dc3f24946be87f39b1f2ad3dc40fc4613d76"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "d07327811b3ed617a25af4b9e114358320840c83c34e8a14079a797d24394e79"
 metafile = true
 
 [[files]]

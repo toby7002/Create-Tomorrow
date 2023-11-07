@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-10.1.0-alpha.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/wU3CLj1c/expandedstorage-10.1.0-alpha.1%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "8a35b7b82eed89644b03f49b02a213e192226263"
+
+[update]
+[update.modrinth]
+mod-id = "F56tBubk"
+version = "wU3CLj1c"
