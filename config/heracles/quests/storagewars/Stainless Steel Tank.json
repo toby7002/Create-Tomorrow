@@ -1,0 +1,34 @@
+{
+  "dependencies": [
+    "Aluminum Tank"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -80,
+          80
+        ]
+      }
+    },
+    "icon": {
+      "item": "modern_industrialization:stainless_steel_tank",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Stainless Steel Tank"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

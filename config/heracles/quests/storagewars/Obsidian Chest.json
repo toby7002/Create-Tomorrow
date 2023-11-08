@@ -1,11 +1,13 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Diamomd Barrel"
+  ],
   "tasks": {
     "obsidian_barrel": {
-      "recipes": [
-        "expandedstorage:obsidian_barrel"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:obsidian_barrel"
     }
   },
   "rewards": {
@@ -27,8 +29,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          38,
-          39
+          0,
+          40
         ]
       }
     },
@@ -36,7 +38,7 @@
       "item": "expandedstorage:obsidian_barrel",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Obsidian Chest"
     }

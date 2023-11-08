@@ -4,10 +4,10 @@
   ],
   "tasks": {
     "diamond_barrel": {
-      "recipes": [
-        "expandedstorage:diamond_barrel"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:diamond_barrel"
     }
   },
   "rewards": {
@@ -29,8 +29,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -2,
-          39
+          -40,
+          40
         ]
       }
     },
@@ -38,7 +38,7 @@
       "item": "expandedstorage:diamond_barrel",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Diamond Barrel"
     }

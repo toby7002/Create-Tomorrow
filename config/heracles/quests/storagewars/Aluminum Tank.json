@@ -1,19 +1,19 @@
 {
   "dependencies": [
-    "copper_barrel"
+    "Steel Tank"
   ],
   "tasks": {
-    "iron_barrel": {
+    "aluminum_tank": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:iron_barrel"
+      "item": "modern_industrialization:aluminum_tank"
     }
   },
   "rewards": {
-    "iron_barrel": {
+    "aluminum_tank": {
       "item": {
-        "id": "expandedstorage:iron_barrel",
+        "id": "modern_industrialization:aluminum_tank",
         "count": 1
       },
       "type": "heracles:item"
@@ -24,23 +24,23 @@
       "text": ""
     },
     "description": [
-      "Iron barrel can store 54 items. (2 chests worth)"
+      ""
     ],
     "groups": {
       "Storage Wars": {
         "position": [
           -120,
-          40
+          80
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:iron_barrel",
+      "item": "modern_industrialization:aluminum_tank",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Iron Barrel"
+      "translate": "Aluminum Tank"
     }
   },
   "settings": {

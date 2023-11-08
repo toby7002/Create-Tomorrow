@@ -4,10 +4,10 @@
   ],
   "tasks": {
     "netherite_chest": {
-      "recipes": [
-        "expandedstorage:netherite_chest"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:netherite_chest"
     }
   },
   "rewards": {
@@ -29,8 +29,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          38,
-          -6
+          0,
+          0
         ]
       }
     },
@@ -38,7 +38,7 @@
       "item": "expandedstorage:netherite_chest",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Netherite Chest"
     }

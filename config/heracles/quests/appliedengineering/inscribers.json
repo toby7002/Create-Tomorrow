@@ -1,0 +1,40 @@
+{
+  "dependencies": [
+    "inscriber"
+  ],
+  "tasks": {
+    "automated_inscribers": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Applied Engineering": {
+        "position": [
+          -40,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": "ae2:inscriber",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Inscribers Automation"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

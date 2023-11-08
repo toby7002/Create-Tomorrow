@@ -1,44 +1,29 @@
 {
   "dependencies": [],
-  "tasks": {
-    "chest": {
-      "type": "heracles:item",
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "item": "#c:chests"
-    }
-  },
-  "rewards": {
-    "chest": {
-      "item": {
-        "id": "minecraft:chest",
-        "count": 1
-      },
-      "type": "heracles:item"
-    }
-  },
+  "tasks": {},
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
     "description": [
-      "Let's make the first chest"
+      ""
     ],
     "groups": {
-      "Storage Wars": {
+      "Applied Engineering": {
         "position": [
-          -200,
+          -100,
           0
         ]
       }
     },
     "icon": {
-      "item": "minecraft:chest",
+      "item": "ae2:calculation_processor_press",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Chest"
+      "translate": "Calculation Processor Press"
     }
   },
   "settings": {

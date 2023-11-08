@@ -4,10 +4,10 @@
   ],
   "tasks": {
     "obsidian_chest": {
-      "recipes": [
-        "expandedstorage:obsidian_chest"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:obsidian_chest"
     }
   },
   "rewards": {
@@ -29,8 +29,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -2,
-          -6
+          -40,
+          0
         ]
       }
     },
@@ -38,7 +38,7 @@
       "item": "expandedstorage:obsidian_chest",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Obsidian Chest"
     }

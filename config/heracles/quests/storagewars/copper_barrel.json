@@ -4,10 +4,10 @@
   ],
   "tasks": {
     "copper_barrel": {
-      "recipes": [
-        "expandedstorage:copper_barrel"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:copper_barrel"
     }
   },
   "rewards": {
@@ -29,7 +29,7 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -122,
+          -160,
           40
         ]
       }
@@ -38,7 +38,7 @@
       "item": "expandedstorage:copper_barrel",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Copper Barrel"
     }

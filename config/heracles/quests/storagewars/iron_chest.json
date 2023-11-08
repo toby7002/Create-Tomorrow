@@ -4,10 +4,10 @@
   ],
   "tasks": {
     "iron_chest": {
-      "recipes": [
-        "expandedstorage:iron_chest"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:iron_chest"
     }
   },
   "rewards": {
@@ -29,8 +29,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -122,
-          -6
+          -160,
+          0
         ]
       }
     },
@@ -38,7 +38,7 @@
       "item": "expandedstorage:iron_chest",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Iron Chest"
     }

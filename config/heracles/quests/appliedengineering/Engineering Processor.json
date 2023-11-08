@@ -1,0 +1,66 @@
+{
+  "dependencies": [
+    "printed_engineering_circuit",
+    "printed_silicon"
+  ],
+  "tasks": {
+    "engineering_processor": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "rewards": {
+    "printed_silicon": {
+      "item": {
+        "id": "ae2:printed_silicon",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "printed_engineering_processor": {
+      "item": {
+        "id": "ae2:printed_engineering_processor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "redstone": {
+      "item": {
+        "id": "minecraft:redstone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Applied Engineering": {
+        "position": [
+          80,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": "ae2:engineering_processor",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Engineering Processor"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

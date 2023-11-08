@@ -2,10 +2,10 @@
   "dependencies": [],
   "tasks": {
     "barrel": {
-      "recipes": [
-        "minecraft:barrel"
-      ],
-      "type": "heracles:recipe"
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "#c:barrels"
     }
   },
   "rewards": {
@@ -27,8 +27,8 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -162,
-          39
+          -200,
+          41
         ]
       }
     },
@@ -36,7 +36,7 @@
       "item": "minecraft:barrel",
       "type": "heracles:item"
     },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
       "translate": "Barrel"
     }

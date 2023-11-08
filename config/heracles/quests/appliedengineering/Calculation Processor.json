@@ -1,19 +1,34 @@
 {
   "dependencies": [
-    "iron_chest"
+    "printed_calculation_circuit",
+    "printed_silicon"
   ],
   "tasks": {
-    "gold_chest": {
+    "calculation_processor": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:gold_chest"
+      "item": "ae2:calculation_processor"
     }
   },
   "rewards": {
-    "gold_chest": {
+    "printed_calculation_processor": {
       "item": {
-        "id": "expandedstorage:gold_chest",
+        "id": "ae2:printed_calculation_processor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "printed_silicon": {
+      "item": {
+        "id": "ae2:printed_silicon",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "redstone": {
+      "item": {
+        "id": "minecraft:redstone",
         "count": 1
       },
       "type": "heracles:item"
@@ -24,23 +39,23 @@
       "text": ""
     },
     "description": [
-      "Gold chest can store 81 items. (3 chests worth)"
+      ""
     ],
     "groups": {
-      "Storage Wars": {
+      "Applied Engineering": {
         "position": [
-          -120,
+          80,
           0
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:gold_chest",
+      "item": "ae2:calculation_processor",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Gold Chest"
+      "translate": "Calculation Processor"
     }
   },
   "settings": {

@@ -1,20 +1,23 @@
 {
   "dependencies": [
-    "copper_barrel"
+    "silicon_press",
+    "logic_processor_press",
+    "engineering_processor_press",
+    "calculation_processor_press"
   ],
   "tasks": {
-    "iron_barrel": {
+    "inscriber": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:iron_barrel"
+      "item": "ae2:inscriber"
     }
   },
   "rewards": {
-    "iron_barrel": {
+    "silicon": {
       "item": {
-        "id": "expandedstorage:iron_barrel",
-        "count": 1
+        "id": "ae2:silicon",
+        "count": 3
       },
       "type": "heracles:item"
     }
@@ -24,23 +27,23 @@
       "text": ""
     },
     "description": [
-      "Iron barrel can store 54 items. (2 chests worth)"
+      ""
     ],
     "groups": {
-      "Storage Wars": {
+      "Applied Engineering": {
         "position": [
-          -120,
-          40
+          -40,
+          -60
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:iron_barrel",
+      "item": "ae2:inscriber",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Iron Barrel"
+      "translate": "Inscriber"
     }
   },
   "settings": {

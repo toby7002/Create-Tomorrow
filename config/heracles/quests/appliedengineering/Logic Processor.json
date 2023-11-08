@@ -1,19 +1,34 @@
 {
   "dependencies": [
-    "copper_barrel"
+    "printed_silicon",
+    "printed_logic_circuit"
   ],
   "tasks": {
-    "iron_barrel": {
+    "logic_processor": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:iron_barrel"
+      "item": "ae2:logic_processor"
     }
   },
   "rewards": {
-    "iron_barrel": {
+    "printed_logic_processor": {
       "item": {
-        "id": "expandedstorage:iron_barrel",
+        "id": "ae2:printed_logic_processor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "printed_silicon": {
+      "item": {
+        "id": "ae2:printed_silicon",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "redstone": {
+      "item": {
+        "id": "minecraft:redstone",
         "count": 1
       },
       "type": "heracles:item"
@@ -24,23 +39,23 @@
       "text": ""
     },
     "description": [
-      "Iron barrel can store 54 items. (2 chests worth)"
+      ""
     ],
     "groups": {
-      "Storage Wars": {
+      "Applied Engineering": {
         "position": [
-          -120,
-          40
+          80,
+          -80
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:iron_barrel",
+      "item": "ae2:logic_processor",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Iron Barrel"
+      "translate": "Logic Processor"
     }
   },
   "settings": {
