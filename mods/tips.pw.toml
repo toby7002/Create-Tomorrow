@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-Fabric-1.20.1-12.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/Hipt80bh/Tips-Fabric-1.20.1-12.0.4.jar"
+hash-format = "sha1"
+hash = "d6826693b9c8354c9daf3ed7eec13944a10f88be"
+
+[update]
+[update.modrinth]
+mod-id = "AMCbgyVw"
+version = "Hipt80bh"

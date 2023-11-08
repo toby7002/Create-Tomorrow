@@ -239,6 +239,11 @@ hash = "002a43d78a1164f15354b58a21566c8e6063fbd65390524a889bcee5895f203a"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
 metafile = true
@@ -361,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "f95972bcfd722e16976b535ffd4555281256158a2c0a084587ca464d8e83db00"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "b804f5d209015090619cba5be684777fa737be5fb14454c3450b7689a0769096"
 metafile = true
 
 [[files]]
@@ -716,6 +726,16 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "e8545f7497c2d617b1f0cc429c6bd3282dde45e4d1cc818e24a82a45e8de5bd5"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "3f34eae85f3cf8775e965d58ef584cbe864e78592fa00b59eea50264e1aa68dd"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "6d57f17f9ebdb40ea4b124f5a9345b5c89624c7b27a1ea444f43d8cf5a58d137"
 metafile = true
 
 [[files]]
