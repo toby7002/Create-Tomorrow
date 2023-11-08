@@ -703,6 +703,22 @@ hash = "97e8c6665ae60c0e09fdb68c1b60c0a931e1e147dd7103508f98f6f4a4337ae8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Create Tomorrow Core/assets/heracles/lang/en_us.json"
+hash = "feacf2c9141c18f7c03554b262be03bff960c45a2f971b6bda7f7f9dd82865b5"
+
+[[files]]
+file = "resourcepacks/Create Tomorrow Core/assets/heracles/models/item/quest_book.json"
+hash = "77c6488aabaceb91b122c7e38c4f53d43cf43a6dd630dd364847f185ac5a76f1"
+
+[[files]]
+file = "resourcepacks/Create Tomorrow Core/assets/heracles/textures/item/quest_book.png"
+hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
+
+[[files]]
+file = "resourcepacks/Create Tomorrow Core/pack.mcmeta"
+hash = "3967252c33ebc654e1d70f8e68c35aff0652bfb93b774988660ca41d61ec78b9"
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "f5bf37ac402f55bf96f3fe37864ded76e93001902fda3c7c9b4e6a6ee5426d86"
 metafile = true
@@ -721,22 +737,6 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
-
-[[files]]
-file = "resourcepacks/§bCreate Tomorrow Core/assets/heracles/lang/en_us.json"
-hash = "feacf2c9141c18f7c03554b262be03bff960c45a2f971b6bda7f7f9dd82865b5"
-
-[[files]]
-file = "resourcepacks/§bCreate Tomorrow Core/assets/heracles/models/item/quest_book.json"
-hash = "77c6488aabaceb91b122c7e38c4f53d43cf43a6dd630dd364847f185ac5a76f1"
-
-[[files]]
-file = "resourcepacks/§bCreate Tomorrow Core/assets/heracles/textures/item/quest_book.png"
-hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
-
-[[files]]
-file = "resourcepacks/§bCreate Tomorrow Core/pack.mcmeta"
-hash = "3967252c33ebc654e1d70f8e68c35aff0652bfb93b774988660ca41d61ec78b9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
