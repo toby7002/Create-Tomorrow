@@ -169,6 +169,10 @@ file = "config/heracles/tutorial.html"
 hash = "c5e02bf5d2becfb920198f99632d09b26b4b0fa85e0845c0ff5ab9be62d03669"
 
 [[files]]
+file = "kubejs/server_scripts/first_join.js"
+hash = "dda3fd1907f5fe8093933f8e286fcab732a39d36cd9fec92312fd18fdbb40832"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
