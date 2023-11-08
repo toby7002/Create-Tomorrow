@@ -225,12 +225,17 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "bda4513bf7dba452c3c432a66a3605138475d152710577cd58e498ce37bb194a"
+hash = "60b9acf890a4ba5ee527c7ff916a9d9e3eeff28058df68a61f425f8e1172c259"
 metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "527a18848a28afde3e9d71c07728de14b9c0597b2857e45a42fac6478de082a6"
 metafile = true
 
 [[files]]
@@ -756,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "97e8c6665ae60c0e09fdb68c1b60c0a931e1e147dd7103508f98f6f4a4337ae8"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "b8774bd5b9e98e51ccff376dea08f44053b2a3b97b48ab4b4e62200f3940e338"
 metafile = true
 
 [[files]]
