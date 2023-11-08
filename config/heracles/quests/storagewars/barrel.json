@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "barrel": {
+      "recipes": [
+        "minecraft:barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "barrel": {
+      "item": {
+        "id": "minecraft:barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Let's make the first barrel"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -162,
+          39
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Barrel"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

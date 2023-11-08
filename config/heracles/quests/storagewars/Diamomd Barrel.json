@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "gold_barrel"
+  ],
+  "tasks": {
+    "diamond_barrel": {
+      "recipes": [
+        "expandedstorage:diamond_barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "diamond_barrel": {
+      "item": {
+        "id": "expandedstorage:diamond_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Diamond barrel can store 108 items. (4 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -2,
+          39
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:diamond_barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Diamond Barrel"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

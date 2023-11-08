@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "obsidian_chest"
+  ],
+  "tasks": {
+    "netherite_chest": {
+      "recipes": [
+        "expandedstorage:netherite_chest"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "netherite_chest": {
+      "item": {
+        "id": "expandedstorage:netherite_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Netherite chest is fire-resistant and blast proof, can store 135 items. (5 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          38,
+          -6
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:netherite_chest",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Netherite Chest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

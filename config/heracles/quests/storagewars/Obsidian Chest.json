@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "obsidian_barrel": {
+      "recipes": [
+        "expandedstorage:obsidian_barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "obsidian_barrel": {
+      "item": {
+        "id": "expandedstorage:obsidian_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Obsidian barrel is blast proof, can store 108 items. (4 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          38,
+          39
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:obsidian_barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Obsidian Chest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

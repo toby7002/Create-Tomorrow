@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "barrel"
+  ],
+  "tasks": {
+    "copper_barrel": {
+      "recipes": [
+        "expandedstorage:copper_barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "copper_barrel": {
+      "item": {
+        "id": "expandedstorage:copper_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Copper barrel can store 45 items. (just under 2 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -122,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:copper_barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Copper Barrel"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

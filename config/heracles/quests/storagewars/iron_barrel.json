@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "copper_barrel"
+  ],
+  "tasks": {
+    "iron_barrel": {
+      "recipes": [
+        "expandedstorage:iron_barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "iron_barrel": {
+      "item": {
+        "id": "expandedstorage:iron_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Iron barrel can store 54 items. (2 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -82,
+          39
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:iron_barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Iron Barrel"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

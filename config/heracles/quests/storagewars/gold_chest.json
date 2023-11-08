@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "iron_chest"
+  ],
+  "tasks": {
+    "gold_chest": {
+      "recipes": [
+        "expandedstorage:gold_chest"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "gold_chest": {
+      "item": {
+        "id": "expandedstorage:gold_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Gold chest can store 81 items. (3 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -82,
+          -6
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:gold_chest",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Gold Chest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

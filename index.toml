@@ -5,6 +5,66 @@ file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
+file = "config/heracles/groups.txt"
+hash = "25b29c90caad12401126f8243d7c1310016bccf53b2e17ea2c557e1de9e27b17"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Diamomd Barrel.json"
+hash = "d5636ce26e051bc845bdd3e591c62aebf3aa926212e421c33a41e5d2d92e445e"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Netherite Chest.json"
+hash = "1cce31b8403ddf033a7e97427bd75098d910178216e02e5b5157a1a15fa13d62"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Obsidian Chest.json"
+hash = "c8d13d6c53aeac94c058e089b8ddfcf037127d9beae3bb44923b9153b0e604b4"
+
+[[files]]
+file = "config/heracles/quests/storagewars/barrel.json"
+hash = "ceab02ebf94f34aa7d0889e4e06b95dd549131a2300961344ac0a1ea0ab05fec"
+
+[[files]]
+file = "config/heracles/quests/storagewars/chest.json"
+hash = "74c5678561a4ebadbccc74f2e157af5fb3ea14a2158f81e6e8f57482cfeba361"
+
+[[files]]
+file = "config/heracles/quests/storagewars/copper_barrel.json"
+hash = "c18badf295f464298da7012a0f8143f13a42a9d6aa46b0658b68d5273b525fa1"
+
+[[files]]
+file = "config/heracles/quests/storagewars/diamond_chest.json"
+hash = "f05db7b9a6134aae5b6d8f3977cc797e8f8bf005f1e6b3492f08e5fd80d0dd91"
+
+[[files]]
+file = "config/heracles/quests/storagewars/gold_barrel.json"
+hash = "d8342182788d3b42b530b5119dc3c7486319b33f157a424ea5d717c8e0792d5b"
+
+[[files]]
+file = "config/heracles/quests/storagewars/gold_chest.json"
+hash = "8cf80ec92d945725e7ebd900203d0f43cfe135ea24846db370eefb25865ec146"
+
+[[files]]
+file = "config/heracles/quests/storagewars/iron_barrel.json"
+hash = "f7acb20846284fe77c8f38cc2986f4621ec2f4783edd04e9a303c5f2d0f96f13"
+
+[[files]]
+file = "config/heracles/quests/storagewars/iron_chest.json"
+hash = "aa62613a257099d81b1145f5b52c6cbcc05eb88d0aa68f70995962601a047cde"
+
+[[files]]
+file = "config/heracles/quests/storagewars/netherite_chest.json"
+hash = "4969b938b5a8c5d75f24dc506cd634573696d5ee9dbb32d1f0f2c27bee04d8e7"
+
+[[files]]
+file = "config/heracles/quests/storagewars/obsidian_chest.json"
+hash = "370c535801aa1df8dba4bbdb2b56ed4d262366dc3b5840b391536561b267cf00"
+
+[[files]]
+file = "config/heracles/tutorial.html"
+hash = "c5e02bf5d2becfb920198f99632d09b26b4b0fa85e0845c0ff5ab9be62d03669"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true

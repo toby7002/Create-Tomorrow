@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "chest": {
+      "recipes": [
+        "minecraft:chest"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "chest": {
+      "item": {
+        "id": "minecraft:chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Let's make the first chest"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -162,
+          -6
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:chest",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Chest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

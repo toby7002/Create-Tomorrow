@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "Diamomd Barrel"
+  ],
+  "tasks": {
+    "netherite_barrel": {
+      "recipes": [
+        "expandedstorage:netherite_barrel"
+      ],
+      "type": "heracles:recipe"
+    }
+  },
+  "rewards": {
+    "netherite_barrel": {
+      "item": {
+        "id": "expandedstorage:netherite_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Netherite chest is fire-resistant and blast proof, can store 135 items. (5 chests worth)"
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          78,
+          39
+        ]
+      }
+    },
+    "icon": {
+      "item": "expandedstorage:netherite_barrel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Netherite Chest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}
