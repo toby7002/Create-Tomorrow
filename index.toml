@@ -6,7 +6,7 @@ hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
 file = "config/heracles/groups.txt"
-hash = "25b29c90caad12401126f8243d7c1310016bccf53b2e17ea2c557e1de9e27b17"
+hash = "ddfc795ebd4989747f53148a6aa4a79326f91e2f8d34cfc1c482d2fb1b6cced6"
 
 [[files]]
 file = "config/heracles/quests/appliedengineering/Calculation Processor.json"
@@ -226,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
+metafile = true
+
+[[files]]
+file = "mods/conjuring.pw.toml"
+hash = "aa72685b762aef09aa3c5eb83ae9153cd92b62d7ed4cc480efbd9022f05ff4a4"
 metafile = true
 
 [[files]]
@@ -549,6 +554,11 @@ hash = "93c27699d9d3d200520cb535545383612666baaed9943a5f736800c0802f4c7d"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -656,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "26fba32648688af068d9c6ec14e3c83c845abb4fc6f7a86fcdfd0dbabf828d59"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "e8545f7497c2d617b1f0cc429c6bd3282dde45e4d1cc818e24a82a45e8de5bd5"
 metafile = true
 
 [[files]]
