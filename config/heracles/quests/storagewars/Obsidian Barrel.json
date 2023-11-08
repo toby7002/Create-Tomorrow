@@ -1,29 +1,29 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Diamond Barrel"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      ""
-    ],
+    "description": [],
     "groups": {
-      "Applied Engineering": {
+      "Storage Wars": {
         "position": [
-          -100,
-          -120
+          80,
+          -50
         ]
       }
     },
     "icon": {
-      "item": "ae2:silicon_press",
+      "item": "expandedstorage:obsidian_barrel",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Silicon Press"
+      "translate": "Obsidian Barrel"
     }
   },
   "settings": {

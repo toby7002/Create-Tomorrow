@@ -1,35 +1,19 @@
 {
   "dependencies": [
-    "iron_chest"
+    "Gold Chest",
+    "Iron Chest"
   ],
-  "tasks": {
-    "gold_chest": {
-      "type": "heracles:item",
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "item": "expandedstorage:gold_chest"
-    }
-  },
-  "rewards": {
-    "gold_chest": {
-      "item": {
-        "id": "expandedstorage:gold_chest",
-        "count": 1
-      },
-      "type": "heracles:item"
-    }
-  },
+  "tasks": {},
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "Gold chest can store 81 items. (3 chests worth)"
-    ],
+    "description": [],
     "groups": {
       "Storage Wars": {
         "position": [
-          -120,
+          -70,
           0
         ]
       }

@@ -1,7 +1,5 @@
 {
-  "dependencies": [
-    "Aluminum Tank"
-  ],
+  "dependencies": [],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -12,18 +10,18 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          -80,
-          80
+          -120,
+          0
         ]
       }
     },
     "icon": {
-      "item": "modern_industrialization:stainless_steel_tank",
+      "item": "expandedstorage:iron_chest",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Stainless Steel Tank"
+      "translate": "Iron Chest"
     }
   },
   "settings": {

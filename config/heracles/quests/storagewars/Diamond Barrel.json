@@ -1,36 +1,19 @@
 {
   "dependencies": [
-    "gold_barrel"
+    "Gold Barrel"
   ],
-  "tasks": {
-    "diamond_barrel": {
-      "type": "heracles:item",
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "item": "expandedstorage:diamond_barrel"
-    }
-  },
-  "rewards": {
-    "diamond_barrel": {
-      "item": {
-        "id": "expandedstorage:diamond_barrel",
-        "count": 1
-      },
-      "type": "heracles:item"
-    }
-  },
+  "tasks": {},
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "Diamond barrel can store 108 items. (4 chests worth)"
-    ],
+    "description": [],
     "groups": {
       "Storage Wars": {
         "position": [
-          -40,
-          40
+          30,
+          -50
         ]
       }
     },

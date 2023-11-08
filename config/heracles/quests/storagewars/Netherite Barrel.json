@@ -1,29 +1,29 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Obsidian Barrel"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      ""
-    ],
+    "description": [],
     "groups": {
-      "Applied Engineering": {
+      "Storage Wars": {
         "position": [
-          -100,
-          -40
+          130,
+          -50
         ]
       }
     },
     "icon": {
-      "item": "ae2:engineering_processor_press",
+      "item": "expandedstorage:netherite_barrel",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Engineering Processor Press"
+      "translate": "Netherite Barrel"
     }
   },
   "settings": {

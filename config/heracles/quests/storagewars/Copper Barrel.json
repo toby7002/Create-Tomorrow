@@ -6,24 +6,22 @@
     "subtitle": {
       "text": ""
     },
-    "description": [
-      ""
-    ],
+    "description": [],
     "groups": {
-      "Applied Engineering": {
+      "Storage Wars": {
         "position": [
-          -100,
-          -80
+          -120,
+          -50
         ]
       }
     },
     "icon": {
-      "item": "ae2:logic_processor_press",
+      "item": "expandedstorage:copper_barrel",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Logic Processor Press"
+      "translate": "Copper Barrel"
     }
   },
   "settings": {

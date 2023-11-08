@@ -6,143 +6,51 @@ hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
 file = "config/heracles/groups.txt"
-hash = "ddfc795ebd4989747f53148a6aa4a79326f91e2f8d34cfc1c482d2fb1b6cced6"
+hash = "774b8c8c8419664e2ce0ca3f7da1034a26e45cf1c8bf8a06bff4183951796558"
 
 [[files]]
-file = "config/heracles/quests/appliedengineering/Calculation Processor.json"
-hash = "ba2c279bdf799ffe363d75011aabee4b678b3061c35b2b9a45309544b12a9b4e"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/Engineering Processor.json"
-hash = "b68e25647607d85a6ac423ca878ad60eeecbab34122bc8bfd1557bb96330ea1d"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/Logic Processor.json"
-hash = "40c62ddce16da86051dd736d51c81fcc60804cc41eaa05d63bb44fd03bf06c95"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/calculation_processor_press.json"
-hash = "ed5cab7b1c0926964f4c031d9ac8be480b8ce45b1cceefc676d54fb200b25eda"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/engineering_processor_press.json"
-hash = "10707f0e36b542692f10abae878934f255bc3fc37d7952e9fe5f0c150bff09bb"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/inscriber.json"
-hash = "b19c2149f99c8ab50f89067ac28aeab2464a65c0dd22d9c567e55b1b94cd13ec"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/inscribers.json"
-hash = "fae5ed193c6833f25de7687130e3c97879411bfc928c149ecebdd34efdb5bf83"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/logic_processor_press.json"
-hash = "7809ca7aea148b891d1ecb8fa40b5150d370aa7ef30414f7f94b55d373d2d7bb"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/printed_calculation_circuit.json"
-hash = "910153c024ecbe1c53bb0d7eaf1179bfae25f8d6a1acdc9c4785e1a3f25fd674"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/printed_engineering_circuit.json"
-hash = "7d46f351b6bbf6990c84ac0ffe172646ca15f68faac72146917b3b2fed9a718c"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/printed_logic_circuit.json"
-hash = "b0796dc379f68285f831c86651639690b31241453174ec68cd0e8d7e42d21bb2"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/printed_silicon.json"
-hash = "c2433bdd6ce0e801a8c7d1682a8c824d07bb7cbb2dcf1829974c589c5277f57b"
-
-[[files]]
-file = "config/heracles/quests/appliedengineering/silicon_press.json"
-hash = "ce557a738654bfa428f9ab0dceb9a7b6fdaf8d13af32156eb725a60471206844"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Aluminum Tank.json"
-hash = "27be79ba271c01907e87aa900bc170c18904be7bd60351bb35e1853906158293"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Bronze Tank.json"
-hash = "f25ef21e1f12823c0f250c64500fccdc9588c3a623366606b9bec4841e17ab30"
+file = "config/heracles/quests/storagewars/Copper Barrel.json"
+hash = "07a157f1c57d463760aa45c9629ab0cb72ebb1ec14448f534b9750204f6c88db"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Diamond Barrel.json"
-hash = "0c613d90c67a13cafed60729ab4553ffd9f5f709a0da18a3692e9bb5d3199e19"
+hash = "17796945f0c8cae2ff93a821c5c4fceb1fb05cff24bf3a2a8d3553181bc596d4"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Diamond Chest.json"
+hash = "e257d5905b0866d1d7e184386b6f1ef8961a850d6b1a874cd946099be9edca57"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Gold Barrel.json"
+hash = "d8cb6344195b4e1ab6f892ac2bd0edd9d36767e9cd44698e3f6bdba65270296d"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Gold Chest.json"
+hash = "bd59fe792d86002e932af20c0a57820c712389b2908515706c655f69066e3409"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Iron Barrel.json"
+hash = "946991cfcb61d49031a29b41283fc0cbca9986c44246d15d1eb4c00a78e3d715"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Iron Chest.json"
+hash = "eed3cd15bb6952d3b380bf95b6253d7d0b6e3745da5e38ec4770d60afb97fe40"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Netherite Barrel.json"
+hash = "124d92b992f4de6144642d78f47cc786c83f5eb4a6e2f3f0899356ec4cfb12ab"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Netherite Chest.json"
-hash = "d516d46f4a094ec2e9037d05f24c3b0b3cdee85d24f58bb7d98d8e0fcfd04526"
+hash = "8fef34429fa0b20e9571d2a3418b990d9a0d59afaecefd052cad59f5a40d2456"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Obsidian Barrel.json"
+hash = "f581bbfc68351e46eb34d89cd4091d1ac9db5a7e885eb06cefdfdf26abf8b5bb"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Obsidian Chest.json"
-hash = "96ae8d914aa44fe9a6c1d425c7cec71699787a507851fd178fbb6ccbace9c489"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Quatumn Tank.json"
-hash = "a3a5cf8e7a64108ed7c9c3aa9a9ed0f3ceaf9faa25f0f3bbeaa33a6fd22f32d3"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Stainless Steel Tank.json"
-hash = "cd2b2ea1ff04cfb69a47d2a143172275e0ba7afa720c4821a860a7506214668e"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Steel Tank.json"
-hash = "8695730dd47a6dea8ae167164a864931eaa44f0a3763f77c94da7392d2b32b1a"
-
-[[files]]
-file = "config/heracles/quests/storagewars/Titanium Tank.json"
-hash = "d418bfd3d28707e15aefe45e4448956c6a25561ef2f06eb7b861fc8f3641946e"
-
-[[files]]
-file = "config/heracles/quests/storagewars/barrel.json"
-hash = "3b2fd34b1800f500fbab729e13f43976491b050149d67249e1fddd73e81daf63"
-
-[[files]]
-file = "config/heracles/quests/storagewars/chest.json"
-hash = "5c1ee03a2efc657c4c5abbd3e203e27153512b1fb87c9ccd962378720aeda5f8"
-
-[[files]]
-file = "config/heracles/quests/storagewars/copper_barrel.json"
-hash = "90c22813c551457e4fccb4c55a4183ff69bec0578c2e014c0250d9851f14715c"
-
-[[files]]
-file = "config/heracles/quests/storagewars/diamond_chest.json"
-hash = "dd138028870e4de7ff5db0804b68a666f6ebca3bc421907e3c24a83d3bee20d7"
-
-[[files]]
-file = "config/heracles/quests/storagewars/fluid_tank.json"
-hash = "222c48fdaaa2049ea8058d51b00dcb2a0e00a3d35aef8fc97a2d7bc1312b0364"
-
-[[files]]
-file = "config/heracles/quests/storagewars/gold_barrel.json"
-hash = "1b39b1d69e05340c2f49e3a31467f8055a260b0390f8594b5a04129502ccc729"
-
-[[files]]
-file = "config/heracles/quests/storagewars/gold_chest.json"
-hash = "a67f57acd9a703b1c7949f26fb393193a55443030e03d97f37fca6d38dd9f922"
-
-[[files]]
-file = "config/heracles/quests/storagewars/iron_barrel.json"
-hash = "8c0e22fc2f298142c032055e488791edec3bbbcc70a48bbb739bf5b37d9ef9d8"
-
-[[files]]
-file = "config/heracles/quests/storagewars/iron_chest.json"
-hash = "34a9bac12a7ebe6aaef119a3b1e70519b6d7c4e92a3d790582eaadf70ec5d81d"
-
-[[files]]
-file = "config/heracles/quests/storagewars/item_vault.json"
-hash = "f8dabf2d57394e14fa2dd896e699a815902c0d572d7713e55af778cf28e61fa3"
-
-[[files]]
-file = "config/heracles/quests/storagewars/netherite_chest.json"
-hash = "26e005826c26a158e405cd118035414151cc962129ea4a2a119184c5da3b675e"
-
-[[files]]
-file = "config/heracles/quests/storagewars/obsidian_chest.json"
-hash = "2a32b8c14e4f8de07617612d565cd4dda52a23350aaf7206fc670c977438fc4d"
+hash = "f836f3764bbd8d84830af085e7e021f13e94e19a54cd0e031a5ab3f918310f07"
 
 [[files]]
 file = "config/heracles/tutorial.html"

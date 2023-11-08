@@ -1,35 +1,18 @@
 {
   "dependencies": [
-    "gold_chest"
+    "Gold Chest"
   ],
-  "tasks": {
-    "diamond_chest": {
-      "type": "heracles:item",
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "item": "expandedstorage:diamond_chest"
-    }
-  },
-  "rewards": {
-    "diamond_chest": {
-      "item": {
-        "id": "expandedstorage:diamond_chest",
-        "count": 1
-      },
-      "type": "heracles:item"
-    }
-  },
+  "tasks": {},
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "Diamond chest can store 108 items. (4 chests worth)"
-    ],
+    "description": [],
     "groups": {
       "Storage Wars": {
         "position": [
-          -80,
+          -20,
           0
         ]
       }

@@ -1,36 +1,19 @@
 {
   "dependencies": [
-    "iron_barrel"
+    "Iron Barrel"
   ],
-  "tasks": {
-    "gold_barrel": {
-      "type": "heracles:item",
-      "amount": 1,
-      "collection": "AUTOMATIC",
-      "item": "expandedstorage:gold_barrel"
-    }
-  },
-  "rewards": {
-    "gold_barrel": {
-      "item": {
-        "id": "expandedstorage:gold_barrel",
-        "count": 1
-      },
-      "type": "heracles:item"
-    }
-  },
+  "tasks": {},
+  "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [
-      "Gold barrel can store 81 items. (3 chests worth)"
-    ],
+    "description": [],
     "groups": {
       "Storage Wars": {
         "position": [
-          -80,
-          40
+          -20,
+          -50
         ]
       }
     },
