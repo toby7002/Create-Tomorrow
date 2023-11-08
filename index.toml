@@ -169,20 +169,16 @@ file = "config/heracles/tutorial.html"
 hash = "c5e02bf5d2becfb920198f99632d09b26b4b0fa85e0845c0ff5ab9be62d03669"
 
 [[files]]
-file = "config/openloader/resources/Create Tomorrow Core/assets/heracles/lang/en_us.json"
+file = "kubejs/assets/heracles/lang/en_us.json"
 hash = "feacf2c9141c18f7c03554b262be03bff960c45a2f971b6bda7f7f9dd82865b5"
 
 [[files]]
-file = "config/openloader/resources/Create Tomorrow Core/assets/heracles/models/item/quest_book.json"
+file = "kubejs/assets/heracles/models/item/quest_book.json"
 hash = "77c6488aabaceb91b122c7e38c4f53d43cf43a6dd630dd364847f185ac5a76f1"
 
 [[files]]
-file = "config/openloader/resources/Create Tomorrow Core/assets/heracles/textures/item/quest_book.png"
+file = "kubejs/assets/heracles/textures/item/quest_book.png"
 hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
-
-[[files]]
-file = "config/openloader/resources/Create Tomorrow Core/pack.mcmeta"
-hash = "3967252c33ebc654e1d70f8e68c35aff0652bfb93b774988660ca41d61ec78b9"
 
 [[files]]
 file = "kubejs/server_scripts/first_join.js"
@@ -626,11 +622,6 @@ metafile = true
 [[files]]
 file = "mods/nears.pw.toml"
 hash = "93c27699d9d3d200520cb535545383612666baaed9943a5f736800c0802f4c7d"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "d2f68bad5068b7dd0ff76db5943ac58368be7348a60ceb6e848dc61876c733e1"
 metafile = true
 
 [[files]]
