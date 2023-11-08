@@ -2,8 +2,23 @@
   "dependencies": [
     "Iron Chest"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Gold Chest": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:gold_chest"
+    }
+  },
+  "rewards": {
+    "Gold Chest": {
+      "item": {
+        "id": "expandedstorage:gold_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

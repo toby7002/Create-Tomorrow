@@ -1,20 +1,18 @@
 {
-  "dependencies": [
-    "Obsidian Chest"
-  ],
+  "dependencies": [],
   "tasks": {
-    "Netherite Chest": {
+    "Minecart With Chests": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:netherite_chest"
+      "item": "expandedstorage:wood_chest_minecart"
     }
   },
   "rewards": {
-    "Netherite Chest": {
+    "Rails": {
       "item": {
-        "id": "expandedstorage:netherite_chest",
-        "count": 1
+        "id": "minecraft:rail",
+        "count": 8
       },
       "type": "heracles:item"
     }
@@ -29,18 +27,18 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          80,
-          0
+          -70,
+          -100
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:netherite_chest",
+      "item": "expandedstorage:netherite_chest_minecart",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Netherite Chest"
+      "translate": "Minecart With Chests"
     }
   },
   "settings": {

@@ -9,48 +9,68 @@ file = "config/heracles/groups.txt"
 hash = "774b8c8c8419664e2ce0ca3f7da1034a26e45cf1c8bf8a06bff4183951796558"
 
 [[files]]
+file = "config/heracles/quests/storagewars/Conversion Kits.json"
+hash = "fc1ee5af6c2a286da9928963762915f1eb8ebaf324f35f97d7f3bbea3d3e5b6f"
+
+[[files]]
 file = "config/heracles/quests/storagewars/Copper Barrel.json"
-hash = "07a157f1c57d463760aa45c9629ab0cb72ebb1ec14448f534b9750204f6c88db"
+hash = "a05a347b404567757c4fe732159b5a134d2c17114137e403e6cd1f757777b793"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Diamond Barrel.json"
-hash = "17796945f0c8cae2ff93a821c5c4fceb1fb05cff24bf3a2a8d3553181bc596d4"
+hash = "87a983172591a88fb0e8ce522519c3ac716fc3d7a2a7b64e9cdb906908ed6784"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Diamond Chest.json"
-hash = "e257d5905b0866d1d7e184386b6f1ef8961a850d6b1a874cd946099be9edca57"
+hash = "ce38cdb4223946cf4a6a8edb90233ad85e99bc8952e560bd9c381c1df42f830d"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Gold Barrel.json"
-hash = "d8cb6344195b4e1ab6f892ac2bd0edd9d36767e9cd44698e3f6bdba65270296d"
+hash = "5057dc5ba130da9841e2aa87af9c77ec954945740520ece103a5743f6bb26394"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Gold Chest.json"
-hash = "bd59fe792d86002e932af20c0a57820c712389b2908515706c655f69066e3409"
+hash = "855305d5a088f0ef52b990ed591b9ac57adfb641915310f49cc1d78576ebe18b"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Iron Barrel.json"
-hash = "946991cfcb61d49031a29b41283fc0cbca9986c44246d15d1eb4c00a78e3d715"
+hash = "251f39865814f071df3f13c954364a06aeaab06767a0242ec6085bad2f4b2d95"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Iron Chest.json"
-hash = "eed3cd15bb6952d3b380bf95b6253d7d0b6e3745da5e38ec4770d60afb97fe40"
+hash = "0181a513fe2ede87dfdaf997875e53de7a935c987b01747a675e698f9ec95d10"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Minecart With Chests.json"
+hash = "9552c35f00e0bc4a48cec4699c50aa65fd5c54ad0cd5c4554e5d831fbfe598a1"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Netherite Barrel.json"
-hash = "124d92b992f4de6144642d78f47cc786c83f5eb4a6e2f3f0899356ec4cfb12ab"
+hash = "fdd6d581fe224d2e0f38e60dee418dae8aa51c35a57cae5a7ba4b5dca5858a5d"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Netherite Chest.json"
-hash = "8fef34429fa0b20e9571d2a3418b990d9a0d59afaecefd052cad59f5a40d2456"
+hash = "a5e2609832a02d5ee45733ca84014b96f8f23b95aad5493a2dc7996d299c9128"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Obsidian Barrel.json"
-hash = "f581bbfc68351e46eb34d89cd4091d1ac9db5a7e885eb06cefdfdf26abf8b5bb"
+hash = "a5ace89724efae443625c785b2838432da8fc7746312e54c6cb6b47125eb469a"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Obsidian Chest.json"
-hash = "f836f3764bbd8d84830af085e7e021f13e94e19a54cd0e031a5ab3f918310f07"
+hash = "9ca9f3112bc7ac8a5b28d823a36e319992316e33b10490992242040d83182ac9"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Old Model Chests.json"
+hash = "75da189e0a975ab86e14b38559af865dd20b60c7436836ddeb7d1c83a60cba4e"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Storage Mutator.json"
+hash = "3219276e61a6319f9c79f4711d61cadc73f9c75a4a7d8a6f95a2e4218e2b2fab"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Wireless Transmitter.json"
+hash = "c7197d491760421463f33d8b59c7ecf3709e789fa2870ececf2bbd35cf37862e"
 
 [[files]]
 file = "config/heracles/tutorial.html"

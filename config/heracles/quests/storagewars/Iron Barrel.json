@@ -2,8 +2,23 @@
   "dependencies": [
     "Copper Barrel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Iron Barrel": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:iron_barrel"
+    }
+  },
+  "rewards": {
+    "Iron Barrel": {
+      "item": {
+        "id": "expandedstorage:iron_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

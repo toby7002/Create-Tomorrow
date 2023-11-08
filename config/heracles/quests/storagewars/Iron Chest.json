@@ -1,7 +1,22 @@
 {
   "dependencies": [],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Iron Chest": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:iron_chest"
+    }
+  },
+  "rewards": {
+    "Iron Chest": {
+      "item": {
+        "id": "expandedstorage:iron_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

@@ -2,8 +2,23 @@
   "dependencies": [
     "Diamond Barrel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Obsidian Barrel": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:obsidian_barrel"
+    }
+  },
+  "rewards": {
+    "Obsidian Barrel": {
+      "item": {
+        "id": "expandedstorage:obsidian_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

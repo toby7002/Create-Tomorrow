@@ -2,8 +2,23 @@
   "dependencies": [
     "Gold Barrel"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Diamond Barrel": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:diamond_barrel"
+    }
+  },
+  "rewards": {
+    "Diamond Barrel": {
+      "item": {
+        "id": "expandedstorage:diamond_barrel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

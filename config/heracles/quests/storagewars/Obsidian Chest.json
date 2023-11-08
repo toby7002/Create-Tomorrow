@@ -2,13 +2,30 @@
   "dependencies": [
     "Diamond Chest"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Obsidian Chest": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:obsidian_chest"
+    }
+  },
+  "rewards": {
+    "Obsidian Chest": {
+      "item": {
+        "id": "expandedstorage:obsidian_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Storage Wars": {
         "position": [

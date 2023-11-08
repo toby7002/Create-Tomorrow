@@ -2,8 +2,23 @@
   "dependencies": [
     "Gold Chest"
   ],
-  "tasks": {},
-  "rewards": {},
+  "tasks": {
+    "Diamond Chest": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "expandedstorage:diamond_chest"
+    }
+  },
+  "rewards": {
+    "Diamond Chest": {
+      "item": {
+        "id": "expandedstorage:diamond_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
       "text": ""

@@ -1,19 +1,17 @@
 {
-  "dependencies": [
-    "Obsidian Chest"
-  ],
+  "dependencies": [],
   "tasks": {
-    "Netherite Chest": {
+    "Tesseract": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:netherite_chest"
+      "item": "tesseract:tesseract"
     }
   },
   "rewards": {
-    "Netherite Chest": {
+    "Tesseract": {
       "item": {
-        "id": "expandedstorage:netherite_chest",
+        "id": "tesseract:tesseract",
         "count": 1
       },
       "type": "heracles:item"
@@ -29,18 +27,18 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          80,
-          0
+          -120,
+          50
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:netherite_chest",
+      "item": "tesseract:tesseract",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Netherite Chest"
+      "translate": "Wireless Transmitter"
     }
   },
   "settings": {

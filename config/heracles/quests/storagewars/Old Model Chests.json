@@ -1,19 +1,17 @@
 {
-  "dependencies": [
-    "Obsidian Chest"
-  ],
+  "dependencies": [],
   "tasks": {
-    "Netherite Chest": {
+    "Old Chest": {
       "type": "heracles:item",
       "amount": 1,
       "collection": "AUTOMATIC",
-      "item": "expandedstorage:netherite_chest"
+      "item": "expandedstorage:old_wood_chest"
     }
   },
   "rewards": {
-    "Netherite Chest": {
+    "Old Chest": {
       "item": {
-        "id": "expandedstorage:netherite_chest",
+        "id": "expandedstorage:old_wood_chest",
         "count": 1
       },
       "type": "heracles:item"
@@ -29,18 +27,18 @@
     "groups": {
       "Storage Wars": {
         "position": [
-          80,
-          0
+          -120,
+          -100
         ]
       }
     },
     "icon": {
-      "item": "expandedstorage:netherite_chest",
+      "item": "expandedstorage:old_netherite_chest",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Netherite Chest"
+      "translate": "Old Model Chests"
     }
   },
   "settings": {
