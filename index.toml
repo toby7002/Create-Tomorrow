@@ -649,6 +649,11 @@ hash = "080841a8b0577b06811209e2ea409f3901098a3ad3fecbec43005590cf10df4b"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "6d44c61d60b06e5f33787a59919a82b748d5ebf905721dc06d71e40a860df1ef"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
