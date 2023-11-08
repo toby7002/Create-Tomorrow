@@ -1,5 +1,6 @@
 Getting Started
 Assembly Line
+Building & Decoration
 Mob Hunter
 Farm Of Tomorrow
 Power Grid

@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Flower Boxes": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "#another_furniture:flower_boxes"
+    }
+  },
+  "rewards": {
+    "Flower Boxes": {
+      "item": {
+        "id": "another_furniture:oak_flower_box",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Building & Decoration": {
+        "position": [
+          -150,
+          50
+        ]
+      }
+    },
+    "icon": {
+      "item": "another_furniture:oak_flower_box",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Flower Boxes"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

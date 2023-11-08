@@ -6,7 +6,99 @@ hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
 file = "config/heracles/groups.txt"
-hash = "774b8c8c8419664e2ce0ca3f7da1034a26e45cf1c8bf8a06bff4183951796558"
+hash = "daaca38c2020778eed10458b572ae344b09806e9e1550bfe16c7ed60f716a8b2"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Alchemy Bench.json"
+hash = "359690974e1fba09a4aa913d65fa041bb2b96a032053e4e1a238333ed2050b37"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Benches.json"
+hash = "3998a908eeeb6e4df593ff22ae0b11312703c75da24c05adc6d05678b118ae2c"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Botanist Workbench.json"
+hash = "6f118e5fc8b9c7c2a0a16608856551f2ee3035b4df1290df4165c7d3f3b77279"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Carpenters Table.json"
+hash = "302b47254ba84031286191385c05ac64722f42e7b71fefe58ff64f4397eaadbb"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Chairs.json"
+hash = "6ff9d89a88c62bb91cec38d262f1f76467b46740d6ac311f6a0cbfbdd8524e94"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Chisel.json"
+hash = "ee9483bd64a35fdc9f836a2a1c8886b4ab585fea0fb41330c6aa77bfda6a9871"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Curtains.json"
+hash = "c3fa1f936c267a692823997d1d39994138ee44d74bf3f3dc976d940282be9f87"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Drawers.json"
+hash = "e6443bfa8fe6bf2f6af284e3c9f36004bf4453afd182188b8b9f6cbe8968af05"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Flower Boxes.json"
+hash = "40d99f65146a49a9c1037b7306fe78943bd9a191108726fcd3d505c473149156"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Glassblower.json"
+hash = "1e18336e583eda1705d8b243bffaf9c241c433a201d16c209dbc0abac6234711"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Lamps.json"
+hash = "0b52f5e70262210ddb985c898328eb3cfa59e549ab24e2ff0b787778c1a2efd4"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Loom Table.json"
+hash = "0656ff4405ade8d70516a0f65a02e4720cbc9f58e8689973cffc1061473700d3"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Mason Table.json"
+hash = "ad85f5682b43eb7e3cdcf17fc3e5c66bdbb0e888a5b7551ba8b6f58e3986b844"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Service Bell.json"
+hash = "13336964de842f8308f70da1f6bcb7d5ed80283dc0f7dc7c7e374ba9ab0f1dd5"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Shelves.json"
+hash = "e60d8e1db8fe85d0556cce94c74fa26cf87929f809ce7d0c0c44381ba8a4d0bc"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Shutters.json"
+hash = "5257485bac3f7230d18b088417e2cd987da9bb004c7b660634e9807476d0bd6d"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Sofas.json"
+hash = "1732eef96dfa9c879a47218f7828673efc2d751abb8819dbfedc4cac49dea62c"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Stools.json"
+hash = "5b6a68402ddafec0c26ac3cde282d99dab13de81991e97101bf69a760cb9eb5c"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Tables.json"
+hash = "cf0d558819f1c87d13d10024f277cb1efeadbcb189f7c4102a3ca74c280bef34"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Tall Stools.json"
+hash = "ca8d8d1b6ad88f18a935643b5cfd2c9d94b1751fb784cc380623e807eff7dba1"
+
+[[files]]
+file = "config/heracles/quests/buildingdecoration/Tinkering Table.json"
+hash = "0731c427a6a478c70a63b3f28ea6b9fa5e92a9f916417a4bf0c6c715114ca45b"
+
+[[files]]
+file = "config/heracles/quests/gettingstarted/Logs.json"
+hash = "36c881e9aee24f0b8b2b31e58a688ee13f4e5f9cf0cc8f21c79895605dfafb7a"
+
+[[files]]
+file = "config/heracles/quests/gettingstarted/Planks.json"
+hash = "729358adc60f35aa2b4f0afe18fb1e9085b2e241a907dbe7d2d38707a60226a6"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Conversion Kits.json"

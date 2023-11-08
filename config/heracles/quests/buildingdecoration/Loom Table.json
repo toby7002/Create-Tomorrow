@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Loom Table": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "chipped:loom_table"
+    }
+  },
+  "rewards": {
+    "Wool": {
+      "item": {
+        "id": "minecraft:white_wool",
+        "count": 64
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Building & Decoration": {
+        "position": [
+          150,
+          -50
+        ]
+      }
+    },
+    "icon": {
+      "item": "chipped:loom_table",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Loom Table"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

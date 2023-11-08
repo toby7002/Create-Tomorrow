@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Sofas": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "#another_furniture:sofas"
+    }
+  },
+  "rewards": {
+    "Sofas": {
+      "item": {
+        "id": "another_furniture:white_sofa",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Building & Decoration": {
+        "position": [
+          50,
+          100
+        ]
+      }
+    },
+    "icon": {
+      "item": "another_furniture:white_sofa",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sofas"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

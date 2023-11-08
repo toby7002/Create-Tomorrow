@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Stools": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "#another_furniture:stools"
+    }
+  },
+  "rewards": {
+    "Stools": {
+      "item": {
+        "id": "another_furniture:white_stool",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Building & Decoration": {
+        "position": [
+          -100,
+          50
+        ]
+      }
+    },
+    "icon": {
+      "item": "another_furniture:white_tall_stool",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Stools"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}
