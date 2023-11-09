@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".prettierrc"
+hash = "5f8d6aea4c8b95f023b5d5d47511445e080df1f8b023dd222fab28e83b020ae3"
+
+[[files]]
 file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
@@ -101,6 +105,14 @@ file = "config/heracles/quests/gettingstarted/Planks.json"
 hash = "729358adc60f35aa2b4f0afe18fb1e9085b2e241a907dbe7d2d38707a60226a6"
 
 [[files]]
+file = "config/heracles/quests/storagewars/Aluminum Tank.json"
+hash = "8a7b725180017127fd33433afd3b351d53ba19c4fa272698d37ee1d6d1c483e0"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Bronze Tank.json"
+hash = "5a7aa91237e09c8f7dff5dbbb556ad7dae98d7814ead767db1294b9e3cf57e17"
+
+[[files]]
 file = "config/heracles/quests/storagewars/Conversion Kits.json"
 hash = "fc1ee5af6c2a286da9928963762915f1eb8ebaf324f35f97d7f3bbea3d3e5b6f"
 
@@ -117,6 +129,10 @@ file = "config/heracles/quests/storagewars/Diamond Chest.json"
 hash = "ce38cdb4223946cf4a6a8edb90233ad85e99bc8952e560bd9c381c1df42f830d"
 
 [[files]]
+file = "config/heracles/quests/storagewars/Fluid Tank.json"
+hash = "45f61585241aa42a856886b90dc6cfcc1c51e53f4155ee3d2da3dfefa925ba33"
+
+[[files]]
 file = "config/heracles/quests/storagewars/Gold Barrel.json"
 hash = "5057dc5ba130da9841e2aa87af9c77ec954945740520ece103a5743f6bb26394"
 
@@ -131,6 +147,10 @@ hash = "251f39865814f071df3f13c954364a06aeaab06767a0242ec6085bad2f4b2d95"
 [[files]]
 file = "config/heracles/quests/storagewars/Iron Chest.json"
 hash = "0181a513fe2ede87dfdaf997875e53de7a935c987b01747a675e698f9ec95d10"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Item Vault.json"
+hash = "84c5529b2bb07af2a54afb5536d007c6c3c2dbb254fe3ea986c2a6dc58284365"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Minecart With Chests.json"
@@ -157,8 +177,24 @@ file = "config/heracles/quests/storagewars/Old Model Chests.json"
 hash = "75da189e0a975ab86e14b38559af865dd20b60c7436836ddeb7d1c83a60cba4e"
 
 [[files]]
+file = "config/heracles/quests/storagewars/Quantum Tank.json"
+hash = "7db6a8e5d02e5a1858ec19832f6b3e104f9e848f36b0e7e395c8628dac143ba4"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Stainless Steel Tank.json"
+hash = "4c48901a5495f1fe7c18bfd46df76e3e22d678c2c704969d97edf6a766a62666"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Steel Tank.json"
+hash = "b73020928a07e4d7882a8d5b002b132b2737054dcb8983094451072f4f2b3822"
+
+[[files]]
 file = "config/heracles/quests/storagewars/Storage Mutator.json"
 hash = "3219276e61a6319f9c79f4711d61cadc73f9c75a4a7d8a6f95a2e4218e2b2fab"
+
+[[files]]
+file = "config/heracles/quests/storagewars/Titanium Tank.json"
+hash = "bf53464c41cf5a1065a5d15687a109df69a34486b78e99c1cfd219645b556d3c"
 
 [[files]]
 file = "config/heracles/quests/storagewars/Wireless Transmitter.json"
@@ -181,7 +217,11 @@ file = "kubejs/assets/heracles/textures/item/quest_book.png"
 hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
 
 [[files]]
-file = "kubejs/server_scripts/first_join.js"
+file = "kubejs/client_scripts/rei.js"
+hash = "7f280d478fdc7260fefbb09d12101d0b5057419209e27da9039e588ad1565bfa"
+
+[[files]]
+file = "kubejs/server_scripts/heracles.js"
 hash = "dda3fd1907f5fe8093933f8e286fcab732a39d36cd9fec92312fd18fdbb40832"
 
 [[files]]
