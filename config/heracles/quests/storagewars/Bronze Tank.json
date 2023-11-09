@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Bronze Tank": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "modern_industrialization:bronze_tank"
+    }
+  },
+  "rewards": {
+    "Bronze Tank": {
+      "item": {
+        "id": "modern_industrialization:bronze_tank",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Storage Wars": {
+        "position": [
+          -120,
+          150
+        ]
+      }
+    },
+    "icon": {
+      "item": "modern_industrialization:bronze_tank",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Bronze Tank"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}
