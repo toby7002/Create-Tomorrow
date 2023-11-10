@@ -217,12 +217,12 @@ file = "kubejs/assets/heracles/textures/item/quest_book.png"
 hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
 
 [[files]]
-file = "kubejs/client_scripts/rei.js"
-hash = "7f280d478fdc7260fefbb09d12101d0b5057419209e27da9039e588ad1565bfa"
+file = "kubejs/client_scripts/rei_group.js"
+hash = "6028c22963004244e68e0b2874f6fd541c26fb6039dbbe86d778ff98795c6d71"
 
 [[files]]
-file = "kubejs/server_scripts/heracles.js"
-hash = "dda3fd1907f5fe8093933f8e286fcab732a39d36cd9fec92312fd18fdbb40832"
+file = "kubejs/server_scripts/quest_book.js"
+hash = "08d20bf6d09948bf62c552cd72791bf857a4be4cde1b2557514f1f4be4db886e"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
