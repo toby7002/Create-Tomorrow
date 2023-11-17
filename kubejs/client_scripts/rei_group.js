@@ -19,7 +19,8 @@ REIEvents.groupEntries((e) => {
 					item !== "chipped:glassblower" &&
 					item !== "chipped:alchemy_bench" &&
 					item !== "chipped:tinkering_table" && 
-					item !== "chipped:carpenters_table"
+					item !== "chipped:carpenters_table" &&
+					item !== "chipped:mechanist_workbench"
 			),
 	]);
 

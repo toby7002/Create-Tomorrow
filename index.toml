@@ -218,7 +218,7 @@ hash = "d4db599b49696fc457e9e37b0a862b8cd11b22bd97fb6e42097aa22fce931a07"
 
 [[files]]
 file = "kubejs/client_scripts/rei_group.js"
-hash = "6028c22963004244e68e0b2874f6fd541c26fb6039dbbe86d778ff98795c6d71"
+hash = "9dea21792aec183539a44a7385669342fc08ea405fe68af58670ecc75b6d18c9"
 
 [[files]]
 file = "kubejs/server_scripts/quest_book.js"
