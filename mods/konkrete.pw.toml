@@ -1,13 +1,13 @@
-name = "Konkrete"
-filename = "konkrete_fabric_1.7.0-1_MC_1.20.1.jar"
+name = "Konkrete [Forge]"
+filename = "konkrete_forge_1.6.1-2_MC_1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J81TRJWm/versions/Az1kEuIr/konkrete_fabric_1.7.0-1_MC_1.20.1.jar"
 hash-format = "sha1"
-hash = "fc8d01633952885a85fbdead79d23f1f344d5105"
+hash = "6714da21ad7a733a1376a186d5248fd06cd53f3b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "J81TRJWm"
-version = "Az1kEuIr"
+[update.curseforge]
+file-id = 4583492
+project-id = 410295

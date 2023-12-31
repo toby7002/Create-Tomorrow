@@ -1,13 +1,13 @@
 name = "Tesseract"
-filename = "tesseract-1.0.35a-fabric-mc1.20.jar"
+filename = "tesseract-1.0.35a-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/UONARGdR/tesseract-1.0.35a-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "e152f6f83c3fed7437f1ef965da779910b751f52"
+hash = "e09e97bfff54f33c933a4e31bc824b091e823df5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OUhp5O2m"
-version = "UONARGdR"
+[update.curseforge]
+file-id = 4786711
+project-id = 379232

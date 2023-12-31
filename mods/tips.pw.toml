@@ -1,13 +1,13 @@
 name = "Tips"
-filename = "Tips-Fabric-1.20.1-12.0.4.jar"
-side = "client"
+filename = "Tips-Forge-1.20.1-12.0.4.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/Hipt80bh/Tips-Fabric-1.20.1-12.0.4.jar"
 hash-format = "sha1"
-hash = "d6826693b9c8354c9daf3ed7eec13944a10f88be"
+hash = "c6997c86acb285de0641f8f8070822c2b5d25c6d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "AMCbgyVw"
-version = "Hipt80bh"
+[update.curseforge]
+file-id = 4844550
+project-id = 306549
