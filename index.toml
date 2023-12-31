@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "5dd4d5d1e2e5f26531e9b55967afdc1a73a00671a1c1a16b911b24deb3dd6ad6"
 
 [[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "04cde2d54326417ce5fbbe325c7bfcac4c18d25c9de88af6bacabd3b9011910f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
@@ -812,3 +816,7 @@ metafile = true
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
