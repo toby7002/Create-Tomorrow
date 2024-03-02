@@ -95,11 +95,6 @@ hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
 metafile = true
