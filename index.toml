@@ -195,6 +195,16 @@ hash = "32e9c2612ad11bf65a8f8904181c186191683d24f1d3505a59627a7bb47ae6a8"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3f06aae28b5f66bdbef6dd34c03827f81739553caa58019acf8d033456b8d1d2"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "9c16a8109adb2a5d5fdbad1c9f5769cde0b8b3c18a0028399960838f93542455"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
 metafile = true
@@ -417,4 +427,19 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "87a32483cbcf46b48fe4c0b85fd66d6a068394f9e5844fbda56322a44e4edd3c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "926bec5fc080d0e1df982087eac07a15bed38425c64b052adcff783bbd4d7f49"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "0fc625e075a11cf7b2592846f33cba852d5402c40d85902ef06b5dbdfdfd5624"
 metafile = true
