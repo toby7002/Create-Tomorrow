@@ -3,3 +3,63 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
+
+[[files]]
+file = "mods/create-balanced-flight.pw.toml"
+hash = "59da67ba28932cdaf191b2de978485db92ca26a2b089addc7c507dcdee11b590"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "4bc5d111a9937302546ee8f831b4881f2085bfbac982b94bdf9aec3bd426a53a"
+metafile = true
+
+[[files]]
+file = "mods/create-destroy.pw.toml"
+hash = "2d1204fd594306e9025bcbe860bdb3de337f891eb8fd089b82a48d479cb6ad07"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "2265d4cb8f422d884cd7ed509d935a7b9c51f5cf69ca04084b91afe7ec659374"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "efb9cf070be73bc4fe9458a553fd2e470009bb98d44d66c7681fe06c93aee8d7"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "b75b0b3816a4378e799805dfe04f3657f9c8b4088ab20151c884d4fb78bef62e"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
+metafile = true
+
+[[files]]
+file = "mods/create-teleporters.pw.toml"
+hash = "5ba342e709f7395a8aea98d9487c442ae4ebbb1157189537a3218cceb8122441"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+metafile = true
