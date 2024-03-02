@@ -1,0 +1,13 @@
+name = "Create: Tomorrow"
+author = "toby7002"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "45d9015aadf68c197c3af798c9addba8d8ee3a96915341413e59a79d1cbfd9cd"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
