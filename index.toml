@@ -465,9 +465,8 @@ hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "3e5deb38abf19119c4d067aeb0785ef9839d978629bde2ef9ddddd26b15cf8bc"
-metafile = true
+file = "options.txt"
+hash = "b66c9dfb81cbcadaca9052dc232f48737f582e98b27c637a8c5b71623ab980d3"
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
@@ -483,3 +482,11 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "0fc625e075a11cf7b2592846f33cba852d5402c40d85902ef06b5dbdfdfd5624"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
+hash = "335b5d2aebf575a33bf85ba129e24737b855cbde04d8e48ab26ce3b50c66dbb5"
