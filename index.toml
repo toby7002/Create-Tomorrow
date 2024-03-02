@@ -5,6 +5,26 @@ file = "LICENSE"
 hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
 
 [[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "45a5daf2b0a8d61b3f8c538d9a8797488105129d3b64d3a60eae9ede0a204aa3"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "03771779a5a607266dc675193b909e8bd3d83602f1c42302ef3a314dd9103180"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "aedc7df30650cc6f0b02521400106d2c5fb4c4b0ed098ebe133d73faf4613505"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "e2af876c691ca9fdbb3d6e5b9e05e5d2feff108e28b8de1dceef2e00dad6c10a"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
