@@ -25,6 +25,11 @@ hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "a40d23bbf38073397c822c17a6a9b816397074c03e57b798a83bf50d2e77acbe"
 metafile = true
@@ -175,6 +180,11 @@ hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b675cf40c5587a699b4a9c8cd51d74da22cbdc76b4c2f82e4f41fa30faa53430"
 metafile = true
@@ -227,6 +237,26 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "03007dbec06967fadd517024dc8b8b1e1b01696fd79965fa8403da6585d161fa"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
 metafile = true
 
 [[files]]
@@ -305,6 +335,11 @@ hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
@@ -317,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "fddb460180a419e8e9fa292c465c7d41f6826e4c25e4be7a016d580390bf225c"
 metafile = true
 
 [[files]]
@@ -422,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3e5deb38abf19119c4d067aeb0785ef9839d978629bde2ef9ddddd26b15cf8bc"
 metafile = true
 
 [[files]]
