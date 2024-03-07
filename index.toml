@@ -18,7 +18,7 @@ hash = "bc4a62bdec13ae81f7777157016e4fa0d67ff5d8094a1cee33a1f8ad953c150f"
 
 [[files]]
 file = "config/fancymenu/assets/splash_texts.txt"
-hash = "68d5d2aab0cf840c71dc9974d60cee988c76236d207e85d01252986b3c8d5fa6"
+hash = "43f3977a313e001abc16c7668bf37b9723eed1092a9fad99aad8746d4f94215e"
 
 [[files]]
 file = "config/fancymenu/assets/title.png"
@@ -95,6 +95,10 @@ hash = "aedc7df30650cc6f0b02521400106d2c5fb4c4b0ed098ebe133d73faf4613505"
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "e2af876c691ca9fdbb3d6e5b9e05e5d2feff108e28b8de1dceef2e00dad6c10a"
+
+[[files]]
+file = "kubejs/client_scripts/rei.js"
+hash = "365ad10ae5b4dce93a422cddf4bd86e10ff0052b074ed38c4e1483d22c45c542"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
