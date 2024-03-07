@@ -387,6 +387,11 @@ hash = "82e2b98d22ba01860da58ae89ac6ed420a21807f19faf9e17d99e155d354dad3"
 metafile = true
 
 [[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "cee31ab80f287855dc0ec3c7e2e3879f2f4265b05c38066aca9f3f419cf2e278"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0b7630f769e433d61da851e2a7f073c682a62870479c2ddfe4770197ba02d437"
 metafile = true
