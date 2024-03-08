@@ -98,7 +98,11 @@ hash = "e2af876c691ca9fdbb3d6e5b9e05e5d2feff108e28b8de1dceef2e00dad6c10a"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "365ad10ae5b4dce93a422cddf4bd86e10ff0052b074ed38c4e1483d22c45c542"
+hash = "92f068091ad91c5a1e75b1d5ab2973d701edb8c90612552c8b08dbcc1f3d9e4c"
+
+[[files]]
+file = "kubejs/server_scripts/enderio-create.js"
+hash = "cc976ac588443e10caed5b3084af919414dcf455687e8a2d2cee8f0b55b7af0c"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -113,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "73be4cc1db3f18aa9440d36631344ce5228f3ade694887cb34ea06b063ff6095"
-metafile = true
-
-[[files]]
-file = "mods/almost-unified.pw.toml"
-hash = "524bd758b0843d8eab9e84aeee49116ab3dee5491d834c77c36ee27c8c0015e4"
 metafile = true
 
 [[files]]
