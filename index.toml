@@ -361,6 +361,11 @@ hash = "fe69d5496f371d4461c031afa358e9db12e10cb5799fd05003cb26928984e2f4"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "33ffd605258873979cdecfd043e4db743bc051271db2b868f200a69200de10d0"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "ec09e436407a4921b5b5517dadb9fb16fbf7e6d60ad91313c99e6cdad611c1ac"
 metafile = true
