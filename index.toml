@@ -77,26 +77,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/roughlyenoughitems/changelog.txt"
-hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "45a5daf2b0a8d61b3f8c538d9a8797488105129d3b64d3a60eae9ede0a204aa3"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "03771779a5a607266dc675193b909e8bd3d83602f1c42302ef3a314dd9103180"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "aedc7df30650cc6f0b02521400106d2c5fb4c4b0ed098ebe133d73faf4613505"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "e2af876c691ca9fdbb3d6e5b9e05e5d2feff108e28b8de1dceef2e00dad6c10a"
-
-[[files]]
 file = "kubejs/client_scripts/rei.js"
 hash = "92f068091ad91c5a1e75b1d5ab2973d701edb8c90612552c8b08dbcc1f3d9e4c"
 
@@ -117,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "73be4cc1db3f18aa9440d36631344ce5228f3ade694887cb34ea06b063ff6095"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "524bd758b0843d8eab9e84aeee49116ab3dee5491d834c77c36ee27c8c0015e4"
 metafile = true
 
 [[files]]
@@ -196,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "f56c370b32425962d0fe4a46b16a2e62fc50dc91ab415cd6ff1ae9630bddee70"
 metafile = true
 
 [[files]]
@@ -276,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "4f04ba49bfba967c335d14c9c61f92e0fb9299cc7665dc76cb87a95bad00bf7c"
+hash = "3cd38007ea8e36acedcae7e62d53a286b7262a9cb68b5179795a79011a857fa2"
 metafile = true
 
 [[files]]
@@ -301,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "14e28dc2fa7a9d6355acc004991d9a7c5c9fa4dd5405fc3824e7a0ca6af06c34"
+hash = "e4b3441041cff04b627ebf53f447d187dc38c8d23719b98fa1a15455c71e704f"
 metafile = true
 
 [[files]]
@@ -321,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "d3274c470c3453c5eaf928acf6d5138a27d0ee874fabc1f8c269e15c7d98fc46"
+hash = "430abf1b7a7c780401f21acf50a54a331cc7d4119ab56d113f88498116c6d536"
 metafile = true
 
 [[files]]
@@ -371,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "33ffd605258873979cdecfd043e4db743bc051271db2b868f200a69200de10d0"
+hash = "f1845b0ec0a5cb996c3f62ef440b1d5fb7b4e12aa9adb60822006064ac2cf002"
 metafile = true
 
 [[files]]
@@ -381,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
-hash = "f860ca464d6386c15bc3f4b17badc5bf2d2765c0317e015c3ef846b3883a48c3"
+hash = "abab4c7eb54703d94af97b71a4a496dbb15c5765e213198e6918317339bff25a"
 metafile = true
 
 [[files]]
@@ -425,8 +410,33 @@ hash = "98112e5bc8ac85df7b209257c597a9a57f90284f24db6c9e0b69294b66082429"
 metafile = true
 
 [[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "dff6e001d8b4c5f03492cdc644b78352f83929b598e7e153ec8176e6aefda5de"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
-hash = "34f1fb2e7c9fc5fa9a646a8f59b4e6054a1c5de60072d194c421662365a1bfbf"
+hash = "27ffebdd19a34fc44b48fe85872781e302f62b5c31b71c719ded385628b898c6"
 metafile = true
 
 [[files]]
@@ -446,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-enderio.pw.toml"
-hash = "96579244f190817a0d778c839019f5a15a296ed1b370c3586e5191c9fa9b77b4"
+hash = "2301581b73814b2e863957012e9e5b8aff60f6bf9986ea116ce598a7e750a3be"
 metafile = true
 
 [[files]]
@@ -461,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+hash = "fd35d7099794d66a253c6a1e2ddc3b9d960bde0fd77da4567f31342d21198382"
 metafile = true
 
 [[files]]
@@ -471,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+hash = "2fbff6641656f2d2ded89f453fd42a6031e77a73a65a9516fb16477a316f7d65"
 metafile = true
 
 [[files]]
@@ -527,26 +537,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f029c04bc5453cfea8cf1237e681f33e7d2856fe7c4c54e2661f70f3e1410e97"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "e4e90b040cdb0d6be333cafe877ee06065842fd80f760eae212f03dbfed0f7d3"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "811790b426f35500b3a132fa03fedaaad356d4769b9dd4a7b3f84bad19249c3e"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "b3b422de9a50d9492207abdf4f772b014bf791801cd69308e857e8182d891327"
 metafile = true
 
 [[files]]
@@ -611,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "560d876a490dde8bdc9851077e3b6e02809c76d472f312c05fdfcc4fe43c23cd"
+hash = "dccd64a44956a5592232cb5009771d2012961c9f3f430cd09abaf5b3c4c4806a"
 metafile = true
 
 [[files]]
