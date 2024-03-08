@@ -81,12 +81,8 @@ file = "kubejs/client_scripts/rei.js"
 hash = "92f068091ad91c5a1e75b1d5ab2973d701edb8c90612552c8b08dbcc1f3d9e4c"
 
 [[files]]
-file = "kubejs/server_scripts/create.js"
-hash = "58f122db3a7e542e39ac0c98999a8272d1fb1f93495a11cb703dfdd3b9eb1b28"
-
-[[files]]
-file = "kubejs/server_scripts/vanilla.js"
-hash = "e7231a8923c263e4a5b0c96e66a13a9af8648e8934520b5110f5666794b01d30"
+file = "kubejs/server_scripts/recipes.js"
+hash = "4a35d9df2593472d8f5c72fe3e41c110a6fef61ba0d5b3cc84fe958b09958ec9"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

@@ -3,6 +3,7 @@ ServerEvents.recipes((event) => {
   addRecipes(event);
   replaceInputs(event);
   replaceMaterialSets(event);
+  addGearRecipes(event);
 });
 
 function removeRecipes(event) {
@@ -11,6 +12,8 @@ function removeRecipes(event) {
   // Stick
   event.remove({ output: "stick", mod: "enderio" });
   event.remove({ output: "stick", mod: "minecraft" });
+  // Furnace
+  event.remove({ output: "furnace", mod: "minecraft" });
 }
 
 /**
@@ -34,6 +37,13 @@ function addRecipes(event) {
   });
   event.shaped("8x stick", ["X", "X"], {
     X: "#minecraft:logs",
+  });
+  // Furnace
+  event.shaped("furnace", ["XYX", "ZOZ", "XYX"], {
+    X: "compressedblocks:c0_cobblestone",
+    Y: "#forge:cobblestone",
+    Z: "enderio:stone_gear",
+    O: "#minecraft:coals",
   });
 }
 
@@ -73,5 +83,50 @@ function replaceMaterialSets(event) {
         `#forge:plates/${material}`
       );
     });
+  });
+  // Create
+  ["zinc", "brass"].forEach((material) => {
+    [
+      "helmet",
+      "chestplate",
+      "leggings",
+      "boots",
+      "sword",
+      "pickaxe",
+      "axe",
+      "shovel",
+      "hoe",
+    ].forEach((type) => {
+      event.replaceInput(
+        {
+          input: `create:${material}_ingot`,
+          output: `create_sa:${material}_${type}`,
+        },
+        `create:${material}_ingot`,
+        `#forge:plates/${material}`
+      );
+    });
+  });
+}
+
+/**
+ * @param {Internal.RecipesEventJS} event
+ */
+function addGearRecipes(event) {
+  event.remove({ mod: "enderio", output: "#forge:gears" });
+
+  event.shaped("enderio:wood_gear", ["XYX", "YXY", "XYX"], {
+    X: "minecraft:air",
+    Y: "#minecraft:planks",
+  });
+  event.shaped("enderio:stone_gear", ["XYX", "YZY", "XYX"], {
+    X: "#minecraft:planks",
+    Y: "#forge:cobblestone",
+    Z: "minecraft:air",
+  });
+  event.shaped("enderio:stone_gear", ["XYX", "YZY", "XYX"], {
+    X: "minecraft:air",
+    Y: "#forge:cobblestone",
+    Z: "enderio:wood_gear",
   });
 }
