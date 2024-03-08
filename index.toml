@@ -116,6 +116,11 @@ hash = "73be4cc1db3f18aa9440d36631344ce5228f3ade694887cb34ea06b063ff6095"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "524bd758b0843d8eab9e84aeee49116ab3dee5491d834c77c36ee27c8c0015e4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8afcc0605156507e57a87872fefa808f5753a11163f80193674b5e5e06b42759"
 metafile = true
@@ -296,6 +301,11 @@ hash = "a6af0a33becef3e1922baa2454612053dbae4d813c1ad133ff2bb16b2ee78bae"
 metafile = true
 
 [[files]]
+file = "mods/ender-io.pw.toml"
+hash = "14e28dc2fa7a9d6355acc004991d9a7c5c9fa4dd5405fc3824e7a0ca6af06c34"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8f1ce180c6b8e8b8c256df7af6c7c0676a70a38197086695d00afc042c257542"
 metafile = true
@@ -396,11 +406,6 @@ hash = "82e2b98d22ba01860da58ae89ac6ed420a21807f19faf9e17d99e155d354dad3"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "cee31ab80f287855dc0ec3c7e2e3879f2f4265b05c38066aca9f3f419cf2e278"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0b7630f769e433d61da851e2a7f073c682a62870479c2ddfe4770197ba02d437"
 metafile = true
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "cda9a9c1badc887fa8509face57f9b9b266150b76da60a9f5dc270f5a14d57e3"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-enderio.pw.toml"
+hash = "96579244f190817a0d778c839019f5a15a296ed1b370c3586e5191c9fa9b77b4"
 metafile = true
 
 [[files]]
