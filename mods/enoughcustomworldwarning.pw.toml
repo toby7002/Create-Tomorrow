@@ -1,0 +1,13 @@
+name = "EnoughCustomWorldWarning"
+filename = "EnoughCustomWorldWarning-forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba3823c0fae8123379ccca7a591fe6a63f1231e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5166794
+project-id = 983818

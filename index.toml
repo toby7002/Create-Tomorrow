@@ -294,6 +294,11 @@ hash = "e4b3441041cff04b627ebf53f447d187dc38c8d23719b98fa1a15455c71e704f"
 metafile = true
 
 [[files]]
+file = "mods/enoughcustomworldwarning.pw.toml"
+hash = "f823d62a493da393ff17a4cb93c04541932bceff2fc5370629eda24173bb788c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8f1ce180c6b8e8b8c256df7af6c7c0676a70a38197086695d00afc042c257542"
 metafile = true
