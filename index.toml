@@ -18,7 +18,7 @@ hash = "bc4a62bdec13ae81f7777157016e4fa0d67ff5d8094a1cee33a1f8ad953c150f"
 
 [[files]]
 file = "config/fancymenu/assets/splash_texts.txt"
-hash = "43f3977a313e001abc16c7668bf37b9723eed1092a9fad99aad8746d4f94215e"
+hash = "6734fe742a18ead0ef91e8606f6affc0a963d7621ecbbf02af687f31b5847dd1"
 
 [[files]]
 file = "config/fancymenu/assets/title.png"
@@ -597,12 +597,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b66c9dfb81cbcadaca9052dc232f48737f582e98b27c637a8c5b71623ab980d3"
-
-[[files]]
-file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "87a32483cbcf46b48fe4c0b85fd66d6a068394f9e5844fbda56322a44e4edd3c"
-metafile = true
+hash = "52d69d1e321439caa32bf780ff95c0b4e370e60077a0bf7af249335138ccb3a4"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
