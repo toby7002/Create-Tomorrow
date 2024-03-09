@@ -86,7 +86,7 @@ hash = "725826e674084a8c2652771ae1caed6ca3bff23b13b512a37e8d27ee5c0654dd"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "70d3aa01a1f34277436f3ad45f673d2d4845b793e61bb8b9f3ac399e1dae2475"
+hash = "c5acd0bb415965ad4ac26f58d41e5a2cf516b8b8ff186379246d3f5d08a96c52"
 
 [[files]]
 file = "kubejs/server_scripts/material_set_recipes.js"
@@ -99,6 +99,14 @@ hash = "a354bb6b5f18a8bc3ca26cf9b902496e36fd23f69a0febb8e2cb4b06067f83ea"
 [[files]]
 file = "kubejs/server_scripts/update_recipes.js"
 hash = "931ead17ee9cd5b24eb7979a1ae8458d93a53acb55f0dff5f49433bbf50cc399"
+
+[[files]]
+file = "kubejs/startup_scripts/fluid_registry.js"
+hash = "85eed6562d0693a88397a8428fd88d523af51991e3adfd9c1377c41cb363a27d"
+
+[[files]]
+file = "kubejs/startup_scripts/item_registry.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -218,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "22ad8f282831c7c9a85d9598150db747c0033ee63fd059deaa212fe961a30034"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "cdc8386b87895775e3f4cc5624c43efd6a3610516864a7f507adb70c2c3a12f1"
 metafile = true
 
 [[files]]
@@ -643,6 +656,21 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "1f218ac045e6e97202e6651ae1ab0266441873d2f809f6ecffa334b23380c930"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "744e7032ecd82802548cf96e6bd980af743afde7a7ae2c9321d9ab6794263e09"
 metafile = true
 
 [[files]]
