@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "a8ff16f939fb4ba3272e7d5e63dc1adfa70107420c2e7339e01eb26a1a7e2fa4"
+
+[[files]]
 file = "config/fancymenu/assets/icons/logo.icns"
 hash = "927e7f6a26cd8262b1f0d4298a70f82c0a9a91f8aeb30e7b2654f2ab949b0ff5"
 
