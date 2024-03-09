@@ -14,6 +14,11 @@ function removeRecipes(event) {
   event.remove({ output: "stick", mod: "minecraft" });
   // Furnace
   event.remove({ output: "furnace", mod: "minecraft" });
+  // Uncrafting table
+  event.remove({
+    output: "twilightforest:uncrafting_table",
+    mod: "twilightforest",
+  });
 }
 
 /**

@@ -77,12 +77,12 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "kubejs/client_scripts/rei.js"
-hash = "92f068091ad91c5a1e75b1d5ab2973d701edb8c90612552c8b08dbcc1f3d9e4c"
+file = "kubejs/client_scripts/jei.js"
+hash = "1692df1b7d533ab6c787e40adf1faea5b8c090afa7c08eb26450d00c3c9e31bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "4a35d9df2593472d8f5c72fe3e41c110a6fef61ba0d5b3cc84fe958b09958ec9"
+hash = "acee8057138dd10382e93da9a396cfe512dd3d777dd72a373fd2c085b20f369b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -202,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e9adf7a9f660e491a78b948262cad604a31120b47cb851186025fca5e39d1726"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "5651e50dfbf39e57f011c19e849a9389264308fb8e55e70ca6811a1dfca73137"
 metafile = true
 
 [[files]]
