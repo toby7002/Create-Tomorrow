@@ -127,6 +127,11 @@ hash = "2a6d398aa111a6448b1d4072e34f61294a517d2c8545cb0aa4239ea8ad63ce45"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "5fa530893dab6497700988aa6f01eb1b936d1f94fb258ee7711da52422c7d0ac"
 metafile = true
@@ -139,6 +144,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f8ec99e8c928b816452fb2c58ff7cdfebd94aa1c24d9d8ee50cb2e16ecb24d48"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "3c947528b3412d6b5e308b587c63bc357bf731a290c8843febcaa8879e0c4086"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "09b84a42da91339efbc640824636624920b1fd74b7e251d70adbb3217b3f7cf3"
 metafile = true
 
 [[files]]
@@ -164,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "2400928e3f36206a5370267fbf2ce472c349688275c16a8c37e072d2ad54b351"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
 metafile = true
 
 [[files]]
@@ -514,6 +534,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "771d8316e68add43c34411f8265debe87c12d9f133af24871851776e449dbff3"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
