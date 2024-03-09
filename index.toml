@@ -514,6 +514,11 @@ hash = "2301581b73814b2e863957012e9e5b8aff60f6bf9986ea116ce598a7e750a3be"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "be2fd618cc61b8eee5ab16c03b4780809da0f3de76bf5224a463cfffeebd6385"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "3a499f5ab4439a37032dc1ff45ee495f5a25d2dc832327ed66e38fe84bfe2e2e"
 metafile = true
