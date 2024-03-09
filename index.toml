@@ -6,7 +6,7 @@ hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "a8ff16f939fb4ba3272e7d5e63dc1adfa70107420c2e7339e01eb26a1a7e2fa4"
+hash = "d5b79f5edfa689902fdf2b73b1d48b5abd451a4b6accbec499162214d8e7c820"
 
 [[files]]
 file = "config/fancymenu/assets/icons/logo.icns"
@@ -82,11 +82,11 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "kubejs/client_scripts/hide_items.js"
-hash = "725826e674084a8c2652771ae1caed6ca3bff23b13b512a37e8d27ee5c0654dd"
+hash = "ce25a388b2699967fa4a4d61072947157d038aa95b67ad302a4ed5332d85a062"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "c5acd0bb415965ad4ac26f58d41e5a2cf516b8b8ff186379246d3f5d08a96c52"
+hash = "1c8d0b82ca0e616ab1219314060ed5169f22bef8edd148ceaaf1728c19e4f5ac"
 
 [[files]]
 file = "kubejs/server_scripts/material_set_recipes.js"
@@ -94,19 +94,15 @@ hash = "34258d4707cc0303b7b628fb0dea4bf4cae824d019548f01eff8795619b8165c"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "a354bb6b5f18a8bc3ca26cf9b902496e36fd23f69a0febb8e2cb4b06067f83ea"
+hash = "80b1acc0f043914f7d760f38514d0259a83ba100d551b968ac1756abdb84d950"
 
 [[files]]
 file = "kubejs/server_scripts/update_recipes.js"
-hash = "931ead17ee9cd5b24eb7979a1ae8458d93a53acb55f0dff5f49433bbf50cc399"
+hash = "ce4a308f5e840e7dd3932a96e5abf39729af1402e554db7a568201e55121284c"
 
 [[files]]
-file = "kubejs/startup_scripts/fluid_registry.js"
-hash = "85eed6562d0693a88397a8428fd88d523af51991e3adfd9c1377c41cb363a27d"
-
-[[files]]
-file = "kubejs/startup_scripts/item_registry.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -329,6 +325,21 @@ hash = "64c351d53fb65bb1d524be78ef8d10f6735a6062a8d45442a743d95a8227d272"
 metafile = true
 
 [[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b82d5fc582f5a3ed938b8c3c3877c11d32fb6e8f62902b16d54db526c8a5041c"
+metafile = true
+
+[[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a6af0a33becef3e1922baa2454612053dbae4d813c1ad133ff2bb16b2ee78bae"
 metafile = true
@@ -464,28 +475,8 @@ hash = "98112e5bc8ac85df7b209257c597a9a57f90284f24db6c9e0b69294b66082429"
 metafile = true
 
 [[files]]
-file = "mods/jei-integration.pw.toml"
-hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "dff6e001d8b4c5f03492cdc644b78352f83929b598e7e153ec8176e6aefda5de"
 metafile = true
 
 [[files]]

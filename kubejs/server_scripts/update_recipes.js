@@ -1,6 +1,7 @@
 ServerEvents.recipes((event) => {
   Minecraft(event);
   EnderIO(event);
+  UpdateThermalRecipes(event);
 });
 
 /**
@@ -51,6 +52,8 @@ function Minecraft(event) {
  */
 function EnderIO(event) {
   event.remove({ mod: "enderio", output: "#forge:gears" });
+  event.remove({ mod: "enderio", output: "enderio:void_chassis" });
+  event.remove({ mod: "enderio", output: "enderio:ensouled_chassis" });
 
   event.shaped("enderio:wood_gear", ["XYX", "YXY", "XYX"], {
     X: "minecraft:air",
@@ -61,4 +64,27 @@ function EnderIO(event) {
     Y: "#forge:cobblestone",
     Z: "minecraft:air",
   });
+  event.shaped("enderio:void_chassis", ["XYX", "OZO", "XYX"], {
+    X: "#forge:plates/calorite",
+    Y: "#forge:gears/iron",
+    Z: "thermal:energy_cell_frame",
+    O: "enderio:dark_steel_bars",
+  });
+  event.shaped("enderio:ensouled_chassis", ["XYX", "YZY", "XYX"], {
+    X: "enderio:reinforced_obsidian_block",
+    Y: "enderio:confusing_powder",
+    Z: "enderio:void_chassis",
+  });
+  event.shaped("6x enderio:confusing_powder", ["XYZ", "YOY", "ZYX"], {
+    X: "lapis_lazuli",
+    Y: "enderio:organic_brown_dye",
+    Z: "enderio:organic_green_dye",
+    O: "enderio:organic_black_dye",
+  });
+}
+
+/**
+ * @param {Internal.RecipesEventJS} event
+ */
+function UpdateThermalRecipes(event) {
 }

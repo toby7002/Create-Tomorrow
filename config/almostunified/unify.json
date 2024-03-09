@@ -1,5 +1,12 @@
 {
-  "modPriorities": ["minecraft", "kubejs", "ad_astra", "create", "enderio"],
+  "modPriorities": [
+    "minecraft",
+    "kubejs",
+    "thermal",
+    "ad_astra",
+    "create",
+    "enderio"
+  ],
   "stoneStrata": [
     "stone",
     "nether",

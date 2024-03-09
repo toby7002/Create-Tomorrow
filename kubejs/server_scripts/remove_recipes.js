@@ -2,6 +2,7 @@ ServerEvents.recipes((event) => {
   CreateNewAge(event);
   CreateAddition(event);
   TwilightForest(event);
+  Thermal(event);
 });
 
 /**
@@ -58,5 +59,25 @@ function TwilightForest(event) {
       output: `twilightforest:${recipe}`,
       mod: "twilightforest",
     });
+  });
+}
+
+/**
+ * @param {Internal.RecipesEventJS} event
+ */
+function Thermal(event) {
+  ["sapphire_gear", "ruby_gear", "lapis_gear", "quartz_gear"].forEach(
+    (recipe) => {
+      event.remove({
+        output: `thermal:${recipe}`,
+        mod: "thermal",
+      });
+    }
+  );
+
+  event.remove({
+    type: "crafting_shaped",
+    mod: "thermal",
+    output: "#forge:gears",
   });
 }

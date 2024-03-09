@@ -2,6 +2,7 @@ JEIEvents.hideItems((event) => {
   CreateNewAge(event);
   CreateAddition(event);
   TwilightForest(event);
+  Thermal(event);
 });
 
 /**
@@ -50,4 +51,15 @@ function TwilightForest(event) {
   ["uncrafting_table"].forEach((recipe) => {
     event.hide(`twilightforest:${recipe}`);
   });
+}
+
+/**
+ * @param {Internal.HideJEIEventJS} event
+ */
+function Thermal(event) {
+  ["sapphire_gear", "ruby_gear", "lapis_gear", "quartz_gear"].forEach(
+    (recipe) => {
+      event.hide(`thermal:${recipe}`);
+    }
+  );
 }
