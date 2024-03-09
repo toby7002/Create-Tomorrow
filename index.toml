@@ -77,12 +77,24 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "kubejs/client_scripts/jei.js"
-hash = "1692df1b7d533ab6c787e40adf1faea5b8c090afa7c08eb26450d00c3c9e31bd"
+file = "kubejs/client_scripts/hide_items.js"
+hash = "725826e674084a8c2652771ae1caed6ca3bff23b13b512a37e8d27ee5c0654dd"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "acee8057138dd10382e93da9a396cfe512dd3d777dd72a373fd2c085b20f369b"
+file = "kubejs/server_scripts/add_recipes.js"
+hash = "70d3aa01a1f34277436f3ad45f673d2d4845b793e61bb8b9f3ac399e1dae2475"
+
+[[files]]
+file = "kubejs/server_scripts/material_set_recipes.js"
+hash = "34258d4707cc0303b7b628fb0dea4bf4cae824d019548f01eff8795619b8165c"
+
+[[files]]
+file = "kubejs/server_scripts/remove_recipes.js"
+hash = "a354bb6b5f18a8bc3ca26cf9b902496e36fd23f69a0febb8e2cb4b06067f83ea"
+
+[[files]]
+file = "kubejs/server_scripts/update_recipes.js"
+hash = "931ead17ee9cd5b24eb7979a1ae8458d93a53acb55f0dff5f49433bbf50cc399"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -162,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "1de0baeab1351d9f299c3ec943196f0e1e1aa1f3f37025c5fd3593164c1caba2"
+metafile = true
+
+[[files]]
+file = "mods/cb-compressed-blocks.pw.toml"
+hash = "c0e8ea6ecdc2fc8cba3cff5c70dd05ae91ac7fcddc9c077322a97341976ee6e0"
 metafile = true
 
 [[files]]
