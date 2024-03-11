@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "902e2e28f0b47ff0e28eada99cdae0103a3bbb070f162611a613a77b7d3ccdfc"
+
+[[files]]
 file = "config/fancymenu/assets/icons/logo.icns"
 hash = "927e7f6a26cd8262b1f0d4298a70f82c0a9a91f8aeb30e7b2654f2ab949b0ff5"
 
@@ -82,11 +86,11 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "kubejs/client_scripts/index.js"
-hash = "55010fc45629c8469a1e29094f301066787a549f2b45029dec4071e3dd387fe7"
+hash = "4663a5afcb9a293b762a8a06126961bbc1e15760c7d887b28444a66af1301ebd"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "77782b74d23f20891e533453349b6c821b07c15dd75f491660489ad5c8541aa9"
+hash = "0c7dc4f1923a7fe1850af86aa328e74ee281c39a6266419cbb1c32514cf0bab4"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
