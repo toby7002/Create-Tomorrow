@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"lib": ["ES6", "ES2016"],
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+		"skipLibCheck": true,
+		"outFile": "../../kubejs/startup_scripts/index.js"
+	},
+	"include": ["../../probe/generated/", "*.ts"]
+}

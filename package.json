@@ -1,0 +1,19 @@
+{
+	"name": "create-tomorrow",
+	"version": "1.0.0",
+	"scripts": {
+		"build": "concurrently \"cd kubets/client_scripts && tsc\" \"cd kubets/server_scripts && tsc\" \"cd kubets/startup_scripts && tsc\"",
+		"prepare": "husky"
+	},
+	"author": "toby7002",
+	"license": "MIT",
+	"devDependencies": {
+		"concurrently": "^8.2.2",
+		"husky": "^9.0.11",
+		"lint-staged": "^15.2.2",
+		"prettier": "3.2.5"
+	},
+	"lint-staged": {
+		"**/*.{js,ts}": "prettier --write --ignore-unknown"
+	}
+}

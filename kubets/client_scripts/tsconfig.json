@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"lib": ["ES5", "ES2015"],
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+		"skipLibCheck": true,
+		"outFile": "../../kubejs/client_scripts/index.js",
+		"rootDir": "./"
+	},
+	"include": ["../../probe/generated/", "*.ts"]
+}

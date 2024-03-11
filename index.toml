@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".prettierrc"
+hash = "6c326fd358923a423ec10efe57742aba5cba1633ffbbfd5fe7a58c9c539fd54a"
+
+[[files]]
 file = "LICENSE"
 hash = "d6342366105be929126e3fd1a4efe43c07cb3bb54d83edd619a6c6aec401422c"
 
@@ -66,15 +70,23 @@ hash = "e675f8f6896013a7e725510565613e7e5110787ea4b4dc2374ef8ff4d5bf8d7e"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "f8c466bafda201a81eef4ed34ad0c54d8ada2aacc1d3b5bd06e70e770b8c1f30"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+hash = "70b22dc8404b8c600fa41e1cff0813bb1f3c9fb3e5bb9a404e23776b52bf6f13"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "kubejs/client_scripts/index.js"
+hash = "55010fc45629c8469a1e29094f301066787a549f2b45029dec4071e3dd387fe7"
+
+[[files]]
+file = "kubejs/server_scripts/index.js"
+hash = "77782b74d23f20891e533453349b6c821b07c15dd75f491660489ad5c8541aa9"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
