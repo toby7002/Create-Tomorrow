@@ -1,9 +1,16 @@
 ServerEvents.recipes((event) => {
 	getMekanism()
-		.concat(getCreateNewAge(), getCreateAddition(), getTwilightForest())
+		.concat(
+			getCreateNewAge(),
+			getCreateAddition(),
+			getTwilightForest(),
+			CreateTheFactoryMustGrowRecipes(),
+		)
 		.forEach((item: string) => {
 			event.remove({ output: item as any });
 		});
+
+	event.remove({ type: "tfmg:casting" });
 });
 
 function getMekanism(): string[] {
@@ -105,4 +112,26 @@ function getTwilightForest(): string[] {
 	}
 
 	return getTwilightForestItems();
+}
+
+function CreateTheFactoryMustGrowRecipes(): string[] {
+	function Recipes(): string[] {
+		return [
+			"molten_steel_bucket",
+			"fireclay",
+			"fireclay_ball",
+			"fireproof_brick",
+			"fireproof_bricks",
+			"fireproof_brick_reinforcement",
+			"blast_furnace_output",
+			"block_mold",
+			"ingot_mold",
+			"casting_basin",
+			"casting_spout",
+			"slag",
+			"blasting_mixture",
+		].map((item) => `tfmg:${item}`);
+	}
+
+	return Recipes();
 }

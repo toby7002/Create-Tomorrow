@@ -1,7 +1,25 @@
 "use strict";
+JEIEvents.hideFluids(function (event) {
+	CreateTheFactoryMustGrowFluids().forEach(function (fluid) {
+		event.hide(fluid);
+	});
+});
+function CreateTheFactoryMustGrowFluids() {
+	function Fluids() {
+		return ["molten_slag", "molten_steel"].map(function (fluid) {
+			return "tfmg:".concat(fluid);
+		});
+	}
+	return Fluids();
+}
 JEIEvents.hideItems(function (event) {
 	getMekanism()
-		.concat(getCreateNewAge(), getCreateAddition(), getTwilightForest())
+		.concat(
+			getCreateNewAge(),
+			getCreateAddition(),
+			getTwilightForest(),
+			CreateTheFactoryMustGrowItems(),
+		)
 		.forEach(function (item) {
 			event.hide(item);
 		});
@@ -109,4 +127,27 @@ function getTwilightForest() {
 		});
 	}
 	return getTwilightForestItems();
+}
+function CreateTheFactoryMustGrowItems() {
+	function Items() {
+		return [
+			"molten_slag_bucket",
+			"molten_steel_bucket",
+			"fireclay",
+			"fireclay_ball",
+			"fireproof_brick",
+			"fireproof_bricks",
+			"fireproof_brick_reinforcement",
+			"blast_furnace_output",
+			"block_mold",
+			"ingot_mold",
+			"casting_basin",
+			"casting_spout",
+			"slag",
+			"blasting_mixture",
+		].map(function (item) {
+			return "tfmg:".concat(item);
+		});
+	}
+	return Items();
 }

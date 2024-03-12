@@ -1,6 +1,11 @@
 JEIEvents.hideItems((event) => {
 	getMekanism()
-		.concat(getCreateNewAge(), getCreateAddition(), getTwilightForest())
+		.concat(
+			getCreateNewAge(),
+			getCreateAddition(),
+			getTwilightForest(),
+			CreateTheFactoryMustGrowItems(),
+		)
 		.forEach((item) => {
 			event.hide(item);
 		});
@@ -105,4 +110,27 @@ function getTwilightForest(): string[] {
 	}
 
 	return getTwilightForestItems();
+}
+
+function CreateTheFactoryMustGrowItems(): string[] {
+	function Items(): string[] {
+		return [
+			"molten_slag_bucket",
+			"molten_steel_bucket",
+			"fireclay",
+			"fireclay_ball",
+			"fireproof_brick",
+			"fireproof_bricks",
+			"fireproof_brick_reinforcement",
+			"blast_furnace_output",
+			"block_mold",
+			"ingot_mold",
+			"casting_basin",
+			"casting_spout",
+			"slag",
+			"blasting_mixture",
+		].map((item) => `tfmg:${item}`);
+	}
+
+	return Items();
 }

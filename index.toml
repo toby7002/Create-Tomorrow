@@ -86,11 +86,11 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "kubejs/client_scripts/index.js"
-hash = "4663a5afcb9a293b762a8a06126961bbc1e15760c7d887b28444a66af1301ebd"
+hash = "0bd4e90f3555a6b14d951fe069d87ac53a8b27275243f5f4c7e9b7a9575447d5"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "0c7dc4f1923a7fe1850af86aa328e74ee281c39a6266419cbb1c32514cf0bab4"
+hash = "1641ca71cf9557bf48a1c62664aba9ff0c8c6622263c8a2b8889b7db2006a858"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -283,21 +283,6 @@ hash = "64c351d53fb65bb1d524be78ef8d10f6735a6062a8d45442a743d95a8227d272"
 metafile = true
 
 [[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "4b04bc2a0d0b9eda7653c2b33d77eceb610caa1c1968800193a1fc12b0aa91f2"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "1667c1e0fba96a787efb3d6f7856ecc3f06eb99c72e77614f0a9dad98e8bbdb0"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "6cf480951f4b6d7780a92de2bb8a21b2ff24ca1a3965f9a1e682cf7ccbbc29e2"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a6af0a33becef3e1922baa2454612053dbae4d813c1ad133ff2bb16b2ee78bae"
 metafile = true
@@ -428,11 +413,6 @@ hash = "98112e5bc8ac85df7b209257c597a9a57f90284f24db6c9e0b69294b66082429"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "1bb8e1db5c113a8a845049e26dfb69f2a8fb1482b6eac705cf921f2790c3a907"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "27ffebdd19a34fc44b48fe85872781e302f62b5c31b71c719ded385628b898c6"
 metafile = true
@@ -550,6 +530,26 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f029c04bc5453cfea8cf1237e681f33e7d2856fe7c4c54e2661f70f3e1410e97"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "8eaa51d7f63c6abb594354921b8acb246bc5b7b6955cc98720fd36ae4f5b44be"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
