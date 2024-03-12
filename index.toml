@@ -86,11 +86,11 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "kubejs/client_scripts/index.js"
-hash = "0bd4e90f3555a6b14d951fe069d87ac53a8b27275243f5f4c7e9b7a9575447d5"
+hash = "fc06a84f776680b8668f80cc096b5c42bce3c6d7d24e7341b8d36a16c0feae27"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "1641ca71cf9557bf48a1c62664aba9ff0c8c6622263c8a2b8889b7db2006a858"
+hash = "fce48686e7308709b68eac601f8ece8bd83f96df4e90d17556afd295a375d606"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

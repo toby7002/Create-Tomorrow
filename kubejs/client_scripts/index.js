@@ -1,5 +1,35 @@
 "use strict";
-JEIEvents.hideFluids(function (event) {
+REIEvents.groupEntries(function (event) {
+	event.groupItems(
+		"kubejs:rei_groups/rechiseledcreate",
+		"Rechiseled: Create Blocks",
+		[Ingredient.of("@rechiseledcreate").getItemIds()],
+	);
+	event.groupItems("kubejs:rei_groups/rechiseled", "Rechiseled Blocks", [
+		Ingredient.of("@rechiseled")
+			.getItemIds()
+			.filter(function (item) {
+				return item !== "rechiseled:chisel";
+			}),
+	]);
+	event.groupItems("kubejs:rei_groups/chipped", "Chipped Blocks", [
+		Ingredient.of("@chipped")
+			.getItemIds()
+			.filter(function (item) {
+				return (
+					item !== "chipped:mason_table" &&
+					item !== "chipped:botanist_workbench" &&
+					item !== "chipped:loom_table" &&
+					item !== "chipped:glassblower" &&
+					item !== "chipped:alchemy_bench" &&
+					item !== "chipped:tinkering_table" &&
+					item !== "chipped:carpenters_table" &&
+					item !== "chipped:mechanist_workbench"
+				);
+			}),
+	]);
+});
+REIEvents.hide("fluid", function (event) {
 	CreateTheFactoryMustGrowFluids().forEach(function (fluid) {
 		event.hide(fluid);
 	});
@@ -12,7 +42,7 @@ function CreateTheFactoryMustGrowFluids() {
 	}
 	return Fluids();
 }
-JEIEvents.hideItems(function (event) {
+REIEvents.hide("item", function (event) {
 	getMekanism()
 		.concat(
 			getCreateNewAge(),

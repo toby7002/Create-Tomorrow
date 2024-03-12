@@ -1,4 +1,4 @@
-JEIEvents.hideItems((event) => {
+REIEvents.hide("item", (event) => {
 	getMekanism()
 		.concat(
 			getCreateNewAge(),

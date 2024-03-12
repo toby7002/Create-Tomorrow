@@ -1,4 +1,4 @@
-JEIEvents.hideFluids((event) => {
+REIEvents.hide("fluid", (event) => {
 	CreateTheFactoryMustGrowFluids().forEach((fluid) => {
 		event.hide(fluid);
 	});
