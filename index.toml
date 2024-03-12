@@ -85,12 +85,32 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "83d5f0063f1a9b3a68e68077ee4cba48b05ab7860d4203d9addc4c76c052cbde"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "03771779a5a607266dc675193b909e8bd3d83602f1c42302ef3a314dd9103180"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "6f05466d3cfa7fc15c3f747b3bd4d5ad29be9ce72c6e3b180da980cc67ddb0d2"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "538681a6fdd235ab2b6f5792f0f6b8ac0d6637f7fb45b0d2e8a2033648615283"
+
+[[files]]
 file = "kubejs/client_scripts/index.js"
-hash = "fc06a84f776680b8668f80cc096b5c42bce3c6d7d24e7341b8d36a16c0feae27"
+hash = "107648f6eb404779a0cb40dad0df8e2615f88a233f09a6a696cde877ef492f4b"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "fce48686e7308709b68eac601f8ece8bd83f96df4e90d17556afd295a375d606"
+hash = "ffa62734c945bfb13040884c123ad98974f46ce83401f3b4a6a75ef93cce5d9d"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
