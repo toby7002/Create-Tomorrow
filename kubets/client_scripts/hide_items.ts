@@ -5,6 +5,7 @@ REIEvents.hide("item", (event) => {
 			getCreateAddition(),
 			getTwilightForest(),
 			CreateTheFactoryMustGrowItems(),
+			AdAstra(),
 		)
 		.forEach((item) => {
 			event.hide(item);
@@ -130,6 +131,21 @@ function CreateTheFactoryMustGrowItems(): string[] {
 			"slag",
 			"blasting_mixture",
 		].map((item) => `tfmg:${item}`);
+	}
+
+	return Items();
+}
+
+function AdAstra(): string[] {
+	function Items(): string[] {
+		return [
+			"coal_generator",
+			"compressor",
+			"etrionic_blast_furnace",
+			"solar_panel",
+			"water_pump",
+			"energizer",
+		].map((item) => `ad_astra:${item}`);
 	}
 
 	return Items();

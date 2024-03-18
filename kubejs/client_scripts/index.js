@@ -49,6 +49,7 @@ REIEvents.hide("item", function (event) {
 			getCreateAddition(),
 			getTwilightForest(),
 			CreateTheFactoryMustGrowItems(),
+			AdAstra(),
 		)
 		.forEach(function (item) {
 			event.hide(item);
@@ -177,6 +178,21 @@ function CreateTheFactoryMustGrowItems() {
 			"blasting_mixture",
 		].map(function (item) {
 			return "tfmg:".concat(item);
+		});
+	}
+	return Items();
+}
+function AdAstra() {
+	function Items() {
+		return [
+			"coal_generator",
+			"compressor",
+			"etrionic_blast_furnace",
+			"solar_panel",
+			"water_pump",
+			"energizer",
+		].map(function (item) {
+			return "ad_astra:".concat(item);
 		});
 	}
 	return Items();

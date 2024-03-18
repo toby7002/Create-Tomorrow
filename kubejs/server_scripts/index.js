@@ -6,6 +6,7 @@ ServerEvents.recipes(function (event) {
 			getCreateAddition(),
 			getTwilightForest(),
 			CreateTheFactoryMustGrowRecipes(),
+			AdAstra(),
 		)
 		.forEach(function (item) {
 			event.remove({ output: item });
@@ -137,4 +138,19 @@ function CreateTheFactoryMustGrowRecipes() {
 		});
 	}
 	return Recipes();
+}
+function AdAstra() {
+	function Items() {
+		return [
+			"coal_generator",
+			"compressor",
+			"etrionic_blast_furnace",
+			"solar_panel",
+			"water_pump",
+			"energizer",
+		].map(function (item) {
+			return "ad_astra:".concat(item);
+		});
+	}
+	return Items();
 }

@@ -5,6 +5,7 @@ ServerEvents.recipes((event) => {
 			getCreateAddition(),
 			getTwilightForest(),
 			CreateTheFactoryMustGrowRecipes(),
+			AdAstra(),
 		)
 		.forEach((item: string) => {
 			event.remove({ output: item as any });
@@ -134,4 +135,19 @@ function CreateTheFactoryMustGrowRecipes(): string[] {
 	}
 
 	return Recipes();
+}
+
+function AdAstra(): string[] {
+	function Items(): string[] {
+		return [
+			"coal_generator",
+			"compressor",
+			"etrionic_blast_furnace",
+			"solar_panel",
+			"water_pump",
+			"energizer",
+		].map((item) => `ad_astra:${item}`);
+	}
+
+	return Items();
 }
