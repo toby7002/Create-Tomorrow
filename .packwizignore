@@ -7,3 +7,5 @@ pnpm-lock.yaml
 kubets/
 .husky/
 probe/
+Gruntfile.js
+*.zip
