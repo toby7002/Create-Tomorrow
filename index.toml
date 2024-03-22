@@ -652,9 +652,5 @@ hash = "d591c0795225f13ebe9b3f008d08807ffc1c9b836e9a3042f31e46bf6e7b2dd0"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
 hash = "335b5d2aebf575a33bf85ba129e24737b855cbde04d8e48ab26ce3b50c66dbb5"
