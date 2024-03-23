@@ -4,8 +4,8 @@ REIEvents.hide("fluid", (event) => {
 	});
 });
 
-function CreateTheFactoryMustGrowFluids(): string[] {
-	function Fluids(): string[] {
+function CreateTheFactoryMustGrowFluids() {
+	function Fluids() {
 		return ["molten_slag", "molten_steel"].map((fluid) => `tfmg:${fluid}`);
 	}
 

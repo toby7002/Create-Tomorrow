@@ -4,7 +4,6 @@ dist/
 node_modules/
 package.json
 pnpm-lock.yaml
-kubets/
 .husky/
 probe/
 Gruntfile.js

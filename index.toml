@@ -105,12 +105,24 @@ file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "538681a6fdd235ab2b6f5792f0f6b8ac0d6637f7fb45b0d2e8a2033648615283"
 
 [[files]]
-file = "kubejs/client_scripts/index.js"
-hash = "c03a693066073fe5167551e9076eb7e810188fa741582aa0abaefa15ee76a442"
+file = "kubejs/client_scripts/groups.js"
+hash = "eb0826130a3ccb6e446095c75df54674cf77a830232442e693f892bd2ab175f7"
 
 [[files]]
-file = "kubejs/server_scripts/index.js"
-hash = "5f189551d2537b5e3c3336eb2a870d2f24ddd3b15740ac81bcce05aa7bdaac26"
+file = "kubejs/client_scripts/hide_fluids.js"
+hash = "72d881dddec3734e753b286791b43eb6fc4df9854b4dc9558d7a615353188dc0"
+
+[[files]]
+file = "kubejs/client_scripts/hide_items.js"
+hash = "6dc8f0091c56cc3ce2451940f9800c92cfac973b24a7b5c47d17ed3b11c335af"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "fecee6db7c20b2fbc25ca8f8085b6d6ae443a82351f98d84913c76b08092abc3"
+
+[[files]]
+file = "kubejs/server_scripts/update_recipes.js"
+hash = "8f7dbb6bf7faa4cbfc8d19b977243475463f73e0ede6f57f3a585b91315be075"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
