@@ -106,11 +106,11 @@ hash = "538681a6fdd235ab2b6f5792f0f6b8ac0d6637f7fb45b0d2e8a2033648615283"
 
 [[files]]
 file = "kubejs/client_scripts/index.js"
-hash = "89d264b650d5beaab2dd342b480667b1b06ef48edcaeba867b83b3e335fee864"
+hash = "c03a693066073fe5167551e9076eb7e810188fa741582aa0abaefa15ee76a442"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "b83d5941bd333d275e44c62de62fce3e22b16755b06b7e2f257b89ee1c267609"
+hash = "5f189551d2537b5e3c3336eb2a870d2f24ddd3b15740ac81bcce05aa7bdaac26"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "73be4cc1db3f18aa9440d36631344ce5228f3ade694887cb34ea06b063ff6095"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
@@ -178,6 +178,16 @@ hash = "a9fe2fc43d9f2f8ad4e54f16f1b5f55531b1b2f0fb9dd03655e3e1c033a31a26"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "f88c85bc1b56127f3c6bb2c07dc2f27c566d3a312191e030173fd11c1c473b46"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "af0789695f702d396ca34e3eb826801ab545b967a3fb400033469f86965be5ca"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "2400928e3f36206a5370267fbf2ce472c349688275c16a8c37e072d2ad54b351"
 metafile = true
@@ -203,6 +213,21 @@ hash = "c68854cb890be66123d0cfe19e71fc450b79e4089e6dc57d30e9c05541475875"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "761d64faaf22c81387d674fcb45cf6e8cc5bc055117a0ba959a316075414e6f1"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e585278d5f16e1b3f6359e23e30d1d88037c99dc6ff28059a6aabca3993609f6"
 metafile = true
@@ -210,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "22ad8f282831c7c9a85d9598150db747c0033ee63fd059deaa212fe961a30034"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
@@ -278,8 +308,18 @@ hash = "e2b7bb4350352614409ed89b319ea578d0cbdb11ad4382595739d1c31e98892a"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1cebfc9268686303bd29ad060962351100df291f85c4a0c16f6f4ac6cd7cdc36"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
 
 [[files]]
@@ -338,6 +378,11 @@ hash = "b4162c6c5d0006167385b4ea5884fcac03b9124262a8299050d36b091be78063"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "d2ceb3bd866a78f79d5d846735d2b4a2a42499334f6c66d941a2fd3e98ba052c"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ea10332cbb8094e0055b0ab7e4261b131194a7417f80599e8b6b468c2b84f80b"
 metafile = true
@@ -355,6 +400,16 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "5788e46713cacd314ff479f67ed46182bdd5d389708e0288417e68620eb229db"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
 metafile = true
 
 [[files]]
@@ -458,6 +513,11 @@ hash = "3a499f5ab4439a37032dc1ff45ee495f5a25d2dc832327ed66e38fe84bfe2e2e"
 metafile = true
 
 [[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b472bf6309e27ab85871b0aeaba20dd26e7ce2caa1355988756b6e46cd2b4c57"
 metafile = true
@@ -488,8 +548,18 @@ hash = "26aed4e16c33ac7036764b299560dd34451a4194a71ee4ede09a2e451e4391af"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2fbff6641656f2d2ded89f453fd42a6031e77a73a65a9516fb16477a316f7d65"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
 
 [[files]]
@@ -500,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "fdb787569442162bf37b14018cfe61f480421448ddd0c9d342ae48a7b4da6a95"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
@@ -598,6 +673,11 @@ hash = "399e058c7b731f0d898bbb59a9ece44c4bcab265dc0a0791eadf81b6c02e9b61"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "9ac15326723b75f9f1d2290c9b56a3b5c6f500d84fb419ea0a54883462466dfe"
 metafile = true
@@ -610,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5d8b9ff36213e2dc0b0b4c9a6deeee9d11305e90d604d4af128989580f3e84ca"
+metafile = true
+
+[[files]]
+file = "mods/splashy.pw.toml"
+hash = "c3e072ad63cf70b984dd34cd7ff9920b2fef32a8b87e6ee50302a4e32163ce93"
 metafile = true
 
 [[files]]
@@ -630,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "1f218ac045e6e97202e6651ae1ab0266441873d2f809f6ecffa334b23380c930"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "0f83c8e4d8901d6c927a1fe9f9aa0e4df45bf0f792736d199701af2e72dc6671"
 metafile = true
 
 [[files]]
