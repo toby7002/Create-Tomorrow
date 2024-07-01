@@ -186,8 +186,18 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "9f3c9d8b2d5399bde5cb1b57c66821e70e28e539cd643f291771e774579ea353"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "4593146a6bb3444a60ad4078033d51777bd5353e3c18b7b5b9886c281e7dabaf"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "5ac68b9bbdddf95831157a65cb5055b8d8773b8f1f16eb0dd37267845d9859d5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
 
 [[files]]
@@ -258,4 +273,29 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "60e027bab176b250fb333a515b43a3e8dd465524fb5a9daa5432715d16410ed9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "0a4676b25054d0bd8cc97adc49b2fca2e4af4f2c92fc3dca484c7fea169aebff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "86248e2bd4d9b2bea8e974cc9ca3b73a897d3134bff6c9d699db7ab7825a4281"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
