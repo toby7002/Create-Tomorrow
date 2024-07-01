@@ -121,11 +121,6 @@ hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "9b5c9fe18f11a659592c6540460765d49edfd2275535228e0d7e4a8f84f3bb38"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "47935c8cbbf76d827aded62f519bbc3b6e639090e0cb98e52e723c6cd790025e"
 metafile = true
