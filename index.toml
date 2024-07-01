@@ -41,11 +41,6 @@ hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
 
 [[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "e98d30710f9b0765afbd96b5e39566c66486af2d14cc96cd19058274e3cab299"
-metafile = true
-
-[[files]]
 file = "mods/canary.pw.toml"
 hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
@@ -58,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "c011cedf1f29b16895af2f6bb513f0914380d5a24ac53cf84c5bc530d007c16c"
 metafile = true
 
 [[files]]
