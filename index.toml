@@ -77,8 +77,28 @@ file = "config/mindfuldarkness-client.toml"
 hash = "d2fa1c65b01479724a2a5673483d19cf07a1925f7e358d641fdbc48ce3032b11"
 
 [[files]]
-file = "kubejs/server_scripts/src/mekanism.js"
-hash = "99e85613c51087f86b27b4bbbfc71cd671da0bedbc8cfd666a1036993ef153c4"
+file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
+hash = "cca65ce48980d1d001ad4f5ed02c78678b9bdf98b49feec2f5880f39c374914e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dust.png"
+hash = "4b0dc3693886a62426b800cf1cde111d339a2d3ea6a7db1aff1e77e47d7cf003"
+
+[[files]]
+file = "kubejs/client_scripts/src/rei.js"
+hash = "66c460c436bde1d3779eb2806e04e8d6dba9092f343ae2e8515a167ec1e6b82b"
+
+[[files]]
+file = "kubejs/server_scripts/src/remove_recipes.js"
+hash = "1a6f66a0bbf12a4e0b29ff54e7e4bc810c4bf00155d53888eb5722282638bbd7"
+
+[[files]]
+file = "kubejs/startup_scripts/src/register_block.js"
+hash = "59fea1e20963c85f7afb940dd9b95d8f1c37b5203329aedc6729edfc200d6cc0"
+
+[[files]]
+file = "kubejs/startup_scripts/src/register_item.js"
+hash = "12232d71a866925ff39a60612f046a00d68a52e64c30e6aa9d0a213810357670"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -271,26 +291,6 @@ hash = "3e5b28a1518d0d0198951234758b85ffcf1ed156435fa96553c71082effba170"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "97a06e0cdf6afede0564722397b87cbc584c37fce87595e84a1e4474f755519f"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "6f8fa75a8eb906944103930f075dfad7840ac94ab731b01fce7120232d091a60"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "11d56b70f6954abf9f823aab7e701bcd4054ba0f2b41aa03d0d30a69eeaddcdc"
 metafile = true
@@ -378,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b4d8f52ac3e7bee8de9dff18d5dda00b23ae3a118778ab374e036ffdffd13f20"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
 metafile = true
 
 [[files]]
