@@ -423,6 +423,11 @@ hash = "594a550b5590844f2d8e71d33a48f50609e1a4a076ca54ea097e38681840a41e"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "fe5aef6fdb17f75035a21bab5237af591aaf36c8a03b4b947d64507ce49c71be"
 metafile = true
@@ -465,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
