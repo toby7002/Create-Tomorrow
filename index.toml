@@ -6,7 +6,7 @@ hash = "23aaf8314e387c6b478f19a8ed72cd96504a9b69e6543382fdfe52ed1e736f5d"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "4619112946dad4d9955dc768d1d2270e5a927ce5b853314c2eb45f397cf482d3"
+hash = "9859ba2fe51c24265a1f577dc51b6f8102e3c46e1d8f17db83f628f760be32d4"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -275,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
 metafile = true
 
 [[files]]
