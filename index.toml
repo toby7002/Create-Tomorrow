@@ -77,6 +77,10 @@ file = "config/mindfuldarkness-client.toml"
 hash = "d2fa1c65b01479724a2a5673483d19cf07a1925f7e358d641fdbc48ce3032b11"
 
 [[files]]
+file = "kubejs/server_scripts/src/mekanism.js"
+hash = "99e85613c51087f86b27b4bbbfc71cd671da0bedbc8cfd666a1036993ef153c4"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
@@ -354,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b4d8f52ac3e7bee8de9dff18d5dda00b23ae3a118778ab374e036ffdffd13f20"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
 metafile = true
 
 [[files]]
