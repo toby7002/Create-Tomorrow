@@ -1,6 +1,6 @@
 name = "Cadmus"
 filename = "cadmus-forge-1.20.1-1.0.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/vtGe3auv/cadmus-forge-1.20.1-1.0.8.jar"

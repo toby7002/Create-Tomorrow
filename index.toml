@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "d964bc26e2e136ffc4f2ae677816091692fda1b0d977888cbf425e05e9b445ca"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 hash = "06fbc59d6e236582038dd0389edf8ce926162ba647c8097db04f0ce9b5ce7c4e"
 
@@ -84,12 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "59ad7e4771cb7b66f9477686a272b7d587e42c7ca869f0bf5314def6a50d6bc2"
+hash = "ac589712c04c74450b28551d27d9742ade44547bb585a138b55ae638f76f0cf9"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+hash = "e794a0240ad915c2c8e43a04e6dfded947bf11f3895533dce2e6114cb250f373"
 metafile = true
 
 [[files]]
@@ -104,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "4535f8d40017b5be180adf3ceabe9a22d16e258d568985018f5de6977f020449"
+hash = "93865a9ee4674584b3df93d3089114aefa1cf3d06614c57957820ab565e9eeb6"
 metafile = true
 
 [[files]]
@@ -134,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "0118dd1566b50a586223f714e6239c032c3e80aec997c9e9c4c68ed7aef32b46"
+hash = "17a166b10cee18d3e9a7d59e801e1f910ba94d86575cfabc25b67ecc4257bdd6"
 metafile = true
 
 [[files]]
@@ -224,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true
 
 [[files]]
@@ -379,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
 metafile = true
 
 [[files]]
