@@ -1,12 +1,12 @@
 name = "Create: Tomorrow"
 author = "toby7002"
-version = "1.0.0"
+version = "1.0.0-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3bf87ec1ea5c3b686ff5b7b0c4a24abbe36ff5ac7ce3d7a76f41e5570547fa46"
+hash = "3048b1ea7564fe1b5cfecbca058d3c68df855b8ea30e3b30f2ef99d3bc387f0b"
 
 [versions]
 forge = "47.3.0"
