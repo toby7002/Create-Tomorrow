@@ -6,7 +6,7 @@ ServerEvents.recipes((event) => {
       type: "minecraft:crafting_shaped",
     },
     "#minecraft:logs",
-    "kubejs:steel_casing"
+    "tfmg:steel_casing"
   );
   // update engine
   event.remove({

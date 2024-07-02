@@ -1,10 +1,4 @@
 ServerEvents.recipes((event) => {
-  // Steel casing
-  event.recipes.create.deploying("kubejs:steel_casing", [
-    "#forge:stripped_logs",
-    "mekanism:ingot_steel",
-  ]);
-
   // Compressed cobblestone
   const compressed_block = (output, input) => {
     event.shaped(output, ["xxx", "xxx", "xxx"], { x: input });

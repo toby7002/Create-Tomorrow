@@ -78,15 +78,4 @@ StartupEvents.registry("block", (event) => {
     .requiresTool(true)
     .tagBlock("mineable/pickaxe")
     .tagBlock("minecraft:needs_iron_tool");
-
-  event
-    .create("steel_casing")
-    .displayName("Steel Casing")
-    .material("iron_block")
-    .hardness(2)
-    .resistance(10)
-    .requiresTool(true)
-    .tagBlock("mineable/pickaxe")
-    .tagBlock("mineable/axe")
-    .tagBlock("minecraft:needs_iron_tool");
 });

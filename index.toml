@@ -77,6 +77,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "3b8dd5d9bf438c0eb8b0620c7750ce5ef9ef9ab31a5fcd40e37b18a78eb4e293"
+
+[[files]]
 file = "config/mindfuldarkness-client.toml"
 hash = "d2fa1c65b01479724a2a5673483d19cf07a1925f7e358d641fdbc48ce3032b11"
 
@@ -125,8 +129,16 @@ file = "kubejs/assets/kubejs/textures/item/dust.png"
 hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
 
 [[files]]
+file = "kubejs/client_scripts/src/chipped.js"
+hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
+
+[[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
 hash = "13e1d46efbec5f8cc924e4e34c3141703741e0991049705e7af38debb6db7bdd"
+
+[[files]]
+file = "kubejs/client_scripts/src/rechiseled.js"
+hash = "439a69e2a42755551dc326a5e6ae0276f546f9855c791c2b1200091fffe3f881"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
@@ -134,11 +146,11 @@ hash = "2634006f013d4c2830d3d11fc20b717b998ff7c9782fc7f216c2e6985e20407d"
 
 [[files]]
 file = "kubejs/server_scripts/src/immersive_aircraft.js"
-hash = "066705683f0cd56ca812c11c46a8980edb102c6949145861d754e528d78a4959"
+hash = "1a21e4cbbb8d83a808c8b435baa8bf0c557828d4ebbc187bcc99e1ea47c4cca2"
 
 [[files]]
 file = "kubejs/server_scripts/src/kubejs.js"
-hash = "79004ac1e624ba14e54e9521b07c8bbf3e56771ba2644f703030e323b9219f55"
+hash = "fe44d8385b046e117e2b13a206d27f6f68cae16d045d2052a14f829309865d23"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft.js"
@@ -146,7 +158,7 @@ hash = "89703536b7d6d4aefe6a1e14e016f08ee0393f7d9985d3a56f1f907f8a3ecc5f"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
-hash = "9baa3ed62d9cc1881a0ae004eba816b520c11910eac1184e84534995f01b72b4"
+hash = "2550b0184aacd7d8a347fe34bb01b4f37025063d8b4378573070be856818c863"
 
 [[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
