@@ -501,6 +501,11 @@ hash = "5ac68b9bbdddf95831157a65cb5055b8d8773b8f1f16eb0dd37267845d9859d5"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "7d413cabc64fa0cba2fbb9ddd88ed6efdb337fa8696df71a63bbb6e023befbee"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
