@@ -136,6 +136,11 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "11d56b70f6954abf9f823aab7e701bcd4054ba0f2b41aa03d0d30a69eeaddcdc"
 metafile = true
 
 [[files]]
@@ -516,6 +526,11 @@ hash = "95cb627d4f6ac64e0482ad359f0fb9cfa0c1abe248370d61bc2a520d2b8c665c"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "6069264d5bd6f36ac4818f64b19b0734dc36f31b694f09d13368c437529dcf2d"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -528,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7986425df54d16850b84c3c8bc63fe963dceb19c5190f67839c5bddf22730ee7"
 metafile = true
 
 [[files]]
