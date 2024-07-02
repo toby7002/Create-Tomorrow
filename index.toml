@@ -151,6 +151,11 @@ hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d416becc906abed35b0b4c7cdd961d52df46cb3273715d3399ee2119b17f11f3"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "875df93ce922765fea886edc3e3608315c89398dcf9b9da1664db87bda75dc00"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
 metafile = true
 
 [[files]]
@@ -468,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "450a3ad1e5e953d9d6c1f5ad6278ead01cfe32ea17fe43df70d3cf2a3120ff55"
 metafile = true
 
 [[files]]
