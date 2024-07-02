@@ -2,7 +2,9 @@
   "modPriorities": [
     "enderio",
     "create",
+    "createaddition",
     "mekanism",
+    "ad_astra",
     "kubejs",
     "minecraft"
   ],
@@ -86,9 +88,7 @@
   "blockTagInheritance": {},
   "ignoredTags": [],
   "ignoredItems": [],
-  "ignoredRecipeTypes": [
-    "cucumber:shaped_tag"
-  ],
+  "ignoredRecipeTypes": ["cucumber:shaped_tag"],
   "ignoredRecipes": [],
   "itemsHidingJeiRei": true
 }
