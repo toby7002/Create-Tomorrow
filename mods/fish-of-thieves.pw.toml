@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.20.1-v3.0.5-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/cTmbFZC1/fish_of_thieves-mc1.20.1-v3.0.5-forge.jar"
+hash-format = "sha1"
+hash = "9822289a1071d20fd2171c538961d15b93dde0e0"
+
+[update]
+[update.modrinth]
+mod-id = "BzOTnuqM"
+version = "cTmbFZC1"
