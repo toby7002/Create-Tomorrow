@@ -1,3 +1,5 @@
+// priority: 9999
+
 ServerEvents.recipes((event) => {
   // Compressed cobblestone
   const compressed_block = (output, input) => {
@@ -32,7 +34,6 @@ ServerEvents.recipes((event) => {
     "kubejs:octuple_compressed_cobblestone",
     "kubejs:septuple_compressed_cobblestone"
   );
-
   // Dust
   event.recipes.create.crushing(
     ["3x kubejs:dust", Item.of("2x kubejs:dust").withChance(0.5)],
@@ -42,4 +43,20 @@ ServerEvents.recipes((event) => {
     ["kubejs:dust", Item.of("kubejs:dust").withChance(0.5)],
     "minecraft:sand"
   );
+  // clay dust
+  event.recipes.create.crushing(
+    ["kubejs:clay_dust", Item.of("kubejs:clay_dust").withChance(0.5)],
+    "minecraft:clay_ball"
+  );
+  event.recipes.create.milling(["kubejs:clay_dust"], "minecraft:clay_ball");
+  // brick dust
+  event.recipes.create.crushing(
+    ["kubejs:brick_dust", Item.of("kubejs:brick_dust").withChance(0.5)],
+    "minecraft:brick"
+  );
+  event.recipes.create.milling(["kubejs:brick_dust"], "minecraft:brick");
+  // wrought iron ingot
+  event.smelting("kubejs:wrought_iron_ingot", "minecraft:iron_ingot")
+  // wrought iron plate
+  event.recipes.create.pressing("kubejs:wrought_iron_plate", "kubejs:wrought_iron_ingot")
 });
