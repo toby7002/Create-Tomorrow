@@ -1,14 +1,14 @@
 {
   "modPriorities": [
+    "minecraft",
     "thermal",
+    "kubejs",
     "create",
     "createaddition",
     "mekanism",
     "ad_astra",
     "tfmg",
-    "enderio",
-    "kubejs",
-    "minecraft"
+    "enderio"
   ],
   "stoneStrata": [
     "stone",

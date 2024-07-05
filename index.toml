@@ -5,8 +5,16 @@ file = "README.md"
 hash = "d7c1a81e0065e9e7e74131ec90195c4b61d946eaa7e733d38012c349d0d293d7"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "ecf1e9f2f748801e029f63bbcfa2471e470ea8dbc0fb44f1dc6d8850c750daa7"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "a2d441077e8d31a59514c7570baa60a6467f504b660f1f9ba285fb65a5cadd44"
+
+[[files]]
 file = "config/almostunified/unify.json"
-hash = "efccbe5b6a98115a6418cded9683b86e22c89d583cc1eeab8eedf7d395d52152"
+hash = "9d95c441b913485aebf5a0fefc732218878760b0b97324ef5da4a214ee8df6b9"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -137,12 +145,24 @@ file = "kubejs/assets/kubejs/textures/item/dust.png"
 hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/rubber_plate.png"
+hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/wrought_iron_ingot.png"
 hash = "8550ef4e3c6f1aff718c7cb33d6e314e09c36076ebb15f5362a7cc3e69a60dfc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/wrought_iron_plate.png"
 hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/chipped.js"
@@ -159,6 +179,14 @@ hash = "439a69e2a42755551dc326a5e6ae0276f546f9855c791c2b1200091fffe3f881"
 [[files]]
 file = "kubejs/client_scripts/src/the_factory_must_grow.js"
 hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
+
+[[files]]
+file = "kubejs/client_scripts/src/thermal.js"
+hash = "4a1819bff5c38a392a9e88f40e0755f0f1353bf626340e4c7372f45a0ad92c86"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
@@ -181,12 +209,20 @@ file = "kubejs/server_scripts/src/the_factory_must_grow.js"
 hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 
 [[files]]
+file = "kubejs/server_scripts/src/thermal.js"
+hash = "3a62fb0ca9c9a6235918c40724ed906edfa8fc7b92d478d4ed2a1fc8c7f94a79"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
 hash = "2550b0184aacd7d8a347fe34bb01b4f37025063d8b4378573070be856818c863"
 
 [[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
-hash = "587426865d5db2bd7590793475e807bab1d40b0a58c89a35cd28e2da068b7318"
+hash = "16bc3deae0b03404ce746f3793e850f7b0b373e672c2371b2002e9207e49d045"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
