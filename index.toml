@@ -129,6 +129,46 @@ file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
 hash = "00ce1af9afe1299c4530d8d83a7ab24143fc40c7d3d285b71a28c6035de729bb"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_computer.png"
+hash = "3209cc5d6dbd17445436e9e5e946377715883af6e21b23dbe9481dde7a541b7c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_core.png"
+hash = "ea681d79670d32d6900a4afd578c5724995c037da160c9483ed0a68ecab16884"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_core.png.mcmeta"
+hash = "7e2213aed684faf03dc845a30a3e7c3d65d320a7b3ad0ce277e8e60544b43b2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_processor.png"
+hash = "3b24ce020fba02a12d1abaeadce42809d373288365c90f305f2251567cd2ab3c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_soc.png"
+hash = "5044c89a9b25bfa43af3fb3bcbca3d3deaa40c60c1abb85e0d7207150e5ccba1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_computer.png"
+hash = "0d56337cba05743a348545370015ef29464fa640df25b93d29c32cf3f001e0be"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_core.png"
+hash = "ba9d8fc2da717d9b6acba5c26fe1601c2aad33eca3507e766b1f41dd12be215a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_core.png.mcmeta"
+hash = "a34bda0031e3c2bb56f62b5d61b1f9eccf70f0782ea94679b04b1d0208649845"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_processor.png"
+hash = "ad811fc31b64609e26d6751eede113790e1d26f70af5897f5359bea2f048c3b0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_soc.png"
+hash = "0cfaff88c6e184ccdadd0817999d1907a9c305b698e757ff5575e62a772fde0c"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/brick_dust.png"
 hash = "6278c1481ed3994ef63cff6c7454344eb29fc562b87fa8499a218b950e145265"
 
@@ -141,8 +181,88 @@ file = "kubejs/assets/kubejs/textures/item/dust.png"
 hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_computer.png"
+hash = "a08ca01e5147cd0156f0deebf79702b6f64cc2932b1262d6c88d905ca15b09cb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_core.png"
+hash = "c5198b405b9b816778e3fd3d37d4422a468c63f4966a8864e0469357728cddb9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_core.png.mcmeta"
+hash = "daa8c454058c3019089cb506b0bab485868c9ce74b1ee3e1dbcd64eaa5d019ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_processor.png"
+hash = "64b9962685cb752c1cbb9b8511e981a4fd10d95a5885d1d5a400f07f9811a36f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_processor.png.mcmeta"
+hash = "441b6b8a78e4a5ba61f1036f9be934f4125531ad91355948f0d3a26d1a960753"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_soc.png"
+hash = "c587118482674f2cd5544927ace882a72cab71ff52cdcd3cc41dcd391ed86b25"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_soc.png.mcmeta"
+hash = "1f263bd1df7218d84592f736e1dcacaff39faa9acfb1186cf0cfe1a14d5acd9b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_computer.png"
+hash = "b75295970482c183ed5ecfb044e267b81c7a1a20284677d9fd97382c4ed08727"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_core.png"
+hash = "9d9eca90a9b2c31eaa1823e5dd06e5a5db65d28966388deec20db4644e8f6914"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_core.png.mcmeta"
+hash = "d3bbcbcff53b0e3307138a8ee9812df698823e97ced515e2b03015b678e2bc4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_processor.png"
+hash = "2e2d06a4d8b700c69ab72d0eee13e34e63ef268a5f5085ae246f193c4a54788b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_soc.png"
+hash = "626b657de97d2f34acf7ac64e3a20f072783d3ba88c55b61cb6eee18b4b4325d"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/rubber_plate.png"
 hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png"
+hash = "cace184053ca188d0c97b0ae4b988b697a19adb00bcddeb10bf9fb39d4fb8027"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png.mcmeta"
+hash = "f6dd0d2e54b016f022c7fd6745825e08065b4699e88eea0d65b98d950146686d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_core.png"
+hash = "6d991dce2b0c55f1c27b2c2bf2c8eea2e54ec03530ab330ba21c0f919f4a6197"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_core.png.mcmeta"
+hash = "a3453db2f13f6743ef5c08ca955593c531b02433d28645e90a39513ae5b4f741"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png"
+hash = "44303b3d7b24217570034fc4e6c40689691e8b5d3c3297bcdd537cec85b2b2ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png.mcmeta"
+hash = "86bfa2531b669d4f249278e9f35a7f55d2d45540ca36f503107af07bd1fae0f1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png"
+hash = "7bcf2f6b4a7a71534e47ac1c7cf041e4020241148493f2c1982da03af9f926f1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png.mcmeta"
+hash = "0d81a8feb03b276867a0e8e49acb6c76202b11cd1f7257752cd2c3ff512e0a3a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/wrought_iron_ingot.png"
@@ -213,12 +333,32 @@ file = "kubejs/startup_scripts/jsconfig.json"
 hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
+file = "kubejs/startup_scripts/src/advanced_items.js"
+hash = "86aedff37a1e2ff93eed0dd0ce4d4f55ad27d8d499906106a851d4816164a6fd"
+
+[[files]]
+file = "kubejs/startup_scripts/src/basic_items.js"
+hash = "12bcddbf625d3b55c0877958f41416c8b0272e4709d9ca6836c0e66d4ec66c6e"
+
+[[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
 hash = "2550b0184aacd7d8a347fe34bb01b4f37025063d8b4378573070be856818c863"
 
 [[files]]
+file = "kubejs/startup_scripts/src/elite_items.js"
+hash = "8cd3a2b8d8bdf286053c9bb3957b1ed0179b8702c79097f529805203f8a5eee1"
+
+[[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
 hash = "16bc3deae0b03404ce746f3793e850f7b0b373e672c2371b2002e9207e49d045"
+
+[[files]]
+file = "kubejs/startup_scripts/src/quantum_items.js"
+hash = "a7ca1f761b1d526cdb2224eb99b7b7d32b3b04eef46740e1b5b704e8ed77e001"
+
+[[files]]
+file = "kubejs/startup_scripts/src/ultimate_items.js"
+hash = "2dd03fde378801259a0fd43349ae6dd69a71ce75701ea89c5f92cc6f3cc1c2ef"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

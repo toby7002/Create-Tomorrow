@@ -4,6 +4,7 @@ An expert questing modpack which focuses on Create and EnderIO for Minecraft 1.2
 
 # Credits
 
-- Textures in `kubejs/assets/kubejs/textures` are made by drcheese1
+- Textures are made by drcheese1
 - Logo and icon are designed by ditowashere.\_77931
 - Main menu wallpapers are made by connor_43
+- Some textures (processors, SoCs, computers and cores) is taken from [GregTechRefreshed](https://github.com/ULSTICK/GregTechRefreshed)
