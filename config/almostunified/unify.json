@@ -1,11 +1,12 @@
 {
   "modPriorities": [
-    "enderio",
+    "thermal",
     "create",
     "createaddition",
     "mekanism",
     "ad_astra",
     "tfmg",
+    "enderio",
     "kubejs",
     "minecraft"
   ],
