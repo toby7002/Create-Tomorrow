@@ -180,4 +180,188 @@ ServerEvents.recipes((event) => {
       },
     ],
   });
+  // Drill head
+  event.shaped("thermal:drill_head", ["yxy", "xzx", "xxx"], {
+    x: "minecraft:iron_ingot",
+    y: "minecraft:air",
+    z: "minecraft:copper_ingot",
+  });
+  // Saw blade
+  event.shaped("thermal:saw_blade", ["xxy", "xzx", "yxx"], {
+    x: "minecraft:iron_ingot",
+    y: "minecraft:air",
+    z: "minecraft:copper_ingot",
+  });
+  // Redstone servo
+  event.remove({ output: "thermal:redstone_servo" });
+  event.shaped("thermal:redstone_servo", ["xyx", "zyz", "xyx"], {
+    y: "thermal:iron_plate",
+    z: "minecraft:air",
+    x: "minecraft:redstone",
+  });
+  // RF Coil
+  event.remove({ output: "thermal:rf_coil" });
+  event.shaped("thermal:rf_coil", ["xyz", "yoy", "zyx"], {
+    y: "createaddition:gold_rod",
+    x: "minecraft:air",
+    z: "thermal:gold_plate",
+    o: "minecraft:redstone_block",
+  });
+  // Bronze
+  event.remove({
+    output: "thermal:bronze_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:bronze_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("4x thermal:bronze_dust", [
+      "3x thermal:copper_dust",
+      "thermal:tin_dust",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("4x thermal:bronze_ingot", [
+      "3x minecraft:copper_ingot",
+      "thermal:tin_ingot",
+    ])
+    .superheated();
+  // Electrum
+  event.remove({
+    output: "thermal:electrum_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:electrum_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.remove({
+    output: "thermal:electrum_ingot",
+    type: "create:mixing",
+  });
+  event.recipes.create
+    .mixing("2x thermal:electrum_dust", [
+      "thermal:gold_dust",
+      "thermal:silver_dust",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("2x thermal:electrum_ingot", [
+      "minecraft:gold_ingot",
+      "thermal:silver_ingot",
+    ])
+    .superheated();
+  // Invar
+  event.remove({
+    output: "thermal:invar_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:invar_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("3x thermal:invar_dust", [
+      "2x thermal:copper_dust",
+      "thermal:nickel_dust",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("3x thermal:invar_ingot", [
+      "2x minecraft:iron_ingot",
+      "thermal:nickel_ingot",
+    ])
+    .superheated();
+  // Constantan
+  event.remove({
+    output: "thermal:constantan_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:constantan_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("2x thermal:constantan_dust", [
+      "thermal:copper_dust",
+      "thermal:nickel_dust",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("2x thermal:constantan_ingot", [
+      "minecraft:copper_ingot",
+      "thermal:nickel_ingot",
+    ])
+    .superheated();
+  // Signalum
+  event.remove({
+    output: "thermal:signalum_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:signalum_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("4x thermal:signalum_dust", [
+      "3x thermal:copper_dust",
+      "thermal:silver_dust",
+      "10x minecraft:redstone",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("4x thermal:signalum_ingot", [
+      "3x minecraft:copper_ingot",
+      "thermal:silver_ingot",
+      "10x minecraft:redstone",
+    ])
+    .superheated();
+  // Lumium
+  event.remove({
+    output: "thermal:lumium_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:lumium_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("4x thermal:lumium_dust", [
+      "3x thermal:tin_dust",
+      "thermal:silver_dust",
+      "10x minecraft:glowstone_dust",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("4x thermal:lumium_ingot", [
+      "3x thermal:tin_ingot",
+      "thermal:silver_ingot",
+      "10x minecraft:glowstone_dust",
+    ])
+    .superheated();
+  // Enderium
+  event.remove({
+    output: "thermal:enderium_ingot",
+    input: "minecraft:fire_charge",
+  });
+  event.remove({
+    output: "thermal:enderium_dust",
+    type: "minecraft:crafting_shapeless",
+  });
+  event.recipes.create
+    .mixing("2x thermal:enderium_dust", [
+      "3x thermal:lead_dust",
+      "thermal:diamond_dust",
+      "2x #forge:dusts/ender_pearl",
+    ])
+    .heated();
+  event.recipes.create
+    .mixing("2x thermal:enderium_ingot", [
+      "3x thermal:lead_ingot",
+      "minecraft:diamond",
+      "2x minecraft:ender_pearl",
+    ])
+    .superheated();
 });

@@ -69,7 +69,7 @@ ServerEvents.recipes((event) => {
       event.replaceInput(
         { id: recipe.getOrCreateId() },
         "minecraft:iron_ingot",
-        "create:iron_sheet"
+        "thermal:iron_plate"
       )
   );
   // replace iron ingots to iron sheets in armor recipes
@@ -83,7 +83,7 @@ ServerEvents.recipes((event) => {
       event.replaceInput(
         { id: recipe.getOrCreateId() },
         "minecraft:iron_ingot",
-        "create:iron_sheet"
+        "thermal:iron_plate"
       )
   );
   // replace gold ingots to golden sheets in tool recipes
@@ -97,7 +97,7 @@ ServerEvents.recipes((event) => {
       event.replaceInput(
         { id: recipe.getOrCreateId() },
         "minecraft:gold_ingot",
-        "create:golden_sheet"
+        "thermal:gold_plate"
       )
   );
   // replace gold ingots to golden sheets in armor recipes
@@ -111,7 +111,7 @@ ServerEvents.recipes((event) => {
       event.replaceInput(
         { id: recipe.getOrCreateId() },
         "minecraft:gold_ingot",
-        "create:golden_sheet"
+        "thermal:gold_plate"
       )
   );
   // glass

@@ -47,7 +47,7 @@ ServerEvents.recipes((event) => {
     type: "minecraft:crafting_shaped",
   });
   event.shaped("immersive_aircraft:propeller", ["xxz", "zyz", "zxx"], {
-    x: "create:iron_sheet",
+    x: "thermal:iron_plate",
     y: "createaddition:iron_rod",
     z: "minecraft:air",
   });
@@ -69,7 +69,7 @@ ServerEvents.recipes((event) => {
     type: "minecraft:crafting_shaped",
   });
   event.shaped("immersive_aircraft:telescope", ["axy", "xox", "zxa"], {
-    x: "create:copper_sheet",
+    x: "thermal:copper_plate",
     y: "#enderio:clear_glass",
     o: "minecraft:spyglass",
     a: "minecraft:air",

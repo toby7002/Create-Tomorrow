@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "d7c1a81e0065e9e7e74131ec90195c4b61d946eaa7e733d38012c349d0d293d7"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "ecf1e9f2f748801e029f63bbcfa2471e470ea8dbc0fb44f1dc6d8850c750daa7"
 
@@ -194,7 +190,7 @@ hash = "2634006f013d4c2830d3d11fc20b717b998ff7c9782fc7f216c2e6985e20407d"
 
 [[files]]
 file = "kubejs/server_scripts/src/immersive_aircraft.js"
-hash = "1a21e4cbbb8d83a808c8b435baa8bf0c557828d4ebbc187bcc99e1ea47c4cca2"
+hash = "9c02271805b7200f0aaada5abd9759a889cea31ff86c00f61b498f71454ed4b2"
 
 [[files]]
 file = "kubejs/server_scripts/src/kubejs.js"
@@ -202,7 +198,7 @@ hash = "f3868acf9235f6bc98767c434b3dbf737c011a89329ad77fefc7999d4399bcf2"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft.js"
-hash = "89703536b7d6d4aefe6a1e14e016f08ee0393f7d9985d3a56f1f907f8a3ecc5f"
+hash = "ba5f866a906c6529fceee79253b618a52d7ef4fe6c2922ee78b5d8795cb2a4dc"
 
 [[files]]
 file = "kubejs/server_scripts/src/the_factory_must_grow.js"
@@ -210,7 +206,7 @@ hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "3a62fb0ca9c9a6235918c40724ed906edfa8fc7b92d478d4ed2a1fc8c7f94a79"
+hash = "d010317d706481540e86c6d51b889a119fae6a11aebba9905a9c6e2ddadaead5"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
