@@ -129,6 +129,14 @@ file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
 hash = "00ce1af9afe1299c4530d8d83a7ab24143fc40c7d3d285b71a28c6035de729bb"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_capacitor.png"
+hash = "2c9822947cc0d6b05ecba24096620431277762bba34ba35d2a9a9a4c3bdcfe6d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_circuit_board.png"
+hash = "090a865d0fb3dfbd02e1a0ba48b01502eec3ee8cebc8c92cd6aa89a2a355b49e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/advanced_computer.png"
 hash = "3209cc5d6dbd17445436e9e5e946377715883af6e21b23dbe9481dde7a541b7c"
 
@@ -141,12 +149,36 @@ file = "kubejs/assets/kubejs/textures/item/advanced_core.png.mcmeta"
 hash = "7e2213aed684faf03dc845a30a3e7c3d65d320a7b3ad0ce277e8e60544b43b2b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_diode.png"
+hash = "28623ef7d150b4c459103c184fa5055a6775766dd7b9d4a2011888509a503acf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_printed_circuit_board.png"
+hash = "2de4e5697efffc0ea88fa2197e7bfdc6b4a5575f87d507eb24eaf4fbe8c9fe8c"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/advanced_processor.png"
 hash = "3b24ce020fba02a12d1abaeadce42809d373288365c90f305f2251567cd2ab3c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_resistor.png"
+hash = "b30b952441d5c0149709a5362fe53e8f46b81c81ea41d297ce6b0ea7256bde6c"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/advanced_soc.png"
 hash = "5044c89a9b25bfa43af3fb3bcbca3d3deaa40c60c1abb85e0d7207150e5ccba1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_transistor.png"
+hash = "fb8bf66f35847a5c36b00cd0af51879d1bc91e40ecb0fed47d28291c02ba8161"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_capacitor.png"
+hash = "d84eeaaf34d76c59148da70613bcfd20c11afde393f597fa849bd8491b280299"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_circuit_board.png"
+hash = "44f199f49e633a4ab89f6e378ccff35ce98de358b69bd419e33143475597d415"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/basic_computer.png"
@@ -161,12 +193,28 @@ file = "kubejs/assets/kubejs/textures/item/basic_core.png.mcmeta"
 hash = "a34bda0031e3c2bb56f62b5d61b1f9eccf70f0782ea94679b04b1d0208649845"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_diode.png"
+hash = "43aa31279f9d6eab6c7d66d4aeeebdd56acf2c965e00ec9c38db601dbab84177"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_printed_circuit_board.png"
+hash = "3d9747e3e0123958ddc7237e6948ec02996c3b3dc5689cd6b83ffb12f6cb00d1"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/basic_processor.png"
 hash = "ad811fc31b64609e26d6751eede113790e1d26f70af5897f5359bea2f048c3b0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_resistor.png"
+hash = "452f8241b1c738314cebba21fc734875d04a0c153c2ca8beac9a03c5760b8f50"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/basic_soc.png"
 hash = "0cfaff88c6e184ccdadd0817999d1907a9c305b698e757ff5575e62a772fde0c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_transistor.png"
+hash = "d0f6ae4b15d9d39c0f581c3d2066ff0ec05e780536958f173b710c8da8ff017a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/brick_dust.png"
@@ -181,6 +229,14 @@ file = "kubejs/assets/kubejs/textures/item/dust.png"
 hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_capacitor.png"
+hash = "7c3c8e788dde9b548ddfa89f26a60c14a4b50fed145708a1e5352ca99f597e71"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_circuit_board.png"
+hash = "72013018e09b49018cb548e66cc617b4fc2e693c2fcb9e82f0a537c8c953ca60"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/elite_computer.png"
 hash = "a08ca01e5147cd0156f0deebf79702b6f64cc2932b1262d6c88d905ca15b09cb"
 
@@ -193,6 +249,14 @@ file = "kubejs/assets/kubejs/textures/item/elite_core.png.mcmeta"
 hash = "daa8c454058c3019089cb506b0bab485868c9ce74b1ee3e1dbcd64eaa5d019ac"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_diode.png"
+hash = "6d848c07fd6a3ab80b6439530d250715be1cc0492b2709f2f330799ee3f744ed"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_printed_circuit_board.png"
+hash = "29c2efff0f70bae75744349017d2a0ec4487fba2840964182803af33ecdaf623"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/elite_processor.png"
 hash = "64b9962685cb752c1cbb9b8511e981a4fd10d95a5885d1d5a400f07f9811a36f"
 
@@ -201,12 +265,24 @@ file = "kubejs/assets/kubejs/textures/item/elite_processor.png.mcmeta"
 hash = "441b6b8a78e4a5ba61f1036f9be934f4125531ad91355948f0d3a26d1a960753"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_resistor.png"
+hash = "2a59911ec3fdb8494f01c346d3d9b45b7433b4c536f9d3472133cd849c3b6dab"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/elite_soc.png"
 hash = "c587118482674f2cd5544927ace882a72cab71ff52cdcd3cc41dcd391ed86b25"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/elite_soc.png.mcmeta"
 hash = "1f263bd1df7218d84592f736e1dcacaff39faa9acfb1186cf0cfe1a14d5acd9b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_transistor.png"
+hash = "d5b74f396baf84b657adf00bdd2afe48b8b0b69681c267427ba9ad0bc6e78740"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_circuit_board.png"
+hash = "1610461bb31734a5ec67c80dc043a8d5a080fb9d49233609e0c8a70847a566eb"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/quantum_computer.png"
@@ -221,6 +297,10 @@ file = "kubejs/assets/kubejs/textures/item/quantum_core.png.mcmeta"
 hash = "d3bbcbcff53b0e3307138a8ee9812df698823e97ced515e2b03015b678e2bc4d"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_printed_circuit_board.png"
+hash = "1a2a0cc19a5fb89dd6b51ab4211613925cc08de01f54ea811d756664ab3a38fb"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/quantum_processor.png"
 hash = "2e2d06a4d8b700c69ab72d0eee13e34e63ef268a5f5085ae246f193c4a54788b"
 
@@ -231,6 +311,10 @@ hash = "626b657de97d2f34acf7ac64e3a20f072783d3ba88c55b61cb6eee18b4b4325d"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/rubber_plate.png"
 hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_circuit_board.png"
+hash = "2a0fdede960546c589bf905c7b80b75a8ccfedb36150cb030ec1ff675efabf87"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png"
@@ -247,6 +331,10 @@ hash = "6d991dce2b0c55f1c27b2c2bf2c8eea2e54ec03530ab330ba21c0f919f4a6197"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ultimate_core.png.mcmeta"
 hash = "a3453db2f13f6743ef5c08ca955593c531b02433d28645e90a39513ae5b4f741"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_printed_circuit_board.png"
+hash = "85faad9f1c1ed72c998441bfb976ec70e9311baecbb954feeaf760b82e3b2677"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png"
@@ -334,11 +422,11 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/advanced_items.js"
-hash = "86aedff37a1e2ff93eed0dd0ce4d4f55ad27d8d499906106a851d4816164a6fd"
+hash = "8e21ba7f7b9b5a19a067dad33733711be2e538166b78c48a7e30f0e657f5f7fa"
 
 [[files]]
 file = "kubejs/startup_scripts/src/basic_items.js"
-hash = "12bcddbf625d3b55c0877958f41416c8b0272e4709d9ca6836c0e66d4ec66c6e"
+hash = "4fcf7a3a6942d08d0f94bd6851e8ff106ce570cc550e7388b787de6f4b863840"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
@@ -346,7 +434,7 @@ hash = "2550b0184aacd7d8a347fe34bb01b4f37025063d8b4378573070be856818c863"
 
 [[files]]
 file = "kubejs/startup_scripts/src/elite_items.js"
-hash = "8cd3a2b8d8bdf286053c9bb3957b1ed0179b8702c79097f529805203f8a5eee1"
+hash = "2d60c40a6bb14e25b649f7c51e2d7080ea7dcf79814822241450a1fb2b9fe6ff"
 
 [[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
@@ -354,11 +442,11 @@ hash = "16bc3deae0b03404ce746f3793e850f7b0b373e672c2371b2002e9207e49d045"
 
 [[files]]
 file = "kubejs/startup_scripts/src/quantum_items.js"
-hash = "a7ca1f761b1d526cdb2224eb99b7b7d32b3b04eef46740e1b5b704e8ed77e001"
+hash = "ca70098a939341fcdb70acdffbff06cf52fd0d4c41be681eabd9617ae255463f"
 
 [[files]]
 file = "kubejs/startup_scripts/src/ultimate_items.js"
-hash = "2dd03fde378801259a0fd43349ae6dd69a71ce75701ea89c5f92cc6f3cc1c2ef"
+hash = "9e7fcc1b4094c699a75467002994c389e5132bc75a889efe574b88f334e2ded1"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
