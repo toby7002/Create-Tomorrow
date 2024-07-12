@@ -13,6 +13,10 @@ file = "config/almostunified/unify.json"
 hash = "9d95c441b913485aebf5a0fefc732218878760b0b97324ef5da4a214ee8df6b9"
 
 [[files]]
+file = "config/fancymenu/assets/_neurosama_i_dont_want_to_be_an_engineer.ogg"
+hash = "a074984ed4593b6b41082800f70defbf77e0aed7e8fb39eb4cbecf567219409c"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 hash = "b7fdab3226720f96dfbc664858e9fc2164f5828dba11463ad7d1b3289ec548f7"
 
@@ -34,7 +38,7 @@ hash = "38409a3f217f4a7f2b62e2b1552cadc709d476241fa6c2d01989abf1e553296b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "25b99562487965027d801454db0e5f047f695e98d022d5e4d68c3261991d69ed"
+hash = "5a1ecbe095563af2ab72b1adb0e377b7da1691046b52d138fdac18570cad244b"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -46,7 +50,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8ac98f7fd0cc119b97e747eecde635ea3cb6556e1e5798ae128e05ba28171755"
+hash = "d6a4aabd0cece12101621268c08c188e960305803110aee977228349a9a98906"
 
 [[files]]
 file = "config/fancymenu/slideshows/create_tomorrow/images/1.png"
@@ -769,6 +773,16 @@ hash = "6b7deeb35ea6d8ae986a7a7ef7ee8c7b47bc4279be0b53fc873a335dbe658a6d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-enderio.pw.toml"
+hash = "24b328f34c26d660882099dbd017c1b4deb0c395fc3e526a36ac415b12058245"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "d53245adba35fc8fb414f232321a284da8edd03e5ea5ec8ab2001eba14d25f1f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -981,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
 metafile = true
 
 [[files]]
