@@ -84,12 +84,6 @@ ServerEvents.recipes((event) => {
 		"side_config_augment",
 		"rs_control_augment",
 		"laser_diode",
-		"blitz_rod",
-		"blitz_powder",
-		"blizz_rod",
-		"blizz_powder",
-		"basalz_powder",
-		"basalz_rod",
 		"rich_slag",
 		"rosin",
 		"tar",
@@ -117,6 +111,7 @@ ServerEvents.recipes((event) => {
 		"machine_bottler",
 		"machine_crystallizer",
 		"machine_crafter",
+		"dynamo_numismatic"
 	].forEach((v) => {
 		event.remove({
 			output: `thermal:${v}`,
@@ -382,4 +377,42 @@ ServerEvents.recipes((event) => {
 		.superheated();
 	// Remove casts
 	event.remove({ output: "#thermal:crafting/casts" });
+	// Remove saps
+	event.remove({
+		output: "thermal:sap_bucket",
+	});
+	event.remove({ output: "thermal:sap" });
+	// Add fuels for compression dynamo
+	event.custom({
+		type: "thermal:compression_fuel",
+		ingredient: {
+			fluid: "mekanismgenerators:fusion_fuel",
+			amount: 1000,
+		},
+		energy: 200000000,
+	});
+	event.custom({
+		type: "thermal:compression_fuel",
+		ingredient: {
+			fluid: "mekanismgenerators:bioethanol",
+			amount: 1000,
+		},
+		energy: 750000,
+	});
+	event.custom({
+		type: "thermal:compression_fuel",
+		ingredient: {
+			fluid: "tfmg:naphtha",
+			amount: 1000,
+		},
+		energy: 1000000,
+	});
+	event.custom({
+		type: "thermal:compression_fuel",
+		ingredient: {
+			fluid: "tfmg:diesel",
+			amount: 1000,
+		},
+		energy: 1500000,
+	});
 });

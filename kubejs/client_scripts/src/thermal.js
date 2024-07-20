@@ -83,12 +83,6 @@ REIEvents.hide("item", (event) => {
 		"side_config_augment",
 		"rs_control_augment",
 		"laser_diode",
-		"blitz_rod",
-		"blitz_powder",
-		"blizz_rod",
-		"blizz_powder",
-		"basalz_powder",
-		"basalz_rod",
 		"rich_slag",
 		"rosin",
 		"tar",
@@ -116,6 +110,9 @@ REIEvents.hide("item", (event) => {
 		"machine_bottler",
 		"machine_crystallizer",
 		"machine_crafter",
+		"rf_coil_creative_augment",
+		"fluid_tank_creative_augment",
+		"dynamo_numismatic"
 	].forEach((v) => {
 		event.hide(`thermal:${v}`);
 	});
