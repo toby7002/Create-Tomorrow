@@ -90,7 +90,7 @@ hash = "3b8dd5d9bf438c0eb8b0620c7750ce5ef9ef9ab31a5fcd40e37b18a78eb4e293"
 
 [[files]]
 file = "config/mindfuldarkness-client.toml"
-hash = "d2fa1c65b01479724a2a5673483d19cf07a1925f7e358d641fdbc48ce3032b11"
+hash = "bdb93833fb0406da02f19152c71259e5ae44eedd6cdcfbcdcae3910259666195"
 
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
@@ -390,7 +390,7 @@ hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
 
 [[files]]
 file = "kubejs/client_scripts/src/thermal.js"
-hash = "4a1819bff5c38a392a9e88f40e0755f0f1353bf626340e4c7372f45a0ad92c86"
+hash = "faac2f662ff9d94959e01556685f3c71bdfd7bd03b5fe0ad96bc5518d1a0b409"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -418,7 +418,7 @@ hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "d010317d706481540e86c6d51b889a119fae6a11aebba9905a9c6e2ddadaead5"
+hash = "e4d48efa379d2284354e62a2d828cab5219c293cac2f759e0d590ce3158bf5df"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6f419727b42d05c2c8b0ccd86f7493204970edf87c5f85a3844412eac8797647"
+hash = "7a52bd3b3e5b2f46d5e93594f638f1797cfccaa99a990ae35e922bc47f0420f2"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
