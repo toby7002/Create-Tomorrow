@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./config/fancymenu/assets/logo.png" alt="logo" width="1024px">
+</div>
+
 # Create: Tomorrow
 
 An expert questing modpack which focuses on Create, tech mod and space exploration for Minecraft 1.20.1
