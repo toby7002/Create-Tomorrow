@@ -50,7 +50,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "350a541739dd702b182f242a727430660b3c7eb7c901b28e981d15ff3da46d94"
+hash = "d6a4aabd0cece12101621268c08c188e960305803110aee977228349a9a98906"
 
 [[files]]
 file = "config/fancymenu/slideshows/create_tomorrow/images/1.png"
@@ -798,6 +798,11 @@ hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9c26ae6841407e77909a8c5011afa8009fd228ff52522e0af01c0fbfe2604606"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
 metafile = true
@@ -875,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
+metafile = true
+
+[[files]]
+file = "mods/no-nether-portal.pw.toml"
+hash = "2d8efbc5e693066445ffb88767e9ed426e38c9fcaab3c75fbf746734bfb45483"
 metafile = true
 
 [[files]]
