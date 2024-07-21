@@ -3,3 +3,5 @@ README.md
 scripts/
 .gitignore
 .gitattributes
+*.zip
+jsconfig.json

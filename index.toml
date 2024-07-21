@@ -369,10 +369,6 @@ file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
-
-[[files]]
 file = "kubejs/client_scripts/src/chipped.js"
 hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 
@@ -395,10 +391,6 @@ hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
 [[files]]
 file = "kubejs/client_scripts/src/thermal.js"
 hash = "1a202f179d72c74d34821ebdd05ab7ce42c7f902d13ce5cb6dd624850720221b"
-
-[[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/ad_astra.js"
@@ -431,10 +423,6 @@ hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
 hash = "ffadb5aaf94c6200db3db24da2668f4cfc34efc72edd34ff3b606392621d5e5a"
-
-[[files]]
-file = "kubejs/startup_scripts/jsconfig.json"
-hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/advanced_items.js"
