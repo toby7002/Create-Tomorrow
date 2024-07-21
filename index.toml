@@ -377,6 +377,10 @@ file = "kubejs/client_scripts/src/chipped.js"
 hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 
 [[files]]
+file = "kubejs/client_scripts/src/enderio.js"
+hash = "aae0675942cade62b40e09a907bc5fe3318bfdd53a347414d523cb87948f6eb0"
+
+[[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
 hash = "13e1d46efbec5f8cc924e4e34c3141703741e0991049705e7af38debb6db7bdd"
 
@@ -390,11 +394,19 @@ hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
 
 [[files]]
 file = "kubejs/client_scripts/src/thermal.js"
-hash = "faac2f662ff9d94959e01556685f3c71bdfd7bd03b5fe0ad96bc5518d1a0b409"
+hash = "1a202f179d72c74d34821ebdd05ab7ce42c7f902d13ce5cb6dd624850720221b"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
 hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/ad_astra.js"
+hash = "4accdefbbc2ea7758e05a33145b7def5b6b595e35e97b7328709357d6d7733d1"
+
+[[files]]
+file = "kubejs/server_scripts/src/enderio.js"
+hash = "69385063b9d7e5b20c50a24f06085b6da1b89b909681fad72f470bc58435bbbc"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
@@ -418,7 +430,7 @@ hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "e4d48efa379d2284354e62a2d828cab5219c293cac2f759e0d590ce3158bf5df"
+hash = "ffadb5aaf94c6200db3db24da2668f4cfc34efc72edd34ff3b606392621d5e5a"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
