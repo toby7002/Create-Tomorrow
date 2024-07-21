@@ -177,6 +177,10 @@ file = "kubejs/assets/kubejs/textures/item/advanced_transistor.png"
 hash = "fb8bf66f35847a5c36b00cd0af51879d1bc91e40ecb0fed47d28291c02ba8161"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/aluminum_ingot.png"
+hash = "53d25007958e54181e452b45aa1f7399273ab29fc79bf93f93381bbfb0d28777"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/basic_capacitor.png"
 hash = "d84eeaaf34d76c59148da70613bcfd20c11afde393f597fa849bd8491b280299"
 
@@ -222,11 +226,11 @@ hash = "d0f6ae4b15d9d39c0f581c3d2066ff0ec05e780536958f173b710c8da8ff017a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/brick_dust.png"
-hash = "6278c1481ed3994ef63cff6c7454344eb29fc562b87fa8499a218b950e145265"
+hash = "01c6ee7637a5fff81e89ef12fa229d18c0060c577e3bd393859aa29cb8bfff9a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/clay_dust.png"
-hash = "6278c1481ed3994ef63cff6c7454344eb29fc562b87fa8499a218b950e145265"
+hash = "d34e1736e138be52d299a52aacd1ae7a913b52e7a95b9991bfec32718b711b47"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/dust.png"
@@ -398,7 +402,7 @@ hash = "4accdefbbc2ea7758e05a33145b7def5b6b595e35e97b7328709357d6d7733d1"
 
 [[files]]
 file = "kubejs/server_scripts/src/enderio.js"
-hash = "69385063b9d7e5b20c50a24f06085b6da1b89b909681fad72f470bc58435bbbc"
+hash = "7beeedf17dc3d66a9a873e26cbd14f0a29f559b09dbbbb322325c8df0ecb9b90"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
@@ -422,7 +426,7 @@ hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "ffadb5aaf94c6200db3db24da2668f4cfc34efc72edd34ff3b606392621d5e5a"
+hash = "718911a9bf8f40d9890b03998e954216a7c53e95cedb243f3a78d422b581075a"
 
 [[files]]
 file = "kubejs/startup_scripts/src/advanced_items.js"
@@ -434,7 +438,7 @@ hash = "4fcf7a3a6942d08d0f94bd6851e8ff106ce570cc550e7388b787de6f4b863840"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
-hash = "2550b0184aacd7d8a347fe34bb01b4f37025063d8b4378573070be856818c863"
+hash = "68bbd8ecf4723fb523e1aa6d2092a80ef73587c890e9cf04bfe6a3360f1bec10"
 
 [[files]]
 file = "kubejs/startup_scripts/src/elite_items.js"
@@ -442,7 +446,7 @@ hash = "2d60c40a6bb14e25b649f7c51e2d7080ea7dcf79814822241450a1fb2b9fe6ff"
 
 [[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
-hash = "16bc3deae0b03404ce746f3793e850f7b0b373e672c2371b2002e9207e49d045"
+hash = "34592262383f8350c30ee51ff78ecdc846c7cdc94a1ac866af3385d46225a043"
 
 [[files]]
 file = "kubejs/startup_scripts/src/quantum_items.js"
@@ -805,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
+metafile = true
+
+[[files]]
+file = "mods/masterful-machinery.pw.toml"
+hash = "35f4f6bc2cd42d3dbd1e58173364ec7cc9f10e1f7faa99f8893eabc6a06caf29"
 metafile = true
 
 [[files]]

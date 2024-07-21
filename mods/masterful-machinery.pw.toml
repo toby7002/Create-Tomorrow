@@ -1,0 +1,13 @@
+name = "Masterful Machinery"
+filename = "MasterfulMachinery-3-1.20.1-0.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CIQfBdpM/versions/DEP2Q9o5/MasterfulMachinery-3-1.20.1-0.1.12.jar"
+hash-format = "sha1"
+hash = "a14c065683fec7df0e846983b1a46269b617932a"
+
+[update]
+[update.modrinth]
+mod-id = "CIQfBdpM"
+version = "DEP2Q9o5"
