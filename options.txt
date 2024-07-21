@@ -201,7 +201,7 @@ key_key.ad_astra.toggle_suit_flight:key.keyboard.v
 key_key.ad_astra.open_radio:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.20422535211267606
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
