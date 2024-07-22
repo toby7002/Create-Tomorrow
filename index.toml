@@ -647,6 +647,11 @@ hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "8cf9f096b861140257ba3573e304fe93db2643f9b970589770f23c6a2f79e5df"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
@@ -704,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
+metafile = true
+
+[[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "55456c902e2e6b521f966156baa29419245ba01952b60d75e20f96696efd2bf0"
 metafile = true
 
 [[files]]
@@ -1009,6 +1019,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/sgjourney.pw.toml"
+hash = "0bf83a0c5d09f81b7bbf624d9bd178d8e194d4a8b4b93af49944f8f61b089727"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cucumber Library"
+filename = "Cucumber-1.20.1-7.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rw1NrDzF/versions/Bb3QGp82/Cucumber-1.20.1-7.0.9.jar"
+hash-format = "sha1"
+hash = "955982e6f6fa7e37d0e036885a24c7e98a0e9bca"
+
+[update]
+[update.modrinth]
+mod-id = "Rw1NrDzF"
+version = "Bb3QGp82"
