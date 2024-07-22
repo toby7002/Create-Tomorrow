@@ -67,5 +67,12 @@ ServerEvents.recipes((event) => {
 		Fluid.of("thermal:resin"),
 		"kubejs:basic_circuit_board",
 	]);
-  event.recipes.create.cutting("6x kubejs:basic_circuit_board", "#minecraft:wooden_slabs")
+	event.recipes.create.cutting(
+		"6x kubejs:basic_circuit_board",
+		"#minecraft:wooden_slabs"
+	);
+});
+
+ServerEvents.tags("item", (event) => {
+	event.add("forge:ingots/aluminum", "kubejs:aluminum_ingot");
 });

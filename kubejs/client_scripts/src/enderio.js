@@ -38,5 +38,6 @@ REIEvents.hide("fluid", (event) => {
 		"cloud_seed_concentrated",
 	].forEach((item) => {
 		event.hide(`enderio:${item}`);
+		event.hide(`enderio:${item}_bucket`);
 	});
 });

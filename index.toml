@@ -378,11 +378,23 @@ hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 
 [[files]]
 file = "kubejs/client_scripts/src/enderio.js"
-hash = "aae0675942cade62b40e09a907bc5fe3318bfdd53a347414d523cb87948f6eb0"
+hash = "6c207a5bfaee875711d4d4c4cd46a26ebaa6f05bd209276c73cb543a5a6f2775"
 
 [[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
 hash = "13e1d46efbec5f8cc924e4e34c3141703741e0991049705e7af38debb6db7bdd"
+
+[[files]]
+file = "kubejs/client_scripts/src/mekanism.js"
+hash = "bfc813cef2ea8ee55d07da4a9af6db54d5e4f263b982870cd1e980d800bcb7a9"
+
+[[files]]
+file = "kubejs/client_scripts/src/minecraft.js"
+hash = "27874fa0cfadd3e957c6aca79f1f8475b81c221910b02d7d2fbb1423e74ab251"
+
+[[files]]
+file = "kubejs/client_scripts/src/new_age.js"
+hash = "fe7ef9ff2d27e2a7e11ec3d8a8ee6f00b1e4d881c0ecbda7872dd1cea5e09562"
 
 [[files]]
 file = "kubejs/client_scripts/src/rechiseled.js"
@@ -414,11 +426,19 @@ hash = "9c02271805b7200f0aaada5abd9759a889cea31ff86c00f61b498f71454ed4b2"
 
 [[files]]
 file = "kubejs/server_scripts/src/kubejs.js"
-hash = "f3868acf9235f6bc98767c434b3dbf737c011a89329ad77fefc7999d4399bcf2"
+hash = "efb2f82eed87162bbfe77164390d0f4be39930860c42b6f33c01246d1e4b8a4a"
+
+[[files]]
+file = "kubejs/server_scripts/src/mekanism.js"
+hash = "31ef99f0ef734782e3978d4cf65b80e4ac64d22bb5ea7c0d6f9f47aaa09fb8a9"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft.js"
 hash = "ba5f866a906c6529fceee79253b618a52d7ef4fe6c2922ee78b5d8795cb2a4dc"
+
+[[files]]
+file = "kubejs/server_scripts/src/new_age.js"
+hash = "904f4a42cb739eec748910df9a3f134ce9970a504b5689fc7494de1ab0a47869"
 
 [[files]]
 file = "kubejs/server_scripts/src/the_factory_must_grow.js"
