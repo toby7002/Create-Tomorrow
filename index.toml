@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "051f506b90d248574f15694337dbdeae085e610de4472e6acad3222366d47d68"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "ecf1e9f2f748801e029f63bbcfa2471e470ea8dbc0fb44f1dc6d8850c750daa7"
 
@@ -486,6 +490,11 @@ hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
 
 [[files]]
+file = "mods/advanced-generators.pw.toml"
+hash = "3cc51a51acae9cdd9f0035431db7a203af8e6cc70b21136867796fefc13b74e4"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "08f24803127af95a97c3f2d54910dc5e449652aa07ae4d649e45ef7b5c8835d6"
 metafile = true
@@ -528,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
+file = "mods/bdlib.pw.toml"
+hash = "5fd19cba1eeaf7a0ab1842cc6941035457c114ed4bec845c0a909601bd613eee"
 metafile = true
 
 [[files]]
@@ -771,6 +785,11 @@ hash = "594a550b5590844f2d8e71d33a48f50609e1a4a076ca54ea097e38681840a41e"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
 metafile = true
@@ -848,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/masterful-machinery.pw.toml"
 hash = "35f4f6bc2cd42d3dbd1e58173364ec7cc9f10e1f7faa99f8893eabc6a06caf29"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "feb9b4a5ebd8bc5e772ab3eee680c7930b000a1f532db30f33a2d47a1a77ee4e"
 metafile = true
 
 [[files]]
@@ -936,6 +960,11 @@ hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft-neoteric.pw.toml"
+hash = "a4bc86227084585e26a1e457a49b2fe0c128aaa9f65ecaabf8aa8dba60651c81"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "450a3ad1e5e953d9d6c1f5ad6278ead01cfe32ea17fe43df70d3cf2a3120ff55"
 metafile = true
@@ -976,6 +1005,11 @@ hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
 metafile = true
@@ -1001,6 +1035,11 @@ hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ecce1359ac9a17afd610cfc21dc6cc690f9d08f789a1e4601a04611f424c9914"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
@@ -1018,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "0efdfd042ff64bcbd20ea342d47214c362a124f63568ccf3f1516caf134dc596"
 metafile = true
 
 [[files]]
@@ -1078,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
 
 [[files]]
