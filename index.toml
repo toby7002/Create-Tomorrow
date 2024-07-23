@@ -497,6 +497,16 @@ file = "kubejs/startup_scripts/src/item_registry.js"
 hash = "5912b762656e25d3c6e884420d5f7e093443fcf6763fbe3e58d843a4541d3b2c"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "c31c0818cdd27b83743746b163d47f0823f30af1cc3196bb147c2939a16853c7"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra-rocketed.pw.toml"
+hash = "7be88fe2fe31f40db72fd73f08f8a4642805f770cc0cc92ba6d81eaba7e60da0"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
@@ -713,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderio.pw.toml"
-hash = "3acea0646e5617698fee7457a0d32559e9ce8cc20c1873ba4dc9743c18f413df"
+hash = "29a707cbf84e8664b243d07979bc0ae12e255374b06b2185d7e3bf1868851fb8"
 metafile = true
 
 [[files]]
