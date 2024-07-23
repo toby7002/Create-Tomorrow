@@ -21,6 +21,7 @@ REIEvents.hide("item", (event) => {
 		"pressurized_fluid_tank",
 		"drain",
 		"crafter",
+		"photovoltaic_plate",
 	].forEach((item) => {
 		event.hide(`enderio:${item}`);
 	});

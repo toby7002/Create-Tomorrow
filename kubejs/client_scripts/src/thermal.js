@@ -112,7 +112,8 @@ REIEvents.hide("item", (event) => {
 		"machine_crafter",
 		"rf_coil_creative_augment",
 		"fluid_tank_creative_augment",
-		"dynamo_numismatic"
+		"dynamo_numismatic",
+		"machine_insolator"
 	].forEach((v) => {
 		event.hide(`thermal:${v}`);
 	});

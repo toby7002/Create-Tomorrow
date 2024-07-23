@@ -14,7 +14,7 @@ hash = "a2d441077e8d31a59514c7570baa60a6467f504b660f1f9ba285fb65a5cadd44"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "9d95c441b913485aebf5a0fefc732218878760b0b97324ef5da4a214ee8df6b9"
+hash = "603fd7ec1222c173d70448f06b8ff45fb3ddb0e9fb93c2653ee4554ab621808c"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -377,12 +377,16 @@ file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "kubejs/client_scripts/src/advgenerators.js"
+hash = "87a9321cb0734f054f0c3ac4079eb395f4631013453d1068e6d3eb032cdeda71"
+
+[[files]]
 file = "kubejs/client_scripts/src/chipped.js"
 hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 
 [[files]]
 file = "kubejs/client_scripts/src/enderio.js"
-hash = "6c207a5bfaee875711d4d4c4cd46a26ebaa6f05bd209276c73cb543a5a6f2775"
+hash = "903595d008c87bf05ac84195676af1c98aaf8d0ecffbef8a660ddf96b44478cf"
 
 [[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
@@ -390,7 +394,7 @@ hash = "13e1d46efbec5f8cc924e4e34c3141703741e0991049705e7af38debb6db7bdd"
 
 [[files]]
 file = "kubejs/client_scripts/src/mekanism.js"
-hash = "bfc813cef2ea8ee55d07da4a9af6db54d5e4f263b982870cd1e980d800bcb7a9"
+hash = "cd0efc84c3f4f4e72342920ccc800e4a7c27f6240b8383e6bda74728025c65c7"
 
 [[files]]
 file = "kubejs/client_scripts/src/minecraft.js"
@@ -410,19 +414,39 @@ hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
 
 [[files]]
 file = "kubejs/client_scripts/src/thermal.js"
-hash = "1a202f179d72c74d34821ebdd05ab7ce42c7f902d13ce5cb6dd624850720221b"
+hash = "354c2d20685a55ee2ffea9b48a62961ba15045bd239efddf25a20daccd77a285"
 
 [[files]]
 file = "kubejs/server_scripts/src/ad_astra.js"
 hash = "4accdefbbc2ea7758e05a33145b7def5b6b595e35e97b7328709357d6d7733d1"
 
 [[files]]
+file = "kubejs/server_scripts/src/advgenerators.js"
+hash = "c2b4c09ee0d9ebce6b1217c5ebd926a4c420bd55c20bed7d167cc43f40254873"
+
+[[files]]
 file = "kubejs/server_scripts/src/ae2.js"
-hash = "52406775b1255d40ff449348972ce5a979800310ea3ebb5ad95ef2c76c83d2a3"
+hash = "14a011960527c97bea03546c82ea8bb19f0835e599269ff3d8b665971aac6204"
+
+[[files]]
+file = "kubejs/server_scripts/src/cc.js"
+hash = "24257e45c17018cba3d24ffabd3d74a950f4b9cfbffcd3ebc15b808ff471380d"
+
+[[files]]
+file = "kubejs/server_scripts/src/create.js"
+hash = "060027e3204c707e66818f9c1db4fa3857ae572792bc22ce533611bcadadb5ff"
+
+[[files]]
+file = "kubejs/server_scripts/src/create_deco.js"
+hash = "dcc5e963b3edaefdee1175ddc72a8c414ca2f160f72465e005c13eb782a676c1"
 
 [[files]]
 file = "kubejs/server_scripts/src/enderio.js"
-hash = "7beeedf17dc3d66a9a873e26cbd14f0a29f559b09dbbbb322325c8df0ecb9b90"
+hash = "1fddad8de178c7d58e8d35d780a843f3cf83ac4247b1d57cb90e0406205ad358"
+
+[[files]]
+file = "kubejs/server_scripts/src/extended_crafting.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
@@ -437,8 +461,12 @@ file = "kubejs/server_scripts/src/kubejs.js"
 hash = "d58018b80543c9c354ffd384e30e760b935c265358efbab66804015e292df686"
 
 [[files]]
+file = "kubejs/server_scripts/src/machines.js"
+hash = "9a6883212358b07d9122c21456e8640b9e5a72b3eae29925bd8056b29719730b"
+
+[[files]]
 file = "kubejs/server_scripts/src/mekanism.js"
-hash = "31ef99f0ef734782e3978d4cf65b80e4ac64d22bb5ea7c0d6f9f47aaa09fb8a9"
+hash = "111c6eb60f5f80722b4c72d89a0623573ba1461bce561435f2e7a678b4d297e7"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft.js"
@@ -449,40 +477,24 @@ file = "kubejs/server_scripts/src/new_age.js"
 hash = "0148423a9f022b64218a6289b7c6faf50b917daa2fb7cfc1c5cb416652c64fda"
 
 [[files]]
+file = "kubejs/server_scripts/src/nuclear_craft.js"
+hash = "eabc7d07239953c6808f4d779d929c3d70cdc3ffdcdff15531026a103500f95c"
+
+[[files]]
 file = "kubejs/server_scripts/src/the_factory_must_grow.js"
-hash = "5e1aba9c2b14e74560fc451e5da87f37c0e168a82cd56ac8fba2e2a0a0bb922c"
+hash = "d288d2c3845d5fc4dce82d4cda06998f444e3ff493207e83955c479b4de034e7"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "718911a9bf8f40d9890b03998e954216a7c53e95cedb243f3a78d422b581075a"
-
-[[files]]
-file = "kubejs/startup_scripts/src/advanced_items.js"
-hash = "8e21ba7f7b9b5a19a067dad33733711be2e538166b78c48a7e30f0e657f5f7fa"
-
-[[files]]
-file = "kubejs/startup_scripts/src/basic_items.js"
-hash = "4fcf7a3a6942d08d0f94bd6851e8ff106ce570cc550e7388b787de6f4b863840"
+hash = "4a62d0a1d2e556c709edc1f4bb2d6b71562306e1c050682e3a4e87bf74dad4c0"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
 hash = "68bbd8ecf4723fb523e1aa6d2092a80ef73587c890e9cf04bfe6a3360f1bec10"
 
 [[files]]
-file = "kubejs/startup_scripts/src/elite_items.js"
-hash = "2d60c40a6bb14e25b649f7c51e2d7080ea7dcf79814822241450a1fb2b9fe6ff"
-
-[[files]]
 file = "kubejs/startup_scripts/src/item_registry.js"
-hash = "34592262383f8350c30ee51ff78ecdc846c7cdc94a1ac866af3385d46225a043"
-
-[[files]]
-file = "kubejs/startup_scripts/src/quantum_items.js"
-hash = "ca70098a939341fcdb70acdffbff06cf52fd0d4c41be681eabd9617ae255463f"
-
-[[files]]
-file = "kubejs/startup_scripts/src/ultimate_items.js"
-hash = "9e7fcc1b4094c699a75467002994c389e5132bc75a889efe574b88f334e2ded1"
+hash = "5912b762656e25d3c6e884420d5f7e093443fcf6763fbe3e58d843a4541d3b2c"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -947,11 +959,6 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
-metafile = true
-
-[[files]]
-file = "mods/no-nether-portal.pw.toml"
-hash = "2d8efbc5e693066445ffb88767e9ed426e38c9fcaab3c75fbf746734bfb45483"
 metafile = true
 
 [[files]]

@@ -1,5 +1,11 @@
 ServerEvents.recipes((event) => {
-	["inscriber", "quantum_ring", "quantum_link"].forEach((item) => {
+	[
+		"inscriber",
+		"quantum_ring",
+		"quantum_link",
+		"drive",
+		"molecular_assembler",
+	].forEach((item) => {
 		event.remove({
 			output: `ae2:${item}`,
 		});
@@ -56,5 +62,21 @@ ServerEvents.recipes((event) => {
 		a: "mekanism:teleportation_core",
 		o: "ae2:fluix_pearl",
 		z: "mekanism:quantum_entangloporter",
+	});
+
+	// Drive
+	event.shaped("ae2:drive", ["xyx", "ozo", "xyx"], {
+		x: "iron_ingot",
+		y: "ae2:engineering_processor",
+		o: "ae2:fluix_glass_cable",
+		z: "computercraft:disk_drive",
+	});
+	// Molecular assembler
+	event.shaped("ae2:molecular_assembler", ["xyx", "oza", "xyx"], {
+		x: "thermal:iron_plate",
+		y: "ae2:quartz_glass",
+		o: "ae2:formation_core",
+		z: "create:mechanical_crafter",
+		a: "ae2:annihilation_core",
 	});
 });

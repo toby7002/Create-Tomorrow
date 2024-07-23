@@ -97,4 +97,10 @@ ServerEvents.recipes((event) => {
 		"thermal:gold_dust",
 	]);
 	event.smelting("enderio:soularium_ingot", "enderio:soul_powder");
+	// Solar panels
+	event.replaceInput(
+		{ input: "enderio:photovoltaic_plate" },
+		"enderio:photovoltaic_plate",
+		"mekanismgenerators:solar_panel"
+	);
 });

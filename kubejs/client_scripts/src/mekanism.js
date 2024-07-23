@@ -13,8 +13,15 @@ REIEvents.hide("item", (event) => {
 		"qio_exporter",
 		"qio_redstone_adapter",
 		"hdpe_elytra",
-		"elite_tier_installer",
-		"ultimate_tier_installer",
+		"basic_control_circuit",
+		"advanced_control_circuit",
+		"elite_control_circuit",
+		"ultimate_control_circuit",
+		"robit",
+		"scuba_mask",
+		"scuba_tank",
+		"jetpack",
+		"fluidic_plenisher",
 	].forEach((item) => {
 		event.hide(`mekanism:${item}`);
 	});

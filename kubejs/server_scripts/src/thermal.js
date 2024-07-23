@@ -112,6 +112,7 @@ ServerEvents.recipes((event) => {
 		"machine_crystallizer",
 		"machine_crafter",
 		"dynamo_numismatic",
+		"machine_insolator",
 	].forEach((v) => {
 		event.remove({
 			output: `thermal:${v}`,
@@ -345,7 +346,7 @@ ServerEvents.recipes((event) => {
 			"thermal:silver_ingot",
 			"10x minecraft:glowstone_dust",
 		])
-		.heated();
+		.superheated();
 	// Enderium
 	event.remove({
 		output: "thermal:enderium_ingot",
@@ -366,7 +367,7 @@ ServerEvents.recipes((event) => {
 			"minecraft:diamond",
 			"2x minecraft:ender_pearl",
 		])
-		.heated();
+		.superheated();
 	// Remove casts
 	event.remove({ output: "#thermal:crafting/casts" });
 	// Add fuels for compression dynamo
@@ -402,4 +403,8 @@ ServerEvents.recipes((event) => {
 		},
 		energy: 1500000,
 	});
+});
+
+ServerEvents.tags("item", (event) => {
+	event.add("forge:dusts/sulfur", "thermal:sulfur_dust");
 });
