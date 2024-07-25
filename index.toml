@@ -17,18 +17,6 @@ file = "config/almostunified/unify.json"
 hash = "603fd7ec1222c173d70448f06b8ff45fb3ddb0e9fb93c2653ee4554ab621808c"
 
 [[files]]
-file = "config/fancymenu/assets/logo.png"
-hash = "b7fdab3226720f96dfbc664858e9fc2164f5828dba11463ad7d1b3289ec548f7"
-
-[[files]]
-file = "config/fancymenu/assets/main_menu_music.ogg"
-hash = "c566033af1fd6410b4c86ae2351570d6f72e8214fb026be142a37a2d30c052cd"
-
-[[files]]
-file = "config/fancymenu/assets/splash_texts.txt"
-hash = "3014f4ed3e46a63ba85d51678c3a679db16fb6a1fafad066e1d7e7ee6858e948"
-
-[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -101,282 +89,6 @@ file = "config/roughlyenoughitems/favorites.json5"
 hash = "cf521156711faa734557d7ed3acb27e2ea2757e604dd0e0359554230a2fea4c9"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
-hash = "507169d574aa5cfbbea82ee70061c32b8dfacfc84fba6ad57526bb9db4f51c11"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
-hash = "8baa0b7f9951fa63b16db16f2e4052c22a9c917a89ec396e213583719fe17179"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/octuple_compressed_cobblestone.png"
-hash = "a607fd962b46478c18dca8ece8244d9085eb9844df45b4cd08b62599445c0956"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png"
-hash = "5696b9fcbbc65a931ef7a7ba7d087ab358a5b3e5919374fc3ffa6e92c342138c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png"
-hash = "089bdc98017a3fe1f67d3e31f4c8d63f5349748e63dffad11459f4bfacf0a11e"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/septuple_compressed_cobblestone.png"
-hash = "5ec80560cc8478e68bbab147d47307e0edb83eabb11d0cf013975c0093c04a24"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/sextuple_compressed_cobblestone.png"
-hash = "33a9fbfad748139a15710bc8a05bfaacf2cfca607ac8d02630c32b52abcf4253"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/steel_casing.png"
-hash = "4b337276213ee0c4e8fd5f838c35f237c1414fbb5bc9c58c7957b28cdb720157"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
-hash = "00ce1af9afe1299c4530d8d83a7ab24143fc40c7d3d285b71a28c6035de729bb"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_capacitor.png"
-hash = "2c9822947cc0d6b05ecba24096620431277762bba34ba35d2a9a9a4c3bdcfe6d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_circuit_board.png"
-hash = "090a865d0fb3dfbd02e1a0ba48b01502eec3ee8cebc8c92cd6aa89a2a355b49e"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_computer.png"
-hash = "3209cc5d6dbd17445436e9e5e946377715883af6e21b23dbe9481dde7a541b7c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_core.png"
-hash = "ea681d79670d32d6900a4afd578c5724995c037da160c9483ed0a68ecab16884"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_core.png.mcmeta"
-hash = "7e2213aed684faf03dc845a30a3e7c3d65d320a7b3ad0ce277e8e60544b43b2b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_diode.png"
-hash = "28623ef7d150b4c459103c184fa5055a6775766dd7b9d4a2011888509a503acf"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_printed_circuit_board.png"
-hash = "2de4e5697efffc0ea88fa2197e7bfdc6b4a5575f87d507eb24eaf4fbe8c9fe8c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_processor.png"
-hash = "3b24ce020fba02a12d1abaeadce42809d373288365c90f305f2251567cd2ab3c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_resistor.png"
-hash = "b30b952441d5c0149709a5362fe53e8f46b81c81ea41d297ce6b0ea7256bde6c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_soc.png"
-hash = "5044c89a9b25bfa43af3fb3bcbca3d3deaa40c60c1abb85e0d7207150e5ccba1"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/advanced_transistor.png"
-hash = "fb8bf66f35847a5c36b00cd0af51879d1bc91e40ecb0fed47d28291c02ba8161"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/aluminum_ingot.png"
-hash = "53d25007958e54181e452b45aa1f7399273ab29fc79bf93f93381bbfb0d28777"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_capacitor.png"
-hash = "d84eeaaf34d76c59148da70613bcfd20c11afde393f597fa849bd8491b280299"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_circuit_board.png"
-hash = "44f199f49e633a4ab89f6e378ccff35ce98de358b69bd419e33143475597d415"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_computer.png"
-hash = "0d56337cba05743a348545370015ef29464fa640df25b93d29c32cf3f001e0be"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_core.png"
-hash = "ba9d8fc2da717d9b6acba5c26fe1601c2aad33eca3507e766b1f41dd12be215a"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_core.png.mcmeta"
-hash = "a34bda0031e3c2bb56f62b5d61b1f9eccf70f0782ea94679b04b1d0208649845"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_diode.png"
-hash = "43aa31279f9d6eab6c7d66d4aeeebdd56acf2c965e00ec9c38db601dbab84177"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_printed_circuit_board.png"
-hash = "3d9747e3e0123958ddc7237e6948ec02996c3b3dc5689cd6b83ffb12f6cb00d1"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_processor.png"
-hash = "ad811fc31b64609e26d6751eede113790e1d26f70af5897f5359bea2f048c3b0"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_resistor.png"
-hash = "452f8241b1c738314cebba21fc734875d04a0c153c2ca8beac9a03c5760b8f50"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_soc.png"
-hash = "0cfaff88c6e184ccdadd0817999d1907a9c305b698e757ff5575e62a772fde0c"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/basic_transistor.png"
-hash = "d0f6ae4b15d9d39c0f581c3d2066ff0ec05e780536958f173b710c8da8ff017a"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/brick_dust.png"
-hash = "01c6ee7637a5fff81e89ef12fa229d18c0060c577e3bd393859aa29cb8bfff9a"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/clay_dust.png"
-hash = "d34e1736e138be52d299a52aacd1ae7a913b52e7a95b9991bfec32718b711b47"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/dust.png"
-hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_capacitor.png"
-hash = "7c3c8e788dde9b548ddfa89f26a60c14a4b50fed145708a1e5352ca99f597e71"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_circuit_board.png"
-hash = "72013018e09b49018cb548e66cc617b4fc2e693c2fcb9e82f0a537c8c953ca60"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_computer.png"
-hash = "a08ca01e5147cd0156f0deebf79702b6f64cc2932b1262d6c88d905ca15b09cb"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_core.png"
-hash = "c5198b405b9b816778e3fd3d37d4422a468c63f4966a8864e0469357728cddb9"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_core.png.mcmeta"
-hash = "daa8c454058c3019089cb506b0bab485868c9ce74b1ee3e1dbcd64eaa5d019ac"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_diode.png"
-hash = "6d848c07fd6a3ab80b6439530d250715be1cc0492b2709f2f330799ee3f744ed"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_printed_circuit_board.png"
-hash = "29c2efff0f70bae75744349017d2a0ec4487fba2840964182803af33ecdaf623"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_processor.png"
-hash = "64b9962685cb752c1cbb9b8511e981a4fd10d95a5885d1d5a400f07f9811a36f"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_processor.png.mcmeta"
-hash = "441b6b8a78e4a5ba61f1036f9be934f4125531ad91355948f0d3a26d1a960753"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_resistor.png"
-hash = "2a59911ec3fdb8494f01c346d3d9b45b7433b4c536f9d3472133cd849c3b6dab"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_soc.png"
-hash = "c587118482674f2cd5544927ace882a72cab71ff52cdcd3cc41dcd391ed86b25"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_soc.png.mcmeta"
-hash = "1f263bd1df7218d84592f736e1dcacaff39faa9acfb1186cf0cfe1a14d5acd9b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/elite_transistor.png"
-hash = "d5b74f396baf84b657adf00bdd2afe48b8b0b69681c267427ba9ad0bc6e78740"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_circuit_board.png"
-hash = "1610461bb31734a5ec67c80dc043a8d5a080fb9d49233609e0c8a70847a566eb"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_computer.png"
-hash = "b75295970482c183ed5ecfb044e267b81c7a1a20284677d9fd97382c4ed08727"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_core.png"
-hash = "9d9eca90a9b2c31eaa1823e5dd06e5a5db65d28966388deec20db4644e8f6914"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_core.png.mcmeta"
-hash = "d3bbcbcff53b0e3307138a8ee9812df698823e97ced515e2b03015b678e2bc4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_printed_circuit_board.png"
-hash = "1a2a0cc19a5fb89dd6b51ab4211613925cc08de01f54ea811d756664ab3a38fb"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_processor.png"
-hash = "2e2d06a4d8b700c69ab72d0eee13e34e63ef268a5f5085ae246f193c4a54788b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/quantum_soc.png"
-hash = "626b657de97d2f34acf7ac64e3a20f072783d3ba88c55b61cb6eee18b4b4325d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/rubber_plate.png"
-hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_circuit_board.png"
-hash = "2a0fdede960546c589bf905c7b80b75a8ccfedb36150cb030ec1ff675efabf87"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png"
-hash = "cace184053ca188d0c97b0ae4b988b697a19adb00bcddeb10bf9fb39d4fb8027"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png.mcmeta"
-hash = "f6dd0d2e54b016f022c7fd6745825e08065b4699e88eea0d65b98d950146686d"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_core.png"
-hash = "6d991dce2b0c55f1c27b2c2bf2c8eea2e54ec03530ab330ba21c0f919f4a6197"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_core.png.mcmeta"
-hash = "a3453db2f13f6743ef5c08ca955593c531b02433d28645e90a39513ae5b4f741"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_printed_circuit_board.png"
-hash = "85faad9f1c1ed72c998441bfb976ec70e9311baecbb954feeaf760b82e3b2677"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png"
-hash = "44303b3d7b24217570034fc4e6c40689691e8b5d3c3297bcdd537cec85b2b2ce"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png.mcmeta"
-hash = "86bfa2531b669d4f249278e9f35a7f55d2d45540ca36f503107af07bd1fae0f1"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png"
-hash = "7bcf2f6b4a7a71534e47ac1c7cf041e4020241148493f2c1982da03af9f926f1"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png.mcmeta"
-hash = "0d81a8feb03b276867a0e8e49acb6c76202b11cd1f7257752cd2c3ff512e0a3a"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/wrought_iron_ingot.png"
-hash = "8550ef4e3c6f1aff718c7cb33d6e314e09c36076ebb15f5362a7cc3e69a60dfc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/wrought_iron_plate.png"
-hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
-
-[[files]]
-file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "kubejs/client_scripts/src/advgenerators.js"
 hash = "87a9321cb0734f054f0c3ac4079eb395f4631013453d1068e6d3eb032cdeda71"
 
@@ -387,6 +99,10 @@ hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 [[files]]
 file = "kubejs/client_scripts/src/enderio.js"
 hash = "4cf9c06c49a4580955fabc59227467b3961f42817829a9a1b5cde42678f9d475"
+
+[[files]]
+file = "kubejs/client_scripts/src/extended_crafting.js"
+hash = "0dd60bd8ca94c445b7e7f9dc92ebac3f55dc8f17a93c26ba52437ae4bf1b8f1c"
 
 [[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
@@ -405,12 +121,16 @@ file = "kubejs/client_scripts/src/new_age.js"
 hash = "fe7ef9ff2d27e2a7e11ec3d8a8ee6f00b1e4d881c0ecbda7872dd1cea5e09562"
 
 [[files]]
+file = "kubejs/client_scripts/src/nuclear_craft.js"
+hash = "541c38db2468e5f7a8ae7b50769765cd024e5f2c61644f6bd948d04561addecb"
+
+[[files]]
 file = "kubejs/client_scripts/src/rechiseled.js"
 hash = "439a69e2a42755551dc326a5e6ae0276f546f9855c791c2b1200091fffe3f881"
 
 [[files]]
 file = "kubejs/client_scripts/src/sgjourney.js"
-hash = "0727121c98e9b52de6d5d987585f7ac63cc6981c5f075730e9c0d2ccc43878ed"
+hash = "1c2571ffa9a76ac77b716d9cdb4cc47a6994d723c148cee24f6f8923367ff1da"
 
 [[files]]
 file = "kubejs/client_scripts/src/the_factory_must_grow.js"
@@ -418,11 +138,11 @@ hash = "ee0b856128deffb5f0efedfbb01c8700e2c309c98af66c2f33d3bbb9ebb51724"
 
 [[files]]
 file = "kubejs/client_scripts/src/thermal.js"
-hash = "354c2d20685a55ee2ffea9b48a62961ba15045bd239efddf25a20daccd77a285"
+hash = "502f5c5e61f9d5f3f796f21e6221b057e3c91a2a0568f70e09b49734fed8606a"
 
 [[files]]
 file = "kubejs/server_scripts/src/ad_astra.js"
-hash = "4accdefbbc2ea7758e05a33145b7def5b6b595e35e97b7328709357d6d7733d1"
+hash = "2ee4a138490d14c810a5ad8258b7077a1ff5202a9c0bb75b2f48baa421d85687"
 
 [[files]]
 file = "kubejs/server_scripts/src/advgenerators.js"
@@ -446,23 +166,127 @@ hash = "dcc5e963b3edaefdee1175ddc72a8c414ca2f160f72465e005c13eb782a676c1"
 
 [[files]]
 file = "kubejs/server_scripts/src/enderio.js"
-hash = "d24cd0432d4e178638cd799954d4c79bcd7a59fba0451df121b6254c824226a7"
+hash = "7097f64e2ebd1f7a8e751250fa203162d69c023b372c5fca28dbe8aeb67f6b99"
 
 [[files]]
 file = "kubejs/server_scripts/src/extended_crafting.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "404788357dab49c9fac316ffc25ceeb4afaaaf91ba7def969c3af1696ed4bec4"
+
+[[files]]
+file = "kubejs/server_scripts/src/fluids.js"
+hash = "039ceb8da0074d128ddb2ac9feff3cedce8013a2ad99853c1b84f615ec82cc5f"
 
 [[files]]
 file = "kubejs/server_scripts/src/functional_storage.js"
 hash = "2634006f013d4c2830d3d11fc20b717b998ff7c9782fc7f216c2e6985e20407d"
 
 [[files]]
+file = "kubejs/server_scripts/src/gear.js"
+hash = "bb5e628fb39217dd39bc31e6232b6e02712048e3b83012ff0337829bf388b2c2"
+
+[[files]]
 file = "kubejs/server_scripts/src/immersive_aircraft.js"
 hash = "9c02271805b7200f0aaada5abd9759a889cea31ff86c00f61b498f71454ed4b2"
 
 [[files]]
-file = "kubejs/server_scripts/src/kubejs.js"
-hash = "d58018b80543c9c354ffd384e30e760b935c265358efbab66804015e292df686"
+file = "kubejs/server_scripts/src/kubejs/bio.js"
+hash = "716541d4e0c61c9141a33474442f42414697f21d9804ede8f552c3fccfe1c2a8"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/boules.js"
+hash = "50a2504b8063c04f7b72534ea20582359635877c6dc877076daa29fa82185cdc"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/capacitors.js"
+hash = "2c3bbcabd519701377a7ce708935058369dac8781c6185a290de669ced337548"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/carbon.js"
+hash = "1314a1383cc2c1e248879d4753d8b6d0d67f0c089523438dde6bc7dd4c3a64ec"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/circuit_plates.js"
+hash = "e56d96e93457df97b8fb3ba8be38ce8b1cf743cb2eabfd361ff4cf5f2b978b47"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/compressed_cobblestone.js"
+hash = "57cf42f95c2be58e0301899dafc061dd7e950c7c75bbf902eac16b5eb358b2ca"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/diode.js"
+hash = "0140132b9353a68055d291d611fd2c6eaa0cb60321e0855e22607c129e7a40de"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/dusts.js"
+hash = "f67e317adad316e8ef8e060af0e8f5bd157232ea5beb3eddcd86643b69dfd887"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/ev.js"
+hash = "deb6a1a65142f01e2367e27eae7c6b0dc8a85264c8f0009d70ec4e0c739e4331"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/glass_tube.js"
+hash = "bac5f4e0fb1512cb9a65305e26abefe232659c8716173729fb9ee719ccee7f2a"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/hv.js"
+hash = "77993ed88a57464e9e27c75c37378c403029572e45c200ef5efdbee61b8de028"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/inductors.js"
+hash = "a6e0ded13bdf11e9decfba2bfee3f8a345d518016f5efb674d061fae920b8e74"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/lv.js"
+hash = "685917a167d29ae2c635a9f34e6bd7ae8bcf5c8d99da692fb0ea662399ad0fcf"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/molten.js"
+hash = "9abe0f8a8eda7109d6ed2ba6184fa657602dab84700fee782655a2a13bde7fc7"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/mv.js"
+hash = "7135e508e07097b104c3dd51352ebc5bb749092885b185a1819c2ff0424a4599"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/plates.js"
+hash = "42bc6f22a7a9aaa63c63b7df1b31d791b3fcc7bd81d3331c11aef7047a7c0d7b"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/polyethylene.js"
+hash = "8c87868d553181b391e256231d1690880d962d3750c62597a422fe258727e0f3"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/resistors.js"
+hash = "524487f52e1f39b2f64f60d256781aa754d0a783de155e2ac621ddf4e9e547c0"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/rubber_plate.js"
+hash = "67c40c460cbd27f1acce2746e0a5cfff97f1a0673cd8f5f9efc3501c50667cca"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/silicon.js"
+hash = "dabe638f1802209b770158c64957e34591865d9a0414f01712d594dce79efaa9"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/sticky_resin.js"
+hash = "2a2e01f91d2d7496cef412032f775881bf16f45f680d6cb3cd7a56515059ab23"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/tags.js"
+hash = "2e4e4f0d783638d732b7c77eb863665cb295f7dcea68b982bc7fcda552e1be5a"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/transistors.js"
+hash = "c0800fc186c3d7e47973975a2407c02f0ea670471efa93b3434c894d6352d439"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/wafers.js"
+hash = "f3171ab3ad792b1cc9e3995d3e1a3ed4b6958584d0e925020120f34a04bea004"
+
+[[files]]
+file = "kubejs/server_scripts/src/kubejs/wrought_iron.js"
+hash = "1fcb05777a0b71cda4a083411a6883feb7f08e19a2c0476c1579d55264bff487"
 
 [[files]]
 file = "kubejs/server_scripts/src/machines.js"
@@ -482,7 +306,7 @@ hash = "0148423a9f022b64218a6289b7c6faf50b917daa2fb7cfc1c5cb416652c64fda"
 
 [[files]]
 file = "kubejs/server_scripts/src/nuclear_craft.js"
-hash = "eabc7d07239953c6808f4d779d929c3d70cdc3ffdcdff15531026a103500f95c"
+hash = "bfa810c78646d83533ec8bef7aa0c0bec0653f5e71a06061f0b77b22e5358792"
 
 [[files]]
 file = "kubejs/server_scripts/src/sgjourney.js"
@@ -494,15 +318,95 @@ hash = "d288d2c3845d5fc4dce82d4cda06998f444e3ff493207e83955c479b4de034e7"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "11b79e177a02cac9e006df8f6bfdd92152d0b12dd30877159cd7dcc93e43f884"
+hash = "09089acb7fa912d39dcc000c628dfa3f233848999a9a7f4e085a09c2091220ed"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
-hash = "68bbd8ecf4723fb523e1aa6d2092a80ef73587c890e9cf04bfe6a3360f1bec10"
+hash = "d0c474e598e155daecad2b82992f895c0ab1f36368d2b01f39d45cdcba5adbb1"
 
 [[files]]
-file = "kubejs/startup_scripts/src/item_registry.js"
-hash = "5912b762656e25d3c6e884420d5f7e093443fcf6763fbe3e58d843a4541d3b2c"
+file = "kubejs/startup_scripts/src/coin.js"
+hash = "3c0d29b89f3f468cdf7f379583f9823d8eebea4a9efa244e8f2e6d8be04b4aa1"
+
+[[files]]
+file = "kubejs/startup_scripts/src/dust_registry.js"
+hash = "bd7711bf5f33b76610e2b00c816770ac1c87d0f4714e555268f8a76e2638b7b7"
+
+[[files]]
+file = "kubejs/startup_scripts/src/fluids.js"
+hash = "f2425c953ef355841eb79f55e5b474e654f4dcc601109ee8eca51c592fb2d83b"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg.js"
+hash = "0a49deb253da6d352f401047af31cf4223eb36a03f3429bcc488c29cd1efae72"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/bio.js"
+hash = "0d573ed88397ce8dc5e16826a2d93883245668901bc96b76c0a96cb14e676546"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/boards.js"
+hash = "9a05d5ded41a86905bf307e4f2315fabc669ea27228ad6c34c830aced1aecf1d"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/boules.js"
+hash = "9b92e564def11098d6ef84ae4da68df1f4688283c9b6c19affaf31e62b3e91cb"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/capacitors.js"
+hash = "8e1d68235d770282565715543c600fdd6f708f8b421e0c9d12755e0c797e0fe6"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/carbon.js"
+hash = "f8ece82573051c762438110eb931727b4dc8f85a5916dafc57bd01280a6d7088"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/chips.js"
+hash = "7d6e80de855b750e821c3fd35d96f51ae321a0a0a7ab709e4cd105ab4370c53f"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/diodes.js"
+hash = "3b28bd6b3c110ebcca35f0eb1561cd2f56c83d9c33e586ba48c78bf17b6bda52"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/foils.js"
+hash = "6a1d05cab22938b19aaee2d49a070d13d789c4b79e49eb7656a3e5c336c6dc3f"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/inductors.js"
+hash = "026b6d70bafb6b258bfa1daa8d3ee37662fe25e14d4b743ee674972d308e84e4"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/items.js"
+hash = "2c7579e8c32dcdc9605b54e74e6ded1a892e4311ce6c542a30065f04f945287a"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/resistors.js"
+hash = "bfab0d9298de54a00300f9e8b926455c3d517270dc5239a2b0fb169e23e4fa55"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/transistors.js"
+hash = "d6104250addcb9431459cce9d6cdc7ab4f01b9ce79273b43361d8f8f81f199b1"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/wafers.js"
+hash = "2993307693b0b3e50119bb7ac1cb3386a76568246600aeefffa567dfe651a9b6"
+
+[[files]]
+file = "kubejs/startup_scripts/src/ingot_registry.js"
+hash = "91f9f74e0d6189afdcf78ec24596a2648c06d408d07b59959eba4afb5e80735c"
+
+[[files]]
+file = "kubejs/startup_scripts/src/plate_registry.js"
+hash = "755c0c68593692445139628707df6bfa7cd550f14df4f64fd96f866a12344856"
+
+[[files]]
+file = "kubejs/startup_scripts/src/rod_registry.js"
+hash = "9f0260f3e7e64d19010d398426be9f44a004ef2c846e09dffe41f73d92e9f37e"
+
+[[files]]
+file = "kubejs/startup_scripts/src/wire_registry.js"
+hash = "484fca7efabd734daf051b04b495b53dfc2e3afae80cd72b59baa515d0dd2191"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"

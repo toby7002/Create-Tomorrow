@@ -4,3 +4,4 @@ scripts/
 .gitattributes
 *.zip
 jsconfig.json
+assets/
