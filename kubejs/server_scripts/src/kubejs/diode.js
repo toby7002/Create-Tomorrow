@@ -69,3 +69,12 @@ ServerEvents.recipes((event) => {
 		timeModifier: 1.0,
 	});
 });
+
+ServerEvents.tags("item", (e) => {
+	e.add("kubejs:diodes", [
+		"kubejs:advanced_smd_diode",
+		"kubejs:smd_diode",
+		"kubejs:diode",
+	]);
+});
+

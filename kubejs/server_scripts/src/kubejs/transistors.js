@@ -69,3 +69,11 @@ ServerEvents.recipes((event) => {
 		timeModifier: 1.0,
 	});
 });
+
+ServerEvents.tags("item", (e) => {
+	e.add("kubejs:transistors", [
+		"kubejs:advanced_smd_transistors",
+		"kubejs:smd_transistors",
+		"kubejs:transistors",
+	]);
+});

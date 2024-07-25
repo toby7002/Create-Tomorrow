@@ -69,3 +69,11 @@ ServerEvents.recipes((event) => {
 		timeModifier: 1.0,
 	});
 });
+
+ServerEvents.tags("item", (e) => {
+	e.add("kubejs:inductors", [
+		"kubejs:advanced_smd_inductor",
+		"kubejs:smd_inductor",
+		"kubejs:inductor",
+	]);
+});

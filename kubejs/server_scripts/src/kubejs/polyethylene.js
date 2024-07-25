@@ -20,4 +20,27 @@ ServerEvents.recipes((event) => {
 			},
 		],
 	});
+
+	event.custom({
+		type: "nuclearcraft:chemical_reactor",
+		inputFluids: [
+			{
+				amount: 144,
+				fluid: "mekanism:ethene",
+			},
+			{
+				amount: 1000,
+				fluid: "mekanism:oxygen",
+			},
+		],
+		outputFluids: [
+			{
+				amount: 216,
+				fluid: "kubejs:polyethylene",
+			},
+		],
+		powerModifier: 1.0,
+		radiation: 1.0,
+		timeModifier: 1.0,
+	});
 });

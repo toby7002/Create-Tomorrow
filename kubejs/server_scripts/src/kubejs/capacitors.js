@@ -91,3 +91,11 @@ ServerEvents.recipes((event) => {
 		timeModifier: 1.0,
 	});
 });
+
+ServerEvents.tags("item", (e) => {
+	e.add("kubejs:capacitors", [
+		"kubejs:advanced_smd_capacitor",
+		"kubejs:smd_capacitor",
+		"kubejs:capacitor",
+	]);
+});
