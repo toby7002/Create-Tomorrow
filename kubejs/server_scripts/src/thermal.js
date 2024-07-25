@@ -138,10 +138,6 @@ ServerEvents.recipes((event) => {
 		output: "thermal:cured_rubber",
 	});
 	event.smoking("thermal:cured_rubber", "thermal:rubber");
-	event.recipes.create.pressing(
-		"kubejs:rubber_plate",
-		"thermal:cured_rubber"
-	);
 	// Update energy cell frame
 	event.remove({
 		output: "thermal:energy_cell_frame",
@@ -324,7 +320,7 @@ ServerEvents.recipes((event) => {
 			"thermal:silver_ingot",
 			"10x minecraft:redstone",
 		])
-		.heated();
+		.superheated();
 	// Lumium
 	event.remove({
 		output: "thermal:lumium_ingot",

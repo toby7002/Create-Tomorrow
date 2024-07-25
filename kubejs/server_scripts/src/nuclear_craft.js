@@ -5,6 +5,11 @@ ServerEvents.recipes((event) => {
 		}
 	);
 
+	// Disable fuels
+	event.remove({ output: "#forge:isotopes" });
+	event.remove({ output: "#nuclearcraft:reactor_fuel" });
+	event.remove({ output: /.*heat_sink/ });
+
 	event.shaped("4x nuclearcraft:plate_basic", ["xyx", "yoy", "xyx"], {
 		x: "createdeco:iron_sheet_metal",
 		y: "thermal:lead_plate",

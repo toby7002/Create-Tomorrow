@@ -2,7 +2,6 @@ REIEvents.hide("item", (event) => {
 	// Remove items
 	[
 		"stirling_generator",
-		"primitive_alloy_smelter",
 		"silicon",
 		"flour",
 		"powdered_cobalt",
@@ -15,7 +14,6 @@ REIEvents.hide("item", (event) => {
 		"glider_wing",
 		"cake_base",
 		"clayed_glowstone",
-		"alloy_smelter",
 		"sag_mill",
 		"fluid_tank",
 		"pressurized_fluid_tank",

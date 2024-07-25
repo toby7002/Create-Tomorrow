@@ -42,7 +42,7 @@ hash = "38409a3f217f4a7f2b62e2b1552cadc709d476241fa6c2d01989abf1e553296b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "f302de8d2de95a4c5e1694a13ce548653844ce20fa251b952400c5f600413d0e"
+hash = "83f56882c9802e5ecfa21ac19bbd82e3f21ee4dd99c1fd6708d86a8ffa6d459e"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -386,7 +386,7 @@ hash = "a115145849fb3605a869f0f3f9779eadc6aa326d9d2396e0a4defedb0c722adf"
 
 [[files]]
 file = "kubejs/client_scripts/src/enderio.js"
-hash = "903595d008c87bf05ac84195676af1c98aaf8d0ecffbef8a660ddf96b44478cf"
+hash = "4cf9c06c49a4580955fabc59227467b3961f42817829a9a1b5cde42678f9d475"
 
 [[files]]
 file = "kubejs/client_scripts/src/functional_storage.js"
@@ -407,6 +407,10 @@ hash = "fe7ef9ff2d27e2a7e11ec3d8a8ee6f00b1e4d881c0ecbda7872dd1cea5e09562"
 [[files]]
 file = "kubejs/client_scripts/src/rechiseled.js"
 hash = "439a69e2a42755551dc326a5e6ae0276f546f9855c791c2b1200091fffe3f881"
+
+[[files]]
+file = "kubejs/client_scripts/src/sgjourney.js"
+hash = "0727121c98e9b52de6d5d987585f7ac63cc6981c5f075730e9c0d2ccc43878ed"
 
 [[files]]
 file = "kubejs/client_scripts/src/the_factory_must_grow.js"
@@ -442,7 +446,7 @@ hash = "dcc5e963b3edaefdee1175ddc72a8c414ca2f160f72465e005c13eb782a676c1"
 
 [[files]]
 file = "kubejs/server_scripts/src/enderio.js"
-hash = "1fddad8de178c7d58e8d35d780a843f3cf83ac4247b1d57cb90e0406205ad358"
+hash = "d24cd0432d4e178638cd799954d4c79bcd7a59fba0451df121b6254c824226a7"
 
 [[files]]
 file = "kubejs/server_scripts/src/extended_crafting.js"
@@ -481,12 +485,16 @@ file = "kubejs/server_scripts/src/nuclear_craft.js"
 hash = "eabc7d07239953c6808f4d779d929c3d70cdc3ffdcdff15531026a103500f95c"
 
 [[files]]
+file = "kubejs/server_scripts/src/sgjourney.js"
+hash = "c6743babb2ae2c4501f89a609d72a046169ca773a4184dae927425686d4f810e"
+
+[[files]]
 file = "kubejs/server_scripts/src/the_factory_must_grow.js"
 hash = "d288d2c3845d5fc4dce82d4cda06998f444e3ff493207e83955c479b4de034e7"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal.js"
-hash = "4a62d0a1d2e556c709edc1f4bb2d6b71562306e1c050682e3a4e87bf74dad4c0"
+hash = "11b79e177a02cac9e006df8f6bfdd92152d0b12dd30877159cd7dcc93e43f884"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
@@ -857,11 +865,6 @@ hash = "24b328f34c26d660882099dbd017c1b4deb0c395fc3e526a36ac415b12058245"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-thermal.pw.toml"
-hash = "d53245adba35fc8fb414f232321a284da8edd03e5ea5ec8ab2001eba14d25f1f"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -1114,11 +1117,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
 metafile = true
 
 [[files]]

@@ -2,7 +2,6 @@ ServerEvents.recipes((event) => {
 	// Remove items
 	[
 		"stirling_generator",
-		"primitive_alloy_smelter",
 		"silicon",
 		"flour",
 		"powdered_cobalt",
@@ -15,21 +14,17 @@ ServerEvents.recipes((event) => {
 		"glider_wing",
 		"cake_base",
 		"clayed_glowstone",
-		"alloy_smelter",
 		"sag_mill",
 		"fluid_tank",
 		"pressurized_fluid_tank",
 		"drain",
 		"crafter",
+		"primitive_alloy_smelter",
+		"alloy_smelter",
 	].forEach((item) => {
 		event.remove({
 			output: `enderio:${item}`,
 		});
-	});
-
-	// Remove primitive alloy
-	event.remove({
-		type: "enderio:alloy_smelting",
 	});
 	// Add recipe for alloy
 	event.recipes.create
@@ -103,4 +98,19 @@ ServerEvents.recipes((event) => {
 		"enderio:photovoltaic_plate",
 		"mekanismgenerators:solar_panel"
 	);
+	// Primitive alloy smelter
+	event.shaped("enderio:primitive_alloy_smelter", ["xxx", "yzy", "aba"], {
+		x: "mekanism:ingot_steel",
+		y: "minecraft:furnace",
+		z: "enderio:void_chassis",
+		a: "thermal:iron_gear",
+		b: "bucket",
+	});
+	// Alloy smelter
+	event.shaped("enderio:alloy_smelter", ["axa", "aba", "aca"], {
+		a: "air",
+		x: "enderio:primitive_alloy_smelter",
+		b: "enderio:ensouled_chassis",
+		c: "enderio:dark_bimetal_gear",
+	});
 });
