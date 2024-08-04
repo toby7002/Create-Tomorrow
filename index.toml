@@ -17,6 +17,18 @@ file = "config/almostunified/unify.json"
 hash = "603fd7ec1222c173d70448f06b8ff45fb3ddb0e9fb93c2653ee4554ab621808c"
 
 [[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "b7fdab3226720f96dfbc664858e9fc2164f5828dba11463ad7d1b3289ec548f7"
+
+[[files]]
+file = "config/fancymenu/assets/main_menu_music.ogg"
+hash = "c566033af1fd6410b4c86ae2351570d6f72e8214fb026be142a37a2d30c052cd"
+
+[[files]]
+file = "config/fancymenu/assets/splash_texts.txt"
+hash = "3014f4ed3e46a63ba85d51678c3a679db16fb6a1fafad066e1d7e7ee6858e948"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -87,6 +99,598 @@ hash = "bdb93833fb0406da02f19152c71259e5ae44eedd6cdcfbcdcae3910259666195"
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
 hash = "cf521156711faa734557d7ed3acb27e2ea2757e604dd0e0359554230a2fea4c9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
+hash = "507169d574aa5cfbbea82ee70061c32b8dfacfc84fba6ad57526bb9db4f51c11"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
+hash = "8baa0b7f9951fa63b16db16f2e4052c22a9c917a89ec396e213583719fe17179"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/octuple_compressed_cobblestone.png"
+hash = "a607fd962b46478c18dca8ece8244d9085eb9844df45b4cd08b62599445c0956"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png"
+hash = "5696b9fcbbc65a931ef7a7ba7d087ab358a5b3e5919374fc3ffa6e92c342138c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png"
+hash = "089bdc98017a3fe1f67d3e31f4c8d63f5349748e63dffad11459f4bfacf0a11e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/septuple_compressed_cobblestone.png"
+hash = "5ec80560cc8478e68bbab147d47307e0edb83eabb11d0cf013975c0093c04a24"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/sextuple_compressed_cobblestone.png"
+hash = "33a9fbfad748139a15710bc8a05bfaacf2cfca607ac8d02630c32b52abcf4253"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/silicon_block.png"
+hash = "411f7af76ee5877b0349bafafad4e52cc7fdecded5db2323d7f2ad27021f5e3a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/steel_casing.png"
+hash = "4b337276213ee0c4e8fd5f838c35f237c1414fbb5bc9c58c7957b28cdb720157"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
+hash = "00ce1af9afe1299c4530d8d83a7ab24143fc40c7d3d285b71a28c6035de729bb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_computer.png"
+hash = "3209cc5d6dbd17445436e9e5e946377715883af6e21b23dbe9481dde7a541b7c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_core.png"
+hash = "ea681d79670d32d6900a4afd578c5724995c037da160c9483ed0a68ecab16884"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_core.png.mcmeta"
+hash = "7e2213aed684faf03dc845a30a3e7c3d65d320a7b3ad0ce277e8e60544b43b2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_processor.png"
+hash = "3b24ce020fba02a12d1abaeadce42809d373288365c90f305f2251567cd2ab3c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/advanced_soc.png"
+hash = "5044c89a9b25bfa43af3fb3bcbca3d3deaa40c60c1abb85e0d7207150e5ccba1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/aluminum_ingot.png"
+hash = "53d25007958e54181e452b45aa1f7399273ab29fc79bf93f93381bbfb0d28777"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_computer.png"
+hash = "0d56337cba05743a348545370015ef29464fa640df25b93d29c32cf3f001e0be"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_core.png"
+hash = "ba9d8fc2da717d9b6acba5c26fe1601c2aad33eca3507e766b1f41dd12be215a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_core.png.mcmeta"
+hash = "a34bda0031e3c2bb56f62b5d61b1f9eccf70f0782ea94679b04b1d0208649845"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_processor.png"
+hash = "ad811fc31b64609e26d6751eede113790e1d26f70af5897f5359bea2f048c3b0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_soc.png"
+hash = "0cfaff88c6e184ccdadd0817999d1907a9c305b698e757ff5575e62a772fde0c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bio_chaff.png"
+hash = "77cd3f700ac371d3e16edd437796adf2891eb8dcebde3ffea210d273fe35cb8b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/brick_dust.png"
+hash = "01c6ee7637a5fff81e89ef12fa229d18c0060c577e3bd393859aa29cb8bfff9a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calorite_dust.png"
+hash = "342205cd287b3aa1f25aaf44664b35ab8cc235cb163d54bd17f51feac40df02b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calorite_rod.png"
+hash = "bbc514a952d7c2a6697ed69ec04f83c7b29264c6c9be4b99c43f6a46b58085b6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calorite_wire.png"
+hash = "cdb83c5f7da4753a61d1d7fa2fb4833d107d689530c0ea6355a33d5f54d56cbd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/carbon_fiber_mesh.png"
+hash = "e4bb8e7f0d87a87f4a976593a61fad4f83e8387e19070637808b730f773ee5dc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/carbon_fiber_plate.png"
+hash = "ac95bd0d158c0d22b188f9a465c551e2944f43ebc2c7c91d37fe10dd2b56e1ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/carbon_fibers.png"
+hash = "90bddf67fdbca431bcd38d3d6ac939e14016ea896357250137d317d82a023ef8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/clay_dust.png"
+hash = "d34e1736e138be52d299a52aacd1ae7a913b52e7a95b9991bfec32718b711b47"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/coin.png"
+hash = "4f82b4bd0851f6c322454978198c2d0b5819e55a1dc09e50b534b4515689a0e9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/desh_dust.png"
+hash = "9c3334b9a61519ac3457623dd923206fbae129a00ac33d358be7f2e570ca0833"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/desh_rod.png"
+hash = "d11d49f9fe8c9ff8dbec627c3d95d380f1592afcd497d6cac04b31be03cdacd5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/desh_wire.png"
+hash = "28bbbf8c19ae0e7fd66904079378540c6a076185d321d9ae479e944b18ead140"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dust.png"
+hash = "596cc9cc347a29664258ae430cd2a42b3c3dc890b3e2cf1fc1510c24505acce3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_computer.png"
+hash = "a08ca01e5147cd0156f0deebf79702b6f64cc2932b1262d6c88d905ca15b09cb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_core.png"
+hash = "c5198b405b9b816778e3fd3d37d4422a468c63f4966a8864e0469357728cddb9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_core.png.mcmeta"
+hash = "daa8c454058c3019089cb506b0bab485868c9ce74b1ee3e1dbcd64eaa5d019ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_processor.png"
+hash = "64b9962685cb752c1cbb9b8511e981a4fd10d95a5885d1d5a400f07f9811a36f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_processor.png.mcmeta"
+hash = "441b6b8a78e4a5ba61f1036f9be934f4125531ad91355948f0d3a26d1a960753"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_soc.png"
+hash = "c587118482674f2cd5544927ace882a72cab71ff52cdcd3cc41dcd391ed86b25"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elite_soc.png.mcmeta"
+hash = "1f263bd1df7218d84592f736e1dcacaff39faa9acfb1186cf0cfe1a14d5acd9b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/epoxy_circuit_board.png"
+hash = "72013018e09b49018cb548e66cc617b4fc2e693c2fcb9e82f0a537c8c953ca60"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/epoxy_printed_circuit_board.png"
+hash = "29c2efff0f70bae75744349017d2a0ec4487fba2840964182803af33ecdaf623"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/fiber_reinforced_circuit_board.png"
+hash = "1610461bb31734a5ec67c80dc043a8d5a080fb9d49233609e0c8a70847a566eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/fiber_reinforced_printed_circuit_board.png"
+hash = "1a2a0cc19a5fb89dd6b51ab4211613925cc08de01f54ea811d756664ab3a38fb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/multilayer_fiber_reinforced_circuit_board.png"
+hash = "090a865d0fb3dfbd02e1a0ba48b01502eec3ee8cebc8c92cd6aa89a2a355b49e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/multilayer_fiber_reinforced_printed_circuit_board.png"
+hash = "2de4e5697efffc0ea88fa2197e7bfdc6b4a5575f87d507eb24eaf4fbe8c9fe8c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/phenolic_circuit_board.png"
+hash = "44f199f49e633a4ab89f6e378ccff35ce98de358b69bd419e33143475597d415"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/phenolic_printed_circuit_board.png"
+hash = "3d9747e3e0123958ddc7237e6948ec02996c3b3dc5689cd6b83ffb12f6cb00d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/plastic_circuit_board.png"
+hash = "edc8a5d1bad9bd3adb2ad8d7754e0cebe27164b4ac164e4ffefaf8420425f372"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/plastic_printed_circuit_board.png"
+hash = "dd6dd41fa2ae517b47fb64021e3c83e6fb7b3f00ceac60ea4cf98aa5a664b080"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/resin_circuit_board.png"
+hash = "61f1954e3e2f1112275078c4a173b2e7ed42500ee66bdab73ce392b498eb91d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/resin_printed_circuit_board.png"
+hash = "fbcc09d6c38afdbf5e7d3afca632a360515d1151c2a4682280158528aa97a954"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/wetware_circuit_board.png"
+hash = "2a0fdede960546c589bf905c7b80b75a8ccfedb36150cb030ec1ff675efabf87"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boards/wetware_printed_circuit_board.png"
+hash = "85faad9f1c1ed72c998441bfb976ec70e9311baecbb954feeaf760b82e3b2677"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boules/calorite_boule.png"
+hash = "eadb2075843af6f676c43f8f9c9727a20171c93f1c54857ae353538835291f9e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boules/desh_boule.png"
+hash = "520fe468c356e156214d20e4be1601f3ac099d9f283e80692cbc0cff066587e8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boules/ostrum_boule.png"
+hash = "831a17e85394c74b872ff0eedad4ea9a1e4ca47c01afdc4d7b60999d359fb67e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/boules/silicon_boule.png"
+hash = "efab2f0bcc9964f6aa53cd4d95bfd39a9559290f1a90975a20bdb40dd371a460"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/capacitors/advanced_smd_capacitor.png"
+hash = "7c3c8e788dde9b548ddfa89f26a60c14a4b50fed145708a1e5352ca99f597e71"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/capacitors/capacitor.png"
+hash = "d84eeaaf34d76c59148da70613bcfd20c11afde393f597fa849bd8491b280299"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/capacitors/smd_capacitor.png"
+hash = "2c9822947cc0d6b05ecba24096620431277762bba34ba35d2a9a9a4c3bdcfe6d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/cpu_chip.png"
+hash = "9bb4bee886e5ad9711172d9e8d52c1ff4bf729991065bdc1a18e730f2df3fee8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/hpic_chip.png"
+hash = "57c7fe0023155a47dc92c6114dba9603850949177944e35198107135aaaffe54"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/ilc_chip.png"
+hash = "eaac965cb575139643631389b12fc600445d80f8af83fe945a4b90e3695311cd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/lpic_chip.png"
+hash = "02e1e0a08739e354680bb74e8cc36442ab49718f964175da431f1b583855ca62"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/mpic_chip.png"
+hash = "8b7a77145ce30b7350502c3d84fc046823ac2049505581bf043a8d9e2f215fb1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/nand_chip.png"
+hash = "822d3b78c4b009ae2fc802f49cc9914161c442e3cd7cc5d7387c77e66e8a2463"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/nand_memory_chip.png"
+hash = "3c086d208f19ef32062ec9f0056b03bf6ad8cc715abb7eed36ff9239415decb9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/nano_cpu_chip.png"
+hash = "17d4af3490ab4d388bc261d8ba38d917e8f2faf44ea194925751a2c7d0120130"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/nor_memory_chip.png"
+hash = "dbadad62bbc77aef3519f266fc0f06bee033e2d7ca1634975be2b6df2a094ae1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/qbit_cpu_chip.png"
+hash = "369e1111b386c2246be7f0205da7e7679fcbdbc268645eba92bc6403ed2e52f3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/ram_chip.png"
+hash = "93c53de2ec089ef8a3a29dda74fad7057ece4f039b2bff6aef328f78b36ecc4b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/uhpic_chip.png"
+hash = "d6d522541ff9647c947ad0a04efae28acec70839172d1fe2c9446080913b3cd7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/chips/ulpic_chip.png"
+hash = "61151dfa808929972d940849cfe1598e04c38850fe84ededafcfc04a89c75830"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/diodes/advanced_smd_diode.png"
+hash = "6d848c07fd6a3ab80b6439530d250715be1cc0492b2709f2f330799ee3f744ed"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/diodes/diode.png"
+hash = "43aa31279f9d6eab6c7d66d4aeeebdd56acf2c965e00ec9c38db601dbab84177"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/diodes/smd_diode.png"
+hash = "28623ef7d150b4c459103c184fa5055a6775766dd7b9d4a2011888509a503acf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/aluminum_foil.png"
+hash = "5800751c176f1cdf37a6d82091fbec9298bb3a8a35d31654cabd7d39ca1621dd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/calorite_foil.png"
+hash = "b0688f897c28cda328743c1160750da3f9ff08699e52da1a10f993e399937e93"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/copper_foil.png"
+hash = "bb8358a70f69cfc8b534269d9df9ef418a340d65a9db2538305d79d451aa2161"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/desh_foil.png"
+hash = "bf8f810e7eb554b2ac88d03813fc888eaec8db9d4280fc27d56701356e63e51b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/gold_foil.png"
+hash = "6ca147999ee8779f014823cec57bd6e382c9f5a62bd2f77c599fe406321ae024"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/ostrum_foil.png"
+hash = "488b6c0522cdbbbe421c98c9ef2f998cd46cdf26d94be670e613d64b0da08036"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/signalum_foil.png"
+hash = "e7b839ad8b90eeb52a0caf096015274bd0ac105f66d5ee1c21efdadda52fc079"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/foils/silver_foil.png"
+hash = "b50a1092f8eda9c785107e3870eb54ebea69a46285cad0267d7b24bb90137617"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/glass_tube.png"
+hash = "50198c761af9a4bc6753d2613bf8afd00b910efa4385f4c5f1f0d0cb466f1c32"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/inductors/advanced_smd_inductor.png"
+hash = "d5be0650422a3636a5034684bc4f5d26960268e5830dff1c3c0009c86b667011"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/inductors/inductor.png"
+hash = "795f1d15dfecc4e34eff49177f73d78de38454829b52bb97091853a4a613b07b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/inductors/smd_inductor.png"
+hash = "a75fdbf251cdc8902ff39802d065884cfcd0d19e36bb694eee719738713907c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/resistors/advanced_smd_resistor.png"
+hash = "2a59911ec3fdb8494f01c346d3d9b45b7433b4c536f9d3472133cd849c3b6dab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/resistors/resistor.png"
+hash = "452f8241b1c738314cebba21fc734875d04a0c153c2ca8beac9a03c5760b8f50"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/resistors/smd_resistor.png"
+hash = "b30b952441d5c0149709a5362fe53e8f46b81c81ea41d297ce6b0ea7256bde6c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/sticky_resin.png"
+hash = "319f10764d88ac941b2d1240a2e8814637184ccf89fdf096423a4c2d56bd4f4c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/transistors/advanced_smd_transistor.png"
+hash = "d5b74f396baf84b657adf00bdd2afe48b8b0b69681c267427ba9ad0bc6e78740"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/transistors/smd_transistor.png"
+hash = "fb8bf66f35847a5c36b00cd0af51879d1bc91e40ecb0fed47d28291c02ba8161"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/transistors/transistor.png"
+hash = "d0f6ae4b15d9d39c0f581c3d2066ff0ec05e780536958f173b710c8da8ff017a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/vacuum_tube.png"
+hash = "567f320a9bf334339cc9586252213e5c434039c7ed3fd50b4d7e5986dbca0765"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/vacuum_tube.png.mcmeta"
+hash = "e377210474b8abb2feb23e453d765dc54294d68d980e2c5ef90d137c0b1b1ac6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/advanced_soc_wafer.png"
+hash = "76208b2a7c1505ef467c30b24dd6e5379c2c241d6f01390565cdf3665038402e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/calorite_wafer.png"
+hash = "0904e7d3812a23c053a8fc948de75c76b51b539eb30cdc585d965adc01d94b4a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/cpu_wafer.png"
+hash = "f5f350e101d141014991e5416daf75a122a583ecfee569934811925f6611f65c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/desh_wafer.png"
+hash = "d2d6579ffe1f3f59b191ff9229c4e9a8ce9b2934ee79814290572c1de27818cc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/highly_advanced_soc_wafer.png"
+hash = "374b9de070b3967bc7d578a8d167c0cf2474fc741817dfd77c01b231ed417b3e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/hpic_wafer.png"
+hash = "29b76621443eebd878faa793efa6a4fdd082bfe2977e89e969d46cc4acfa3a3a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/ilc_wafer.png"
+hash = "03b2cb22fc67d21df22d62c0b44569bbd5fd22807a8d5f1ef031faddc0c8dbbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/lpic_wafer.png"
+hash = "267a01e49189fa647a2765dd1042197e882d0907886f6885b79700de23fc4458"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/mpic_wafer.png"
+hash = "c0f2f2010df3646824a71b57afe544e2fb38470dc84a4389092f8962e23f59ca"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/nand_memory_wafer.png"
+hash = "769b83a67de6078b88538129f695c7c5facc8548369ce2479341d109bb5e37b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/nano_cpu_wafer.png"
+hash = "aaed81285d9d9d015b8d31901566b9e813f68cd2d7a62a1c73450a84236a1ef7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/nor_memory_wafer.png"
+hash = "1c509806188c16de20be5c236fb7cd2ba5d246876de57e69edfedeeda5f4fb4a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/ostrum_wafer.png"
+hash = "0314092eacd9b5b32c6a2601e96b7ce188dfd634dac92d340ff10700622249f1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/qbit_cpu_wafer.png"
+hash = "a5f56816c190b317a35a209c9257d62553ef734fed4f6651dcf2873d1e696915"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/ram_wafer.png"
+hash = "f140a1d43c0d60cbc87a1d09b2597f1d9cd7fef8eb29307b31d375e3c0bdf7a1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/silicon_wafer.png"
+hash = "3a9b3d8a3650e2eaa5bd417b3e20b81d298c24432e95ef63d25d7f3d75febe8a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/simple_soc_wafer.png"
+hash = "22ec48c3ff69ef645bae22be5f29b155c1d2ad7fa7d0451a9f6199caf1e58058"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/soc_wafer.png"
+hash = "49b91eead481d583a102950b85e26df4c21cf68cafe34a42f6c211cdff552cbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/uhpic_wafer.png"
+hash = "ec6ba4e6048e56e387813c80be0137432d98820146164e87cb5470f5249ba3fd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/wafers/ulpic_wafer.png"
+hash = "504062639c600e4c0125db01f748404399e62eab7cb2da92425bf5bae5d125b7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/neuro_processing_unit.png"
+hash = "76881c25ed487d2b09f12c6749571347a26001db9201be519a9ff5f1ec03392c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/neuro_processing_unit.png.mcmeta"
+hash = "af0b6281eb841dce6cc48ad0a9f9ef58c6feaef61440ffbeeaa7ce6b437cf3fd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ostrum_dust.png"
+hash = "580270b4af7e4c7d2b27390c2c8219af8e10ea2c8ced8655dc259b453a6afc75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ostrum_rod.png"
+hash = "f2db2dfbde7e4840a7258ba940cdbaabe638357132b438e718a1c367b7dfdf09"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ostrum_wire.png"
+hash = "0eb5b8609b32f4e9449d6a01e613de3f3e85f04736aaf5baa8dc8fad2637163d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plant_ball.png"
+hash = "9603b5b0f24c2bad7ac1564feac6413ae1cd3471d88a4ffa14b81f4ec3883a03"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/polyethylene_ingot.png"
+hash = "421a9947f346c33be08f610f3a36bda9b7a6adafcd0a0f5f81f648d7c04fee9f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/polyethylene_plate.png"
+hash = "c13e561eb075285a4b4e88f3bc0f74556215284f64bbe99de1f71beab5d400e3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_computer.png"
+hash = "b75295970482c183ed5ecfb044e267b81c7a1a20284677d9fd97382c4ed08727"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_core.png"
+hash = "9d9eca90a9b2c31eaa1823e5dd06e5a5db65d28966388deec20db4644e8f6914"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_core.png.mcmeta"
+hash = "d3bbcbcff53b0e3307138a8ee9812df698823e97ced515e2b03015b678e2bc4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_processor.png"
+hash = "2e2d06a4d8b700c69ab72d0eee13e34e63ef268a5f5085ae246f193c4a54788b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/quantum_soc.png"
+hash = "626b657de97d2f34acf7ac64e3a20f072783d3ba88c55b61cb6eee18b4b4325d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rubber_plate.png"
+hash = "0565e8a702f0196375454fdc4d5aaf536267c1863f60cf7065699c81c4d5d5ab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silicon_dust.png"
+hash = "24722657c183c9b1c0feaabd2284ca10d406df2599072430093c9223da81dd08"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/stem_cell.png"
+hash = "0b767ed91b10cf1334d6746201638588a053e8348ed82338ab20bf66991fcf47"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png"
+hash = "cace184053ca188d0c97b0ae4b988b697a19adb00bcddeb10bf9fb39d4fb8027"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_computer.png.mcmeta"
+hash = "f6dd0d2e54b016f022c7fd6745825e08065b4699e88eea0d65b98d950146686d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_core.png"
+hash = "6d991dce2b0c55f1c27b2c2bf2c8eea2e54ec03530ab330ba21c0f919f4a6197"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_core.png.mcmeta"
+hash = "a3453db2f13f6743ef5c08ca955593c531b02433d28645e90a39513ae5b4f741"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png"
+hash = "44303b3d7b24217570034fc4e6c40689691e8b5d3c3297bcdd537cec85b2b2ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_processor.png.mcmeta"
+hash = "86bfa2531b669d4f249278e9f35a7f55d2d45540ca36f503107af07bd1fae0f1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png"
+hash = "7bcf2f6b4a7a71534e47ac1c7cf041e4020241148493f2c1982da03af9f926f1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ultimate_soc.png.mcmeta"
+hash = "0d81a8feb03b276867a0e8e49acb6c76202b11cd1f7257752cd2c3ff512e0a3a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/wood_plate.png"
+hash = "8767094f9017f3fe2df0e4edce01f12235f0e2a14549b505fa72bb2a9c71dd59"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/wrought_iron_ingot.png"
+hash = "214c119eacb9fff14ecf385727f2f016ee8c17008363a6abd6713c8c2327a3c9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/wrought_iron_plate.png"
+hash = "7cbb0f5da835032f91057ae96b5559a165844a627bebf906b04524d3f31c80f1"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "kubejs/client_scripts/src/advgenerators.js"
