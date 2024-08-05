@@ -465,6 +465,70 @@ file = "kubejs/assets/kubejs/textures/item/greg/inductors/smd_inductor.png"
 hash = "a75fdbf251cdc8902ff39802d065884cfcd0d19e36bb694eee719738713907c5"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/black_glass_lens.png"
+hash = "e71f74004522f21eb5e6163a888ba4279bdcf76df2708d8e40789ae0b1dffc3b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/blue_glass_lens.png"
+hash = "b91e9614a550d4f40a948dd99a746f6437a3935bfc6a30d3222d81ea1a2c8631"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/brown_glass_lens.png"
+hash = "2b0efb2a9590f557b9b1860dd2635c8e0b700f0f8925fd1428744497985777bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/cyan_glass_lens.png"
+hash = "990b2c17901755d2ddbdbbfa3a151f3212b0423bced77e0a47d81ce2af122898"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/gray_glass_lens.png"
+hash = "6e7e059345e81171a58115771936f8a4da909e7f91efa17e52b01531fa6d54aa"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/green_glass_lens.png"
+hash = "b6dd69106ead17762dfae06cb4d265de6db8a314ee56c6a9b8570d2cb8ea9e5d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/lens.png"
+hash = "4a22b873e76b48414a51167ed3efd4687c851932df0bdc78158a61d7c619fba2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/light_blue_glass_lens.png"
+hash = "1982f9c76ed523872027c428e7c372006848aaca8984eb7dd8438d0fe2fc9c71"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/light_gray_glass_lens.png"
+hash = "8407f978aad77e919232f1d8c0d5b5bbbfd021a0c742b022545e77b0aaf27c1d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/lime_glass_lens.png"
+hash = "db416e7e33a83f6bfc92e46d8ae778fcfabbb81623fa5bce44e0a62f5a6df533"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/magenta_glass_lens.png"
+hash = "46419ec621e8e575cde2f48c8260fecfd512450a185aa9cec3ed973eee08408c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/orange_glass_lens.png"
+hash = "6f30f330037f8a8cc3295b8f3af8fd921e47e3864b43ed61b1f619a17b37e1db"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/pink_glass_lens.png"
+hash = "38812894afbc6525f3a8c7698ad4a39d78d8099540976d7dec97307f773a8b27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/purple_glass_lens.png"
+hash = "c65519d3b1598292b3df1b6e7b96bd36be9428e31def238034f47c9944336ea3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/red_glass_lens.png"
+hash = "f6d4809e2e559eb8a364dbdef1df7387097b7ae9a3f67abe796d1ca7bb995cb1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/greg/lens/yellow_glass_lens.png"
+hash = "5573844a999fdb56f2016d4de3b9e3fa0f43e44276b555d26f887ce8326d397e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/greg/resistors/advanced_smd_resistor.png"
 hash = "2a59911ec3fdb8494f01c346d3d9b45b7433b4c536f9d3472133cd849c3b6dab"
 
@@ -841,6 +905,10 @@ file = "kubejs/server_scripts/src/kubejs/inductors.js"
 hash = "a6e0ded13bdf11e9decfba2bfee3f8a345d518016f5efb674d061fae920b8e74"
 
 [[files]]
+file = "kubejs/server_scripts/src/kubejs/len.js"
+hash = "d507768b76cea92dba43548397fedd6aff02399bcd66f6324f282e92144ade7e"
+
+[[files]]
 file = "kubejs/server_scripts/src/kubejs/lv.js"
 hash = "685917a167d29ae2c635a9f34e6bd7ae8bcf5c8d99da692fb0ea662399ad0fcf"
 
@@ -983,6 +1051,10 @@ hash = "026b6d70bafb6b258bfa1daa8d3ee37662fe25e14d4b743ee674972d308e84e4"
 [[files]]
 file = "kubejs/startup_scripts/src/greg/items.js"
 hash = "2c7579e8c32dcdc9605b54e74e6ded1a892e4311ce6c542a30065f04f945287a"
+
+[[files]]
+file = "kubejs/startup_scripts/src/greg/lens.js"
+hash = "d84661d18cf219bb43470f0fb072709c913e322de990862e2b2daa2aac35f0f2"
 
 [[files]]
 file = "kubejs/startup_scripts/src/greg/resistors.js"
