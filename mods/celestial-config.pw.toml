@@ -1,0 +1,13 @@
+name = "Sun and Moon Celestial Configuration"
+filename = "Celestial Configuration-forge-1.20.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5tEOKu9/versions/rn4DX5DA/Celestial%20Configuration-forge-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "58c787fefd1038cc1a4214b91545d515ee551ced"
+
+[update]
+[update.modrinth]
+mod-id = "C5tEOKu9"
+version = "rn4DX5DA"

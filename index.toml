@@ -17,6 +17,10 @@ file = "config/almostunified/unify.json"
 hash = "603fd7ec1222c173d70448f06b8ff45fb3ddb0e9fb93c2653ee4554ab621808c"
 
 [[files]]
+file = "config/celesteconfig-client.toml"
+hash = "d1dd3df202dcb94aa83bea61d56338e78a413847f07360cee9fddab5d030c5e1"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 hash = "b7fdab3226720f96dfbc664858e9fc2164f5828dba11463ad7d1b3289ec548f7"
 
@@ -101,12 +105,32 @@ file = "config/roughlyenoughitems/favorites.json5"
 hash = "cf521156711faa734557d7ed3acb27e2ea2757e604dd0e0359554230a2fea4c9"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/clean_stainless_steel_machine_casing.png"
+hash = "52de0430dbe7a58daed34dfcb405519d66d20b33152bc0d1d9d07c6d98cd4ffa"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
 hash = "507169d574aa5cfbbea82ee70061c32b8dfacfc84fba6ad57526bb9db4f51c11"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
 hash = "8baa0b7f9951fa63b16db16f2e4052c22a9c917a89ec396e213583719fe17179"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/greg/circuit_assembler/overlay_front_active.png"
+hash = "fc85bc29bbdea667b948aebf0ee27a48f5e34c456f2ded43fabee3bb09d51924"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/greg/circuit_assembler/overlay_front_active.png.mcmeta"
+hash = "45aa5e7cf4cf8b62592b0e566b61fa0174c881cbf31228cdf349c286206715e3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/greg/laser_engraver/overlay_front_active.png"
+hash = "5fa453a552a956b33b5bea3082194a05bf5cbd48bf3925fee7d5f1b6b8ca4b75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/greg/laser_engraver/overlay_front_active.png.mcmeta"
+hash = "4c00162fed7df9ed3f7763338d9a3197a90bba2aeb47cbe34812b9aaa4ae8c95"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/octuple_compressed_cobblestone.png"
@@ -753,6 +777,18 @@ file = "kubejs/assets/kubejs/textures/item/wrought_iron_plate.png"
 hash = "7cbb0f5da835032f91057ae96b5559a165844a627bebf906b04524d3f31c80f1"
 
 [[files]]
+file = "kubejs/assets/mm/models/block/circuit_assembler_controller.json"
+hash = "8379448e4ff5713444135e491bc7364f2d42170f5012ab14f14ebba5b8af0411"
+
+[[files]]
+file = "kubejs/assets/mm/models/block/laser_engraver_controller.json"
+hash = "6202247c61a3644b2d6cc812a1a31f1f6a2672766083eb65831de86b83fbc369"
+
+[[files]]
+file = "kubejs/assets/mm/textures/block/base_block.png"
+hash = "52de0430dbe7a58daed34dfcb405519d66d20b33152bc0d1d9d07c6d98cd4ffa"
+
+[[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -994,7 +1030,7 @@ hash = "09089acb7fa912d39dcc000c628dfa3f233848999a9a7f4e085a09c2091220ed"
 
 [[files]]
 file = "kubejs/startup_scripts/src/block_registry.js"
-hash = "d0c474e598e155daecad2b82992f895c0ab1f36368d2b01f39d45cdcba5adbb1"
+hash = "b509fd4f9c741cbbc8589d27f818cc29a0ed856866314cfbd326e6af57583050"
 
 [[files]]
 file = "kubejs/startup_scripts/src/coin.js"
@@ -1071,6 +1107,18 @@ hash = "2993307693b0b3e50119bb7ac1cb3386a76568246600aeefffa567dfe651a9b6"
 [[files]]
 file = "kubejs/startup_scripts/src/ingot_registry.js"
 hash = "91f9f74e0d6189afdcf78ec24596a2648c06d408d07b59959eba4afb5e80735c"
+
+[[files]]
+file = "kubejs/startup_scripts/src/multiblock/circuit_assembler.js"
+hash = "99530cbc05053c9ee4c3c51056989b5654511dc0ab7c4fd53b9dcaaa958d9133"
+
+[[files]]
+file = "kubejs/startup_scripts/src/multiblock/laser_engraver.js"
+hash = "35413ec076347fca3ab47377e68b9ec65befc26fc1a518cf644b9015cf2091e5"
+
+[[files]]
+file = "kubejs/startup_scripts/src/multiblock/ports.js"
+hash = "5b46a68f0bd6c19c414c9719d49f2d393c3017a3921a8cc7c7237ef10f0f7b9f"
 
 [[files]]
 file = "kubejs/startup_scripts/src/plate_registry.js"
@@ -1160,6 +1208,11 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "5f58c33c989fcd74930522db023d903afe33505d08df754cb5a6e063b713a9c6"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
 metafile = true
@@ -1182,6 +1235,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
+metafile = true
+
+[[files]]
+file = "mods/celestial-config.pw.toml"
+hash = "8eeca8c4da7a4f078177f76b4372106c8fe967e6435220e0bffa895be4635ccf"
 metafile = true
 
 [[files]]
