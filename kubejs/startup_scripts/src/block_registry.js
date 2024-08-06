@@ -88,4 +88,14 @@ StartupEvents.registry("block", (event) => {
 		.requiresTool(true)
 		.tagBlock("mineable/pickaxe")
 		.tagBlock("minecraft:needs_stone_tool");
+
+	event
+		.create("clean_stainless_steel_machine_casing")
+		.displayName("Clean Stainless Steel Machine Casing")
+		.material("stone")
+		.hardness(1)
+		.resistance(0)
+		.requiresTool(true)
+		.tagBlock("mineable/pickaxe")
+		.tagBlock("minecraft:needs_iron_tool");
 });
