@@ -1663,11 +1663,6 @@ hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
 metafile = true
@@ -1784,7 +1779,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eb3fdd3088c6982ef5b9c1e3a5ed8ffbd1dad16522ea62c1e0cc7b1c0639ce67"
+hash = "535651210f7685d566e910c2f0294d6be3b5bd305e1403c463133cd7013b28a7"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
